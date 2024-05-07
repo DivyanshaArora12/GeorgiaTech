@@ -1,0 +1,2506 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ THlJnDsPTEt0cMyFB9hQlXNghk7a9haPJ8IUwooLe/7EZ2LYADqCrG+TpsHhojeE
+ OOUKtc05IdqU6oRAXDRW+A==
+
+<SEC-DOCUMENT>0000104169-97-000003.txt : 19970423
+<SEC-HEADER>0000104169-97-000003.hdr.sgml : 19970423
+ACCESSION NUMBER:		0000104169-97-000003
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19970131
+FILED AS OF DATE:		19970421
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		97584381
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+                              
+                                 FORM 10-K
+                    SECURITIES AND EXCHANGE COMMISSION
+                          Washington, D.C.  20549
+                                     
+
+[X]   Annual  report  pursuant to section 13 or  15(d)  of  the  Securities
+Exchange Act of 1934 for the fiscal year ended January 31, 1997, or
+[ ]  Transition report pursuant to section 13 or 15(d) of the Securities
+     Exchange Act of 1934
+     Commission file number 1-6991.
+                                     
+                           WAL-MART STORES, INC.
+          (Exact name of registrant as specified in its charter)
+                                     
+          Delaware                              71-0415188
+ (State or other jurisdiction of              (IRS Employer
+  incorporation or organization)             Identification No.)
+
+     Bentonville, Arkansas                        72716
+(Address of principal executive offices)        (Zip Code)
+
+Registrant's telephone number, including area code:  (501) 273-4000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                             Name of each exchange
+          Title of each class                 on which registered
+
+     Common Stock, par value $.10            New York Stock Exchange
+     per share                               Pacific Stock Exchange
+                                             Toronto Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:  None
+
+      Indicate  by  check mark whether the registrant  (1)  has  filed  all
+reports  required  to  be filed by Section 13 or 15(d)  of  the  Securities
+Exchange  Act  of 1934 during the preceding 12 months (or for such  shorter
+period that the registrant was required to file such reports), and (2)  has
+been subject to such filing requirements for at least the past 90 days.
+Yes   X        No
+
+      Indicate by check mark if disclosure of delinquent filers pursuant to
+Item  405  of  Regulation  S-K is not contained herein,  and  will  not  be
+contained,  to the best of registrant's knowledge, in definitive  proxy  or
+information statements incorporated by reference in Part III of  this  Form
+10-K or any amendment to this Form 10-K.  [ ]
+
+      The aggregate market value of the voting stock held by non-affiliates
+of  the  registrant, based on the closing price of these shares on the  New
+York  Stock  Exchange  on  March 31, 1997, was  $37,486,838,461.   For  the
+purposes  of  this  disclosure only, the registrant has  assumed  that  its
+directors,  executive officers and beneficial owners of 5% or more  of  the
+registrant's common stock are the affiliates of the registrant.
+
+     The registrant had 2,265,535,740 shares of Common Stock outstanding as
+of March 31, 1997.
+
+                    DOCUMENTS INCORPORATED BY REFERENCE
+
+
+      Portions  of the Registrant's Annual Report to Shareholders  for  the
+fiscal  year  ended  January 31, 1997, are incorporated by  reference  into
+Parts I and II of this Form 10-K.
+
+     Portions of the Registrant's Proxy Statement for the Annual Meeting of
+Shareholders  to be held June 6, 1997, are incorporated by  reference  into
+Part III of this Form 10-K.
+
+
+
+                 FORWARD-LOOKING STATEMENTS OR INFORMATION
+                                     
+This  Form  10-K  includes certain statements that  may  be  deemed  to  be
+"forward-looking  statements" within the meaning of the Private  Securities
+Litigation  Reform Act of 1995. Statements in this Form 10-K which  address
+activities,  events or developments that the Company expects or anticipates
+will  or  may occur in the future, including such things as future  capital
+expenditures (including the amount and nature thereof), expansion and other
+development  trends  of industry segments in which the Company  is  active,
+business  strategy,  expansion and growth of  the  Company's  business  and
+operations and other such matters are forward-looking statements.  Although
+the  Company  believes  the expectations expressed in such  forward-looking
+statements  are based on reasonable assumptions within the  bounds  of  its
+knowledge  of its business, a number of factors could cause actual  results
+to   differ   materially  from  those  expressed  in  any   forward-looking
+statements,  whether oral or written, made by or on behalf of the  Company.
+Many  of  these  factors  have previously been  identified  in  filings  or
+statements made by or on behalf of the Company.
+
+All phases of the Company's operations are subject to influences outside
+its control. Any one, or a combination, of these factors could materially
+affect the results of the Company's operations. These factors include:
+competitive pressures, inflation, consumer debt levels, currency exchange
+fluctuations, trade restrictions, changes in tariff and freight rates,
+interest rate fluctuations and other capital market conditions. Forward-
+looking statements made by or on behalf of the Company are based on a
+knowledge of its business and the environment in which it operates, but
+because of the factors listed above, actual results may differ from those
+in the forward-looking statements. Consequently, all of the forward-looking
+statements made are qualified by these cautionary statements and there can
+be no assurance that the actual results or developments anticipated by the
+Company will be realized or, even if substantially realized, that they will
+have the expected consequences to or effects on the Company or its business
+or operations.
+
+                           WAL-MART STORES, INC.
+                          FORM 10-K ANNUAL REPORT
+                    FOR THE YEAR ENDED JANUARY 31, 1997
+                                     
+                                  PART I
+                                     
+ITEM 1.   BUSINESS
+
+          (a)  General Development of Business
+
+                Wal-Mart  Stores,  Inc.  (together  with  its  subsidiaries
+hereinafter  referred  to as the "Company") is America's  largest  retailer
+measured by total revenues.  During the fiscal year ended January 31, 1997,
+the  Company  had  net  sales  of  $104,859,000,000.   The  Company  serves
+customers  primarily  through the operation of  Wal-Mart  stores  (discount
+department  stores), Sam's Clubs (warehouse membership clubs) and  Wal-Mart
+Supercenters  (combination full-line supermarket  and  discount  department
+stores).  Domestically, at January 31, 1997, the Company operated 1,960 Wal-
+Mart  stores,  436  Sam's Clubs, and 344 Wal-Mart  Supercenters.   A  table
+summarizing  information concerning domestic Wal-Mart stores, Sam's  Clubs,
+Wal-Mart Supercenters and other stores operated since January 31,  1992  is
+set forth in Schedule A to Item I found on page 9 of this annual report.
+
+                In fiscal 1992, the Company entered into a joint venture in
+which  it has a 50% interest with CIFRA S.A. de C.V. to develop and  expand
+retailing  services  in  Mexico.   This was  the  beginning  of  Wal-Mart's
+initiative  outside  of the United States.  Today,  our  joint  venture  is
+Mexico's largest retailer.  At January 31, 1997, the joint venture operated
+28 warehouse clubs and 18 Wal-Mart Supercenters, along with 106 CIFRA joint
+venture units throughout Mexico.
+
+                In  fiscal  1993, the Company entered Puerto  Rico  and  at
+January 31, 1997, operated seven Wal-Mart stores and four Sam's Clubs.
+
+                In  fiscal  1995, the Company acquired 122 Canadian  Woolco
+department  stores from Woolworth Canada, Inc., a subsidiary  of  Woolworth
+Corporation.   The acquisition included all inventory, leasehold  interests
+and  other  assets  at each location.  Today Wal-Mart is  Canada's  leading
+discount  retailer.  At January 31, 1997, the Company operated 136 Canadian
+Wal-Mart stores.
+
+                In  fiscal 1996, the Company entered Brazil through a joint
+venture  in  which it has a 60% interest with Lojas Americanas. At  January
+31,  1997,  the joint venture operated two Wal-Mart Supercenters and  three
+warehouse clubs in the greater-Sao Paulo area.
+
+                Also  in fiscal 1996, the Company entered Argentina and  at
+January  31, 1997, operated three Wal-Mart Supercenters and three warehouse
+clubs in the greater-Buenos Aires region.
+
+               In fiscal 1997, the Company entered the People's Republic of
+China.  At  January 31, 1997, the Company operated one Wal-Mart Supercenter
+along  with joint-venture partner Shenzhen International Trust & Investment
+Company  and one warehouse club along with joint-venture partner,  Shenzhen
+Economic Zone Development Company.
+
+                In  fiscal  1997, the Company entered Indonesia  through  a
+franchise  agreement. At January 31, 1997, Wal-Mart operated  two  Wal-Mart
+Supercenters in the Jakarta area.
+
+                A  table  summarizing information concerning  international
+units operated since fiscal 1992 is set forth in Schedule B to Item 1 found
+on page 10 of this annual report.
+
+
+          (b)  Financial Information About Industry Segments
+
+                Sales  of merchandise through stores which include Wal-Mart
+stores,  Sam's  Clubs  and Wal-Mart Supercenters is  the  only  significant
+industry segment of which the Company is a part.  For the financial results
+of  the Company's operations, see the information incorporated by reference
+in Item 7 and Item 8 of Part II found on page 14 of this annual report.
+
+
+          (c)  Narrative Description of Business
+
+                The  Company,  a  Delaware corporation, has  its  principal
+offices in Bentonville, Arkansas.  Although the Company was incorporated in
+October  1969, the businesses conducted by its predecessors began  in  1945
+when  Sam  M.  Walton  opened  a franchise Ben Franklin  variety  store  in
+Newport, Arkansas.  In 1946, his brother, James L. Walton, opened a similar
+store  in  Versailles,  Missouri.  Until 1962, the Company's  business  was
+devoted  entirely to the operation of variety stores.  In  that  year,  the
+first  Wal-Mart  Discount  City was opened.  In fiscal  1984,  the  Company
+opened  its first three Sam's Clubs, and in fiscal 1988, its first Wal-Mart
+Supercenter.   Through  the years, the Company has made  certain  strategic
+acquisitions  that have supported the growth of the Wal-Mart stores,  clubs
+and  Supercenters;  such as the acquisition of ten  full-service  and  four
+specialty distribution centers through the purchase of McLane Company, Inc.
+which  sells and distributes merchandise to the convenience store  industry
+and  a  variety of other retailers; the acquisition of selected  assets  of
+Pace  Membership  Warehouse, Inc. and the acquisition  of  selected  assets
+related  to  122  Canadian  Woolco stores from Woolworth  Canada,  Inc.,  a
+subsidiary of Woolworth Corporation.
+
+           General.  The Company operates Wal-Mart stores in all 50 states.
+The  average  size of a Wal-Mart store is approximately 92,600 square  feet
+with  store sizes generally ranging between 30,000 and 150,000 square  feet
+of  building area.  The Company operates Wal-Mart Supercenter stores in  23
+states, and the average size of a Supercenter store is 183,300 square feet.
+
+           The Company operates Sam's Clubs in 48 states.  The average size
+of  a  Sam's  Club  is approximately 121,200 square feet,  and  club  sizes
+generally range between 90,000 and 150,000 square feet of building area.
+
+           The  Company operates Wal-Mart stores, Sam's Clubs and  Wal-Mart
+Supercenters in Argentina, Canada and Puerto Rico, and under joint  venture
+or franchise agreements in Brazil, China, Indonesia and Mexico.
+
+           During  the  last fiscal year, no single store or club  location
+accounted for as much as 1% of sales or net income.
+
+           Merchandise.   Wal-Mart stores are generally organized  with  40
+departments and offer a wide variety of merchandise, including apparel  for
+women,  girls,  men, boys and infants.  Each store also  carries  curtains,
+fabrics  and  notions,  candy,  stationery and  books,  shoes,  housewares,
+hardware,  electronics,  home  furnishings,  small  appliances,  automotive
+accessories,  horticulture and accessories, sporting goods,  toys,  cameras
+and supplies, health and beauty aids, pharmaceuticals and jewelry.
+
+           Nationally  advertised merchandise accounts for  a  majority  of
+sales  in  the stores.  The Company markets lines of merchandise under  the
+store  brands  "Sam's  American  Choice",  "Great  Value",  "Ol'  Roy"  and
+"Equate".   The  Company also markets lines of merchandise  under  licensed
+brands; some of which include "Faded Glory", "Kathie Lee", "Better Homes  &
+Gardens", "White Stag", "McKids", "Popular Mechanics" and "Catalina".
+
+           During the fiscal year ended January 31, 1997, domestic sales of
+general  merchandise at Wal-Mart stores and Supercenters (which are subject
+to  seasonal variance), including licensed departments, by product category
+were as follows:
+
+
+                                              PERCENTAGE
+          CATEGORY                             OF SALES
+
+          Softgoods/domestics..............        25%
+          Hardgoods........................        25
+          Stationery and candy.............        11
+          Pharmaceuticals..................        10
+          Records and electronics..........         9
+          Sporting goods and toys..........         8
+          Health and beauty aids...........         8
+          Shoes............................         2
+          Jewelry..........................         2
+                                                  100%
+
+
+           Sales in pharmaceuticals are a combination of owned and licensed
+departments.    While   these  percentages  include   sales   of   licensed
+departments,  the  Company  records only  the  rentals  received  from  the
+licensee as other income.
+
+           Sam's  offers bulk displays of name brand hardgood  merchandise,
+some  softgoods  and  institutional size grocery items.   Each  Sam's  also
+carries  jewelry, sporting goods, toys, tires, stationery and books.   Most
+clubs have fresh food departments which include bakery, meat and produce.
+
+          McLane offers a wide variety of grocery and non-grocery products,
+including  perishable  and non-perishable items.  The non-grocery  products
+consist  primarily  of tobacco products, hardgood merchandise,  health  and
+beauty  aids, toys and stationery.  McLane is a wholesale distributor  that
+sells  its  merchandise to a variety of retailers, including the  Company's
+Wal-Mart stores, Supercenters and Sam's Clubs.
+
+           Operations.   Except for extended hours during  certain  holiday
+seasons,  the  majority of the Wal-Mart stores are open from 9:00  a.m.  to
+9:00  p.m.  six days a week, and from 12:30 p.m. to 5:30 p.m.  on  Sundays,
+with  the  remainder of the stores being closed on Sunday.   An  increasing
+number of Wal-Mart stores and almost all of the Supercenter stores are open
+24  hours each day.  Wal-Mart stores maintain uniform prices, except  where
+lower  prices are necessary to meet local competition.  Sales are primarily
+on  a  self-service, cash-and-carry basis with the objective of  maximizing
+sales volume and inventory turnover while minimizing expenses.  Bank credit
+card  programs, operated without recourse to the Company, are available  in
+all stores.  During the year, the Company launched a co-branded credit card
+program  through Chase Manhattan Bank.  This card is also operated  without
+recourse  to  the  Company.  Wal-Mart stores and  Supercenters  maintain  a
+"satisfaction  guaranteed"  program  to  promote  customer   goodwill   and
+acceptance.
+
+           Sam's  Clubs  are  membership only,  cash-and-carry  operations.
+However,  a  financial  service  credit card  program  (Discover  Card)  is
+available  in  all clubs and the "Sam's Direct" commercial finance  program
+and  "Business  Revolving  Credit"  are available  to  qualifying  business
+members.  Also, a "Personal Credit" program is available to qualifying club
+members.   Any credit issued under these programs are without  recourse  to
+the Company.  Club members include businesses and those individuals who are
+members  of certain qualifying organizations, such as government and  state
+employees  and credit union members.  Both business and individual  members
+have an annual membership fee of $25 for the primary membership card.
+
+           Operating  hours vary among Sam's Clubs, but they are  generally
+open  Monday  through Friday from 10:00 a.m. to 8:30 p.m.  Most  Sam's  are
+open Saturday from 9:30 a.m. to 8:30 p.m. and on Sunday from 11:00 a.m.  to
+6:00 p.m.
+
+           Distribution.  During the 1997 fiscal year, approximately 84% of
+the  Wal-Mart  stores' and Supercenters' purchases were shipped  from  Wal-
+Mart's  34  distribution centers, five located in both Arkansas and  Texas;
+two  in  California,  Florida, Indiana, Mississippi,  New  York  and  South
+Carolina;  and  one  each  in  Alabama, Colorado,  Georgia,  Iowa,  Kansas,
+Kentucky,  New Hampshire, Ohio, Pennsylvania, Utah, Virginia and Wisconsin.
+The  balance  was  shipped  directly to the stores  from  suppliers.   Each
+distribution  center  is  designed  to  serve  the  distribution  needs  of
+approximately 80 to 140 stores, depending on the size of the  center.   The
+size  of  these distribution centers ranges from approximately  700,000  to
+1,600,000  square  feet.   Sam's  Clubs  receive  the  majority  of   their
+merchandise  via  direct  shipment from  suppliers  rather  than  from  the
+Company's distribution centers.
+
+            The  McLane  distribution  centers  buy,  sell  and  distribute
+merchandise,  primarily  to the convenience store industry  and  they  also
+service  Wal-Mart stores, Supercenters and Sam's Clubs.  The McLane Company
+has  19 distribution centers with two located in Arizona, California, Texas
+and  Virginia,  and  one  each  in Colorado,  Florida,  Georgia,  Illinois,
+Kentucky,  Mississippi,  Missouri,  New  York,  North  Carolina,  Utah  and
+Washington.
+
+           Merchandising.   Substantially all purchasing and  merchandising
+for  all  stores is controlled from the home offices of the Company through
+centralized buying and planning practices.  During the fiscal year 1997, no
+single supplier accounted for more than 4.6% of the Company's purchases.
+
+           Store  Management.  Every retail outlet is managed  by  a  store
+manager  or  club general manager and one or more assistant store  or  club
+managers.  The  Company  is  committed to  ongoing  training  programs  for
+managers, assistant managers and department managers in an effort to assure
+well trained future store management.
+
+           Fiscal 1998 Expansion Plans. Domestically, the Company plans  to
+open   approximately   50  new  Wal-Mart  stores  and   100   Supercenters.
+Approximately  70  of  the new Supercenters will come from  relocations  or
+expansions  of  existing Wal-Mart stores.  The Company also plans  to  open
+five  to  ten  new Sam's Clubs and four distribution centers. International
+expansion  includes  30 to 35 new Wal-Mart stores, Supercenters  and  Sam's
+Clubs  in  Argentina, Brazil, Canada, China, Indonesia, Mexico  and  Puerto
+Rico.  The Company expenses its start-up costs for each new unit during the
+first  full  month  of operation.  Delays may be experienced  in  projected
+opening  dates because of construction problems, weather and other reasons.
+There can be no assurance that planned expansion will proceed as scheduled.
+
+           Seasonal  Aspects  of  Operations.  The  Company's  business  is
+seasonal  to  a  certain extent.  Generally, the highest  volume  of  sales
+occurs in the fourth fiscal quarter and the lowest volume occurs during the
+first fiscal quarter.
+
+           Competition.  The Company's Wal-Mart stores compete  with  other
+discount, department, drug, variety and specialty stores, many of which are
+national chains.  Sam's Clubs compete with wholesale clubs, as well as with
+discount  retailers, wholesale grocers and general merchandise  wholesalers
+and distributors.  The Wal-Mart Supercenters compete with other supercenter-
+type  stores, discount stores, supermarkets and specialty stores,  many  of
+which are national or regional chains.  The Company also competes with  the
+other  stores  for new store sites.  As of January 31, 1997, based  on  net
+sales,  the  Company ranked first among all retail department store  chains
+and among all discount department store chains.
+
+          The Company's competitive position within the industry is largely
+determined by its ability to offer value and service to its customers.  The
+Company  has  many programs designed to meet the competitive needs  of  its
+industry.   These  include the "Everyday Low Price", "Item  Merchandising",
+"Store-Within-a-Store", "Our Business is Saving Your  Business  Money"  and
+"Buy  America" programs.  Although the Company believes it has had a  major
+influence  in  most of the retail markets in which its stores are  located,
+there is no assurance that this will continue.
+
+           Employees (Associates).  As of January 31, 1997, the Company had
+approximately  728,000  associates, an  increase  of  approximately  53,000
+associates  for  the  year.   Part-time  associates  are  primarily   sales
+personnel.  Most associates participate in incentive programs which provide
+the  opportunity to receive addition compensation based upon the  Company's
+productivity or profitability.
+
+          The Company maintains profit sharing plans under which most full-
+and  many part-time associates participate following one year of employment
+with the Company.  Annual contributions, based on the profitability of  the
+Company,  are made at the sole discretion of the Company.  For  the  fiscal
+years  ended  January  31, 1992 through 1997, the Company  has  contributed
+approximately   $130,000,000,  $166,000,000,  $166,000,000,   $175,000,000,
+$204,000,000 and $247,000,000, respectively.
+
+           The  Company also offers an associate stock ownership plan  that
+provides  for the voluntary purchase of the Company's common stock  with  a
+15% match by the Company on up to $1,800 of annual stock purchases.
+
+The  Company  also  has stock option plans that provide certain  management
+associates an opportunity to share in the long-term success of the Company.
+At  January  31, 1997, approximately 7,000 management associates  had  been
+awarded stock options by the Company.
+
+<TABLE>
+                     WAL-MART STORES, INC. AND SUBSIDIARIES
+    SCHEDULE A TO ITEM 1 - DOMESTIC STORE COUNT AND NET SQUARE FOOTAGE GROWTH
+                    YEARS ENDED JANUARY 31, 1992 THROUGH 1997
+                                        
+<CAPTION>
+STORE COUNT
+Fiscal Year                                                         Wal-Mart
+ Ended            Wal-Mart Stores              Sam's Clubs       Supercenters           Total*3)      
+                                                                                                   Ending
+Jan 31, Opened Closed Conversions*1) Total  Opened Closed Total  Opened Total   Opened*2) Closed  Balance
+<S>        <C>     <C>      <C>      <C>     <C>     <C>    <C>    <C>    <C>       <C>      <C>    <C>       
+   Balance Forward                   1,568                  148             9                       1,725
+ 1992      148     1         1       1,714    61      1     208      1     10       209       2     1,932
+ 1993      159     1        24       1,848    48      0     256     24     34       207       1     2,138
+ 1994      141     2        37       1,950   162      1     417     38     72       304       3     2,439
+ 1995      109     5        69       1,985    21     12     426     75    147       136      17     2,558
+ 1996       92     2        80       1,995     9      2     433     92    239       113       4     2,667
+ 1997       59     2        92       1,960     9      6     436    105    344        81       8     2,740
+</TABLE>
+<TABLE>
+<CAPTION>
+NET SQUARE FOOTAGE
+ Fiscal Year
+  Ended      Wal-Mart Stores              Sam's Clubs       Wal-Mart Supercenters              Total           Sales Per
+  Jan 31, Net Additions   Total    Net Additions   Total    Net Additions   Total    Net Additions   Sq. Ft.   Sq.Ft.*4)
+<S>      <C>         <C>           <C>         <C>          <C>         <C>          <C>         <C>           <C>     
+Balance Forward      110,385,973               15,938,838                1,733,701               128,058,512 
+  1992   17,729,395  128,115,368    7,320,510  23,259,348      180,545   1,914,246   25,230,450  153,288,962   $ 306.33
+  1993   19,251,060  147,366,428    7,444,530  30,703,878    4,037,493   5,951,739   30,733,083  184,022,045     325.86
+  1994   16,185,442  163,551,870   19,670,804  50,374,682    6,762,080  12,713,819   42,618,326  226,640,371     324.42
+  1995   10,109,978  173,661,848    1,335,742  51,710,424   14,087,725  26,801,544   25,533,445  252,173,816     336.10
+  1996    8,188,223  181,850,071      825,020  52,535,444   16,791,559  43,593,103   25,804,802  277,978,618     335.13
+  1997   (  193,017) 181,657,054      298,692  52,834,136   19,661,947  63,255,050   19,767,622  297,746,240     337.35
+</TABLE>
+[FN]
+<F1>
+*1)  Wal-Mart store locations relocated or expanded as Wal-Mart Supercenters.
+<F2>
+*2)  Total Opened net of conversions of Wal-Mart stores to Supercenters.
+<F>
+*3)  The Company also operated 63 Bud's Discount City units at January 31, 1997.
+     These units are not included in the above store counts
+     or square footage totals.
+<F4>
+*4)  Includes only stores and clubs that were open at least twelve months as of
+     January 31 of the previous year.
+
+<TABLE>
+                     WAL-MART STORES, INC. AND SUBSIDIARIES
+ SCHEDULE B TO ITEM 1 - INTERNATIONAL STORE COUNT AND NET SQUARE FOOTAGE GROWTH
+                    YEARS ENDED JANUARY 31, 1992 THROUGH 1997
+                                     
+<CAPTION>
+STORE COUNT
+Fiscal         MEXICO                  CANADA           PUERTO RICO              ARGENTINA            
+Year     Wal-Mart    Sam's         Wal-Mart         Wal-Mart  Sam's            Wal-Mart    Sam's       
+Ended  Supercenters  Clubs  Total*   Stores  Total    Stores   Clubs  Total   Supercenters  Clubs  Total 
+<S>         <C>       <C>     <C>     <C>     <C>       <C>     <C>     <C>          <C>     <C>     <C> 
+1992         0         2       2        0       0        0       0       0            0       0       0   
+1993         0         3       3        0       0        2       0       2            0       0       0  
+1994         2         7       9        0       0        3       2       5            0       0       0  
+1995        11        22      33      123     123        5       2       7            0       0       0 
+1996        13        28      41      131     131        7       4      11            1       2       3  
+1997        18        28      46      136     136        7       4      11            3       3       6 
+
+
+Fiscal           BRAZIL                     INDONESIA                CHINA
+Year     Wal-Mart    Sam's             Wal-Mart                Wal-Mart    Sam's
+Ended  Supercenters  Clubs  Total    Supercenters   Total    Supercenters  Clubs  Total
+            <C>       <C>     <C>         <C>         <C>         <C>       <C>     <C> 
+1992         0         0       0           0           0           0         0       0   
+1993         0         0       0           0           0           0         0       0
+1994         0         0       0           0           0           0         0       0
+1995         0         0       0           0           0           0         0       0
+1996         2         3       5           0           0           0         0       0 
+1997         2         3       5           2           2           1         1       2
+</TABLE>
+
+<TABLE>
+<CAPTION>
+NET SQUARE FOOTAGE
+Fiscal          MEXICO                   CANADA                  PUERTO RICO              ARGENTINA               
+Year
+Ended  Net Additions   Total*    Net Additions    Total    Net Additions    Total    Net Additions    Total 
+<S>     <C>         <C>          <C>         <C>              <C>       <C>             <C>       <C> 
+1992      162,535     162,535             0           0             0           0             0           0  
+1993      143,000     305,535             0           0       229,647     229,647             0           0  
+1994      946,717   1,252,252             0           0       339,260     568,907             0           0 
+1995    3,537,080   4,789,332    14,651,969  14,651,969       266,279     835,186             0           0  
+1996    1,091,123   5,880,455       872,446  15,524,415       478,848   1,314,034       438,787     438,787 
+1997    1,032,603   6,913,058       572,803  16,097,218             0   1,314,034       625,369   1,064,156 
+
+Fiscal         BRAZIL                  INDONESIA                    CHINA
+Year
+Ended  New Additions    Total    Net Additions    Total    Net Additions    Total   
+          <C>         <C>           <C>         <C>           <C>         <C> 
+1992            0           0             0           0             0           0   
+1993            0           0             0           0             0           0
+1994            0           0             0           0             0           0
+1995            0           0             0           0             0           0
+1996      772,221     772,221             0           0             0           0
+1997            0     772,221       360,503     360,503       316,656     316,656
+</TABLE>
+[FN]
+*  Through a joint venture, the Company also operated 25 discount stores, four
+combination stores, three supermarkets, seven specialty department stores and 67
+restaurants as of January 31, 1997.  These units are not included in the above
+store counts or square footage totals.
+
+ITEM 2.   PROPERTIES
+
+            The  number  and  location  of  Wal-Mart  stores,  Supercenters  and
+Sam's  Clubs  is  incorporated  by reference to  the  table  under  the  caption
+"Fiscal  1997  End  of  Year Store Counts" on Page 19 of the  Annual  Report  to
+Shareholders for the year ended January 31, 1997.
+
+            The  Company  owns  1,232  properties  on  which  domestic  Wal-Mart
+stores  and  Supercenters  are  located and  280  of  the  properties  on  which
+domestic  Sam's  are  located.   In  some  cases,  the  Company  owns  the  land
+associated  with  leased  buildings.   New buildings,  both  leased  and  owned,
+are constructed by independent contractors.
+
+           The  remaining  buildings  in which its present  stores  are  located
+are  either  leased  from a commercial property developer,  leased  pursuant  to
+a  sale/leaseback  arrangement  or  leased  from  a  local  governmental  entity
+through   an  industrial  revenue  bond  transaction.   All  of  the   Company's
+leases  for  its  stores provide for fixed annual rentals and,  in  many  cases,
+the leases provide for additional rent based on sales volume.
+
+           The  Company  operated  34 Wal-Mart distribution  facilities  and  19
+McLane   distribution  facilities  at  January  31,  1997.   These  distribution
+facilities  are  primarily  owned by the Company, and  several  are  subject  to
+mortgage  securing  loans.   Some  of  the distribution  facilities  are  leased
+under  industrial  development  bond  financing  arrangements  and  provide  the
+option  of  purchasing  these  facilities at the  end  of  the  lease  term  for
+nominal amounts.
+
+           The  Company  leases  properties on which  Canadian  Wal-Mart  stores
+are   located.   The  Company  owns  four  properties  on  which   Puerto   Rico
+operating  units  are  located  with  the remaining  units  being  leased.   The
+Company  owns  properties  on which the operating units  in  Argentina,  Brazil,
+China and Mexico are located.
+
+           The  Company  owns  office facilities in Bentonville,  Arkansas  that
+serve  as  the  home  office and owns additional office  facilities  in  Temple,
+Texas.
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+            The   Company  is  not  a  party  to  any  material  pending   legal
+proceedings  and  no  properties of the Company  are  subject  to  any  material
+pending  legal  proceeding,  other than routine  litigation  incidental  to  its
+business.
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+           No  matters  were  submitted  to a vote  of  the  Company's  security
+holders during the last quarter of the year ended January 31, 1997.
+
+ITEM 4A.  EXECUTIVE OFFICERS OF THE REGISTRANT
+
+           The  following  information is furnished  with  respect  to  each  of
+the  executive  officers  of  the  Company, each  of  whom  is  elected  by  and
+serves  at  the  pleasure  of the Board of Directors.  The  business  experience
+shown  for  each  officer has been his principal occupation  for  at  least  the
+past five years.
+
+                                                        Current
+                                                        Position
+     Name             Business Experience              Held Since     Age
+
+
+David D. Glass        President and Chief Executive       1988         61
+                      Officer.
+
+S. Robson Walton      Chairman. From 1985 until his       1992         52
+                      election as Chairman in 1992,
+                      he served as Vice Chairman.
+
+Donald G. Soderquist  Vice Chairman and Chief Operating   1988         63
+                      Officer.
+
+Paul R. Carter        Executive Vice President -          1995         56
+                      Wal-Mart Stores, Inc. and
+                      President - Wal-Mart Realty
+                      Company.  Prior to 1995, he
+                      served as Executive Vice
+                      President and Chief Financial
+                      Officer.
+
+Thomas M. Coughlin    Executive Vice President -          1995         48
+                      Store Operations.  Prior to
+                      1995, he served as Senior Vice
+                      President - Specialty Divisions.
+
+David Dible           Executive Vice President            1995         49
+                      Specialty Divisions.  Prior to
+                      1995, he served as Senior Vice
+                      President - Merchandising.
+
+Joseph S. Hardin, Jr. Executive Vice President -          1995         52
+                      Wal-Mart Stores, Inc. and
+                      President and Chief Executive
+                      Officer of Sam's Club Division.
+                      Prior to October 1995, he served
+                      as Executive Vice President -
+                      Wal-Mart Stores, Inc. and Chief
+                      Operating Officer of Wal-Mart
+                      Stores Division.  Prior to January
+                      1995, he served as President and
+                      Chief Executive Officer of McLane
+                      Company, Inc.  Prior to 1993, he
+                      served as Executive Vice President -
+                      Logistics and Personnel Adminis-
+                      tration. Mr. Hardin announced his
+                      intention to leave the Company in
+                      April, 1997.
+
+Bob L. Martin         Executive Vice President -          1993         48
+                      Wal-Mart Stores, Inc. and President
+                      and Chief Executive Officer of
+                      Wal-Mart International Division.
+                      Prior to 1993, he served as
+                      Executive Vice President - Corporate
+                      Information Systems.
+
+John B. Menzer        Executive Vice President and        1995         46
+                      Chief Financial Officer since
+                      September 1995.  Prior to September
+                      1995, he served as President and
+                      Chief Operating Officer of Ben
+                      Franklin Retail Stores, Inc.
+
+H. Lee Scott, Jr.     Executive Vice President -          1995         48
+                      Merchandising.  Prior to October
+                      1995, he served as Executive Vice
+                      President - Logistics.  Prior to
+                      that, he served as Senior Vice
+                      President - Logistics.
+
+Nicholas J. White     Executive Vice President -          1989         52
+                      Wal-Mart Supercenter Division.
+                      Prior to 1989, he served as
+                      Executive Vice President -
+                      Sam's Clubs.
+
+William G. Rosier     President and Chief Executive       1995         48
+                      Officer of McLane Company, Inc.
+                      Prior to 1995, he served as Senior
+                      Vice President - Marketing and
+                      Customer Services for McLane.
+
+James A. Walker, Jr.  Senior Vice President and           1995         50
+                      Controller.  Prior to 1995, he
+                      served as Vice President and
+                      Controller.
+
+
+                                  PART II
+
+ITEM 5.   MARKET FOR THE REGISTRANT'S COMMON EQUITY
+          AND RELATED SHAREHOLDER MATTERS
+
+            The   information   required  by  this  item  is   incorporated   by
+reference  of  the  information "Number of Shareholders  of  Record"  under  the
+caption  "11  Year  Financial  Summary"  on  Pages  22  and  23,  and  all   the
+information  under  the  captions "Market Price of Common  Stock",  "Listings  -
+Stock  Symbol:  WMT" and "Dividends Paid Per Share" on page  37  of  the  Annual
+Report to Shareholders for the year ended January 31, 1997.
+
+ITEM 6.   SELECTED FINANCIAL DATA
+
+            The   information   required  by  this  item  is   incorporated   by
+reference  of  all  information under the caption "11  Year  Financial  Summary"
+on  Pages  22  and 23 of the Annual Report to Shareholders for  the  year  ended
+January 31, 1997.
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+          CONDITION AND RESULTS OF OPERATIONS
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation   by   reference   of   all   information   under   the    caption
+"Management's  Discussion and Analysis" on Pages 24 through  26  of  the  Annual
+Report to Shareholders for the year ended January 31, 1997.
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation   by   reference   of   all   information   under   the   captions
+"Consolidated   Statements   of   Income",   "Consolidated   Balance    Sheets",
+"Consolidated  Statements  of  Shareholders' Equity",  "Consolidated  Statements
+of  Cash  Flows" and "Notes to Consolidated Financial Statements"  on  Pages  26
+through  34  of  the  Annual Report to Shareholders for the year  ended  January
+31, 1997.
+
+ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+          ACCOUNTING AND FINANCIAL DISCLOSURE
+
+          None.
+                                     
+                                     
+                                 PART III
+                                     
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+           Information  required  by  this item with respect  to  the  Company's
+directors  and  compliance by the Company's directors,  executive  officers  and
+certain  beneficial  owners of the Company's Common  Stock  with  Section  16(a)
+of  the  Securities  Exchange  Act  of 1934 is  furnished  by  incorporation  by
+reference  of  all  information  under the captions  entitled  "Item  1:Election
+of  Directors"  on  Pages  1 through 3 and "Section 16(a)  Beneficial  Ownership
+Reporting Compliance" on Page 10 and 11 of the Company's Proxy  Statement  for
+its  Annual  Meeting of Shareholders to be held on Friday,  June  6,  1997  (the
+"Proxy  Statement").   The information required by this  item  with  respect  to
+the  Company's  executive officers appears at Item 4A of Part  I  of  this  Form
+10-K.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation  by  reference  of  all information  under  the  caption  entitled
+"Executive  Compensation",  subcaptions "Summary  Compensation  Table",  "Option
+Grants  for  Fiscal  Year  Ended January 31, 1997", and  "Option  Exercises  and
+Fiscal  Year  End  Option  Values"  on Pages  4  through  6,  and  "Compensation
+Committee   Interlocks   and  Insider  Participation"   and   "Compensation   of
+Directors" on Page 8 of the Proxy Statement.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+          AND MANAGEMENT
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation  by  reference  of  all  information  under  the  caption  "Equity
+Securities  and  Principal Holders of Wal-Mart Stock" on  Pages  10  and  11  of
+the Proxy Statement.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation  by  reference  of all information  under  the  caption  "Interest
+of Management in Certain Transactions" on Page 9 of the Proxy Statement.
+
+
+                                  PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES,
+          AND REPORTS ON FORM 8-K
+
+(a)  1. & 2.   Consolidated Financial Statements
+
+            The  financial  statements  listed  in  the  Index  to  Consolidated
+Financial   Statements,  which  appears  on  Page  18,   are   incorporated   by
+reference herein or filed as part of this Form 10-K.
+
+     3.   Exhibits
+
+          The following documents are filed as exhibits to this Form 10-K:
+
+            3(a)  Restated Certificate of Incorporation of the Company is
+                  incorporated herein by reference to Exhibit 3(a) from the
+                  Annual Report on Form 10-K of the Company for the year ended 
+                  January 31, 1989, and the Certificate of Amendment to the 
+                  Restated Certificate of Incorporation is incorporated 
+                  herein by reference to Registration Statement on Form S-8 
+                  (File Number 33-43315).
+
+            3(b)  By-Laws of the Company, as amended June 3, 1993, are
+                  incorporated herein by reference to Exhibit 3(b) to the 
+                  Company's Annual Report on Form 10-K for the year ended 
+                  January 31, 1994.
+
+            4(a)  Form of Indenture dated as of June 1, 1985, between the
+                  Company and Boatmen's Trust Company (formerly Centerre 
+                  Trust Company) of St. Louis, Trustee, is incorporated 
+                  herein by reference to Exhibit 4(c) to Registration 
+                  Statement on Form S-3 (File Number 2-97917).
+
+            4(b)  Form of Indenture dated as of August 1, 1985, between the 
+                  Company and Boatmen's Trust Company (formerly Centerre 
+                  Trust Company) of St. Louis, Trustee, is incorporated 
+                  herein by reference to Exhibit 4(c) to Registration 
+                  Statement on Form S-3 (File Number 2-99162).
+
+            4(c)  Form of Amended and Restated Indenture, Mortgage and Deed of
+                  Trust, Assignment of Rents and Security Agreement dated as
+                  of December 1, 1986, among the First National Bank of 
+                  Boston and James E. Mogavero, Owner Trustees, Rewal 
+                  Corporation I, Estate for Years Holder, Rewal Corporation 
+                  II, Remainderman, the Company and the First National Bank 
+                  of Chicago and R.D. Manella, Indenture Trustees, is 
+                  incorporated herein by reference to Exhibit 4(b) to 
+                  Registration Statement on Form S-3 (File Number 33-11394).
+
+            4(d)  Form of Indenture dated as of July 15, 1990, between the 
+                  Company and Harris Trust and Savings Bank, Trustee, is 
+                  incorporated herein by reference to Exhibit 4(b) to 
+                  Registration Statement on Form S-3 (File Number 33-35710).
+
+            4(e)  Indenture dated as of April 1, 1991, between the Company and
+                  The First National Bank of Chicago, Trustee, is incorporated 
+                  herein by reference to Exhibit 4(a) to Registration 
+                  Statement on Form S-3 (File Number 33-51344).
+
+            4(f)  First Supplemental Indenture dated as of September 9, 1992,
+                  to the Indenture dated as of April 1, 1991, between the 
+                  Company and The First National Bank of Chicago, Trustee, is
+                  incorporated herein by reference to Exhibit 4(b) to 
+                  Registration Statement on Form S-3 (File Number 33-51344).
+
+          +10(a)  Form of individual deferred compensation agreements is 
+                  incorporated herein by reference to Exhibit 10(b) from the 
+                  Annual Report on Form 10-K of the Company, as amended, for 
+                  the year ended January 31, 1986.
+
+          +10(b)  Wal-Mart Stores, Inc. Stock Option Plan of 1984 is 
+                  incorporated herein by reference to Registration Statement on 
+                  Form S-8 (File Number 2-94358).
+
+          +10(c)  1986 Amendment to the Wal-Mart Stores, Inc. Stock Option Plan
+                  of 1984 is incorporated herein by reference to Exhibit 
+                  10(h) from the Annual Report on Form 10-K of the Company 
+                  for the year ended January 31, 1987.
+
+          +10(d)  1991 Amendment to the Wal-Mart Stores, Inc. Stock Option Plan 
+                  of 1984 is incorporated herein by reference to Exhibit 
+                  10(h) from the Annual Report on Form 10-K of the Company 
+                  for the year ended January 31, 1992.
+
+          +10(e)  1993 Amendment to the Wal-Mart Stores, Inc. Stock Option Plan
+                  of 1984 is incorporated herein by reference to Exhibit 
+                  10(i) from the Annual Report on Form 10-K of the Company 
+                  for the year ended January 31, 1993.
+
+          +10(f)  Wal-Mart Stores, Inc. Stock Option Plan of 1994 is 
+                  incorporated herein by reference to Exhibit 4(c) to the 
+                  registration statement on Form S-8 (File Number 33-55325).
+
+          +10(g)  A written description of a consulting agreement by and 
+                  between Wal-Mart Stores, Inc. and Jack C. Shewmaker, is 
+                  incorporated herein by reference to the description 
+                  contained in the third paragraph under the caption 
+                  "Compensation of Directors" on Page 8 in the Company's 
+                  definitive Proxy Statement to be filed in connection with 
+                  the Annual Meeting of the Shareholders to be held on 
+                  June 6, 1997.
+
+          +10(h)  Wal-Mart Stores, Inc. Director Compensation Plan is 
+                  incorporated herein by reference to Exhibit 4(d) to 
+                  Registration Statement on Form S-8 (File Number 333-24259).
+
+          +10(i)  Wal-Mart Stores, Inc. Officer Deferred Compensation Plan.
+
+         *+10(j)  Wal-Mart Stores, Inc. Restricted Stock Plan.
+
+          *13     All information incorporated by reference in Items 2, 5, 6, 7 
+                  and 8 of this Annual Report on Form 10-K from the Annual 
+                  Report to Shareholders for the year ended January 31, 1997.
+
+          *21     List of the Company's Subsidiaries
+
+          *23     Consent of Independent Auditors
+
+          *27     Financial Data Schedule
+
+*Filed herewith as an Exhibit.
+
++Management contract or compensatory plan or arrangement.
+
+
+(b)  Reports on Form 8-K
+
+           The Company did not file a report on Form  8-K  during the last
+quarter of the fiscal year ended January 31, 1997.
+
+                INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+                                     
+
+                                                  Annual
+                                                 Report to
+                                                Shareholders
+                                                  (page)
+
+Covered by Report of Independent
+   Auditors:
+
+   Consolidated Statements of Income
+     for each of the three years in the
+     period ended January 31, 1997                  26
+
+   Consolidated Balance Sheets at
+     January 31, 1997 and 1996                      27
+
+   Consolidated Statements of
+     Shareholders' Equity for each
+     of the three years in the
+     period ended January 31, 1997                  28
+
+   Consolidated Statements of Cash
+     Flows for each of the three
+     years in the period ended
+     January 31, 1997                               29
+
+   Notes to Consolidated Financial
+     Statements, except Note 8                     30-34
+
+Not Covered by Report of Independent
+   Auditors:
+
+   Note 8 - Quarterly Financial Data
+     (Unaudited)                                    34
+
+
+All schedules have been omitted because the required information is not 
+present or is not present in amounts sufficient to require submission of the 
+schedule, or because the information required is included in the financial 
+statements, including the notes thereto.
+
+                                SIGNATURES
+                                     
+            Pursuant to the requirements of Section 13 or 15(d) of the 
+Securities Exchange Act of 1934, the registrant has duly caused this report 
+to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+DATE:     April 21, 1997              BY:/s/David D. Glass
+                                            David D. Glass
+                                            President and Chief
+                                            Executive Officer
+
+           Pursuant to the requirements of the Securities Exchange Act of 1934, 
+this report has been signed below by the following persons on behalf of the 
+registrant and in the capacities and on the dates indicated:
+
+
+
+DATE:     April 21, 1997                  /s/S. Robson Walton
+                                             S. Robson Walton
+                                             Chairman of the Board
+
+
+
+DATE:     April 21 , 1997                /s/David D. Glass
+                                            David D. Glass
+                                            President, Chief Executive
+                                            Officer and Director
+
+
+
+DATE:     April 21 , 1997                /s/Donald G. Soderquist
+                                            Donald G. Soderquist
+                                            Vice Chairman, Chief
+                                            Operating Officer
+                                            and Director
+
+
+
+DATE:     April 21, 1997                 /s/Paul R. Carter
+                                            Paul R. Carter
+                                            Executive Vice President,
+                                            President - Wal-Mart Realty
+                                            Company and Director
+
+
+
+DATE:     April 21, 1997                 /s/John B. Menzer
+                                            John B. Menzer
+                                            Executive Vice President and
+                                            Chief Financial Officer
+                                            (Principal Financial Officer)
+
+
+
+
+DATE:     April 21, 1997                 /s/James A. Walker, Jr.
+                                            James A. Walker, Jr.
+                                            Senior Vice President and
+                                            Controller
+                                            (Principal Accounting Officer)
+
+
+DATE:     April 21, 1997                 /s/John A. Cooper, Jr.
+                                            John A. Cooper, Jr.
+                                            Director
+
+
+DATE:     April 21, 1997                 /s/Stephen Friedman
+                                            Stephen Friedman
+                                            Director
+
+
+DATE:     April 21, 1997                  _________________________________
+                                            Stanley C. Gault
+                                            Director
+
+
+DATE:     April 21, 1997                 /s/Frederick S. Humphries
+                                            Frederick S. Humphries
+                                            Director
+
+
+DATE:     April 21, 1997                 /s/E. Stanley Kroenke
+                                            E. Stanley Kroenke
+                                            Director
+
+
+DATE:     April 21, 1997                 /s/Elizabeth A. Sanders
+                                            Elizabeth A. Sanders
+                                            Director
+
+
+DATE:     April 21, 1997                 /s/Jack C. Shewmaker
+                                            Jack C. Shewmaker
+                                            Director
+
+
+DATE:     April 21, 1997                 /s/Paula Stern
+                                            Paula Stern
+                                            Director
+
+
+DATE:     April 21, 1997                 /s/John T. Walton   
+                                            John T. Walton
+                                            Director
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<TEXT>
+
+
+                WAL-MART STORES, INC. RESTRICTED STOCK PLAN
+Purpose.    Wal-Mart Stores, Inc. ("Wal-Mart") believes it is important to 
+provide incentives to Wal-Mart's Associates through participation in the 
+ownership of Wal-Mart. This Restricted Stock Plan (the "Plan") is established
+to provide incentives to those Associates receiving Awards under this Plan to
+enhance their job performance, to remain or become associated with Wal-Mart 
+and its Affiliates, and to increase the success of Wal-Mart. The Plan is not
+limited to executive officers of Wal-Mart, but will be available to provide 
+incentives to any Associate that the Committee believes has made or may make
+a significant contribution to Wal-Mart or an Affiliate of Wal-Mart.
+
+Definitions.  When used in the Plan, the following words have the definitions 
+given to them below.
+
+"Affiliate" means any corporation, company limited by shares, partnership, 
+limited liability company, business trust, other entity, or other business 
+association that is controlled by Wal-Mart.
+
+"Associate" means any individual who is employed by Wal-Mart or one of its 
+Affiliates.
+
+"Award" means the award of Restricted Stock under this Plan and the terms and 
+conditions on which that award is made.
+
+"Board of Directors" means the Board of Directors of Wal-Mart.
+
+"Code" means the Internal Revenue Code of 1986, as amended, and the regulations 
+promulgated thereunder. 
+
+"Committee" means (1) as to Associates who are Section 16 Persons, the 
+Compensation Committee and 2) as to all other Associates, the committee that 
+administers the Wal-Mart Stores, Inc. Stock Option Plan of 1994 or any 
+successor stock option plan for persons other than Section 16 Persons.
+
+"Compensation Committee" means the Compensation and Nominating Committee of the 
+Board of Directors.
+
+"Dividend Plan" means the Wal-Mart Stores, Inc. Dividend Reinvestment Plan.
+
+"Recipient" means an Associate who has received an Award.
+
+"Restricted Stock" means Shares awarded to a Recipient under this Plan that 
+remain subject to a Restriction and all non-cash proceeds of such Shares that
+become and remain subject to a Restriction.
+
+"Restriction" means the contractual condition(s) contained in an Award that if 
+not met will result in the forfeiture to Wal-Mart of some or all of the Shares 
+issued to the Recipient pursuant to such Award and the non-cash proceeds of 
+such Shares.
+
+"Section 16 Person" means any Associate who is required to file reports under 
+Section 16 of the Securities Exchange Act of 1934, as amended.
+
+"Shares" means shares of the Common Stock, $.10 par value per share, of 
+Wal-Mart.
+
+Shares Subject to the Plan.Wal-Mart has reserved a total of 10,000,000 Shares 
+for issuance under the Plan. These Shares may be authorized, but unissued 
+Shares, or treasury Shares held by Wal-Mart or an Affiliate. Any Shares 
+previously awarded to Recipient that have been forfeited to Wal-Mart may be 
+awarded again under the Plan. No fractional shares may be issued under the 
+Plan. If a stock split occurs with respect to the Shares, the number of 
+Shares reserved for issuance pursuant to the Plan shall be proportionately 
+increased. If a reverse stock split occurs with respect to the Shares, the 
+number of Shares reserved for issuance pursuant to the Plan shall be 
+proportionately decreased.
+
+Administration.  The Committee will administer the Plan and make Awards. The 
+Committee shall have these duties as to the Plan:
+
+(1)  to establish any rules, procedures, and written forms that will govern 
+the Plan and assist in the Plan's general administration; 
+
+(2)  when a situation is not expressly addressed by the Plan, to interpret 
+the Plan's pertinent provisions and apply them to the situation;
+
+(3)  when a situation is not expressly addressed by the terms of an Award or 
+those terms are subject to interpretation, to interpret the pertinent terms 
+of that Award and apply them to the situation; 
+
+(4)  to assist in the resolution of any dispute arising about the Plan or an 
+Award;
+
+(5)  to recommend amendments of the Plan to the Board of Directors;
+
+(6)  to determine those Associates to whom Awards will be made;
+
+(7)  to set the terms and conditions of those Awards; 
+
+(8)  to amend the terms of an Award;
+
+(9)  to waive any conditions or obligations of a Recipient under or with 
+respect to an Award; and 
+
+(10) to administer the terms of each Award made and monitor the compliance of 
+the Recipient with the terms and conditions of the Award.
+
+The Committee may act at its discretion in the discharge of the foregoing 
+duties.  The Committee will not have the right to amend the terms or 
+conditions of any Award without the consent of the Recipient if the amendment
+would affect the terms and conditions of the Award in a materially adverse 
+manner unless the Committee has expressly retained the right to do so in the 
+terms and conditions of the Award.  Subject to the foregoing, the Committee 
+may amend any Award under which a Recipient still holds Restricted Stock if 
+the Committee determines such amendment is in the best interests of Wal-Mart.  
+If an Award is intended to qualify for the performance-based compensation 
+exception under Section 162(m)(4)(C) of the Code, the Compensation Committee 
+will exercise its discretion to qualify the Award for such exception.
+
+The Awards.
+
+(1)  Wal-Mart, acting through the Committee and consistent with the purposes of
+this Plan, may make Awards to such Associates as the Committee may determine 
+in its sole discretion.
+
+(2)  Each Award shall have those terms and conditions of Awards that are 
+expressly set forth in, or are required, by this Plan and such other terms 
+and conditions as the Committee making the Award may determine in its 
+discretion.
+
+(3)  During the Restriction period as to any Recipient's Restricted Stock, 
+the Recipient shall receive the dividends paid on the Restricted Stock and 
+shall not be required to return such dividends to Wal-Mart in the event of 
+the forfeiture of the Restricted Stock.  In addition, during the Restriction 
+period as to any Recipient's Restricted Stock, the Recipient shall receive 
+the proceeds of the Restricted Stock in any stock split, reverse stock split, 
+recapitalization, or other change in the capital structure of Wal-Mart, which 
+proceeds shall automatically and without need for any other action become 
+Restricted Stock and be subject to the Restriction then existing as to the 
+Recipient's Restricted Stock.  Such  Restriction will thereafter apply 
+proportionately to all of the Recipient's Restricted Stock, including such
+proceeds.
+
+(4)  The Recipient shall be entitled to vote the Restricted Stock during the 
+Restriction period.
+
+(5)  The Restricted Stock will be issued to each Recipient subject to the 
+understanding that, during the Restriction period, the Recipient shall not 
+have the right to sell, transfer, assign, convey, pledge, hypothecate, grant 
+any security interest in or mortgage on, or otherwise dispose of or encumber 
+any shares of Restricted Stock or any interest therein.  As a result of such
+retention of rights in the Restricted Stock by Wal-Mart, except as required 
+by any law, neither any shares of the Restricted Stock nor any interest 
+therein shall be subject in any manner to any forced or involuntary sale, 
+transfer, conveyance, pledge, hypothecation, encumbrance, or other 
+disposition or to any charge, liability, debt, or obligation of the Recipient, 
+whether as the direct or indirect result of any action of the Recipient or 
+any action taken in any proceeding, including any proceeding under any 
+bankruptcy or other creditors' rights law.  Any action attempting to effect 
+any such transaction shall be null, void, and without effect.
+
+(6)  Unless expressly provided for in the Award made to a Recipient, any 
+Restricted Stock held by a Recipient at the time the Recipient ceases to be 
+an Associate for any reason whatsoever shall be forfeited by the Recipient to
+Wal-Mart and automatically re-conveyed to Wal-Mart.
+
+(7)  The Committee may withhold any amounts necessary to collect any 
+withholding taxes with respect to any Award or upon the fulfillment of the 
+Restriction in such Award.  These provisions may include, at the discretion 
+of the Committee, the withholding of shares of the Restricted Stock granted 
+in the Award to provide for payment of the withholding amount.
+
+(8)  The making of Awards and issuance of any Restricted Stock is subject to 
+compliance by Wal-Mart with all applicable laws.  Wal-Mart need not issue or
+transfer Restricted Stock pursuant to the Plan unless Wal-Mart's legal 
+counsel has approved all legal matters in connection with the issuance and 
+delivery of the Restricted Stock.
+
+(9)  Once the conditions in a Restriction are met as to any shares of 
+Restricted Stock held by a Recipient, those Shares shall be free of all of 
+the terms and conditions of the related Award and the Recipient shall be 
+entitled to hold and dispose of the Shares free of any and all restrictions, 
+except any restrictions on the transfer or disposition of such Shares as are 
+imposed by applicable law.
+
+Evidence of Share Ownership.  The Restricted Stock will be book-entry shares 
+only unless the Committee decides to issue certificates to evidence shares of 
+the Restricted Stock. Any stock certificate or certificates representing the 
+Restricted Stock issued to a Recipient (each a "Certificate") that is so 
+issued shall bear the following legend:
+
+     THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE BEEN ISSUED
+     PURSUANT TO THE WAL-MART STORES, INC. RESTRICTED STOCK PLAN (THE
+     "PLAN") AND ARE SUBJECT TO SUBSTANTIAL RESTRICTIONS ON THEIR
+     TRANSFER AND TO FORFEITURE TO WAL-MART STORES, INC. IF CERTAIN
+     CONDITIONS ARE NOT MET.  SUCH RESTRICTIONS AND CONDITIONS ARE SET
+     FORTH IN THE PLAN AND IN THE AWARD PURSUANT TO WHICH SUCH SHARES
+     WERE ISSUED TO THE REGISTERED HOLDER THEREOF.
+
+Wal-Mart will place stop-transfer instructions with respect to all Restricted 
+Stock on its stock transfer records.  Any Certificate issued will be held in 
+escrow by the Committee for the mutual benefit of the Recipient and Wal-Mart 
+in accordance with such rules for such escrow as the Committee may establish 
+pending the fulfillment of the Restriction and compliance with the other 
+terms and conditions of the Award.  If any shares of Restricted Stock are 
+forfeited in accordance with the terms and conditions of the Award and this 
+Plan, the forfeited shares of Restricted Stock shall be automatically 
+re-conveyed to Wal-Mart. Any Certificate representing the forfeited shares of 
+Restricted Stock shall be canceled. The Recipient must deliver to the 
+Committee a stock power, executed in blank, relating to the shares of the 
+Restricted Stock at the time the Award is granted and the Restricted Stock 
+issued.  Such a stock power must be given to the Committee as to any 
+Certificate issued to a Recipient.
+
+Section 162(m)(4)(C) Matters.  The Compensation Committee may grant an Award 
+that provides for a Restriction as to Restricted Stock that is based on 
+performance-based criteria and that is intended to qualify for the 
+performance-based exception under Section 162(m)(4)(C) of the Code (a "162 
+Award"). In granting any 162 Award, the Compensation Committee shall comply 
+fully with the regulations promulgated with respect to Section 162(m) of the 
+Code.
+
+Limitations of Wal-Mart's and the Affiliates' Liability and Obligations.  
+Receiving an Award or being the owner of Restricted Stock shall not:
+
+(a)  give the Recipient any rights except as expressly set forth in this Plan or
+in the Award and except as a stockholder of Wal-Mart with respect to the 
+Restricted Stock alone;
+
+(b)  be considered a contract of employment or give the Recipient any right 
+to continued employment, or to hold any position, with Wal-Mart or any 
+Affiliate; 
+
+(c)  create any fiduciary or other obligation of Wal-Mart or any Affiliate to 
+take any action or provide to the Recipient any assistance or dedicate or 
+permit the use of any assets of Wal-Mart or any Affiliate that would permit 
+the Recipient to be able to attain any performance criteria stated in the 
+Recipient's Award;
+
+(d)  create any trust or any fiduciary or other duty or obligation of 
+Wal-Mart or any Affiliate to engage in any particular business, continue to 
+engage in any particular business, engage in any particular business 
+practices, or sell any particular product or products; or 
+
+(e)  create any obligation of Wal-Mart or any Affiliate that shall be greater 
+than the obligations of Wal-Mart or such Affiliate to any general unsecured 
+creditor of Wal-Mart or the Affiliate.
+
+The entry into, the change of, or a discontinuation of a particular business, 
+line of business, business practice, or transaction shall not be, and shall 
+not be deemed to be, an amendment or termination of this Plan or any Award. 
+If Wal-Mart or an Affiliate terminates a Recipient's employment or other 
+position with Wal-Mart or the Affiliate, the potential value of any 
+Restricted Stock that must be returned to Wal-Mart will not be an element of
+any damages that the Recipient may have for any termination of employment or 
+other relationship in violation of any contractual or other rights the 
+Recipient may have.
+
+No Liability of Committee Members.  No member of the Committee shall be 
+personally liable by reason of this Plan, any Award granted hereunder, or any 
+agreement or other instrument entered into or executed by the Committee 
+member in his or her capacity as a member of the Committee nor as a result of
+any mistake of judgment made in good faith.  Wal-Mart shall indemnify and 
+hold harmless each member of the Committees and each other officer and 
+director of Wal-Mart or any Affiliate that has any duty or power relating to 
+the administration of this Plan against any liability, obligation, cost or 
+expense incurred by such person arising out of any act or omission to act in 
+connection with the Plan or any Award unless that act or omission to act 
+constitutes gross negligence, malfeasance, bad faith or fraud of such person.
+
+Amendment and Termination of the Plan.  The Board of Directors may amend or 
+terminate this Plan at any time without the approval of the Recipients or any
+other person, except to the extent any such action is required to be approved
+by the stockholders of Wal-Mart in connection with any outstanding or future 
+162 Awards.  No Award as to which Restricted Stock remains outstanding at the
+time of any amendment or termination of the Plan will be affected by such 
+amendment or termination.
+
+Governing Law.  This Plan shall be governed by and construed in accordance 
+with the laws of the State of Arkansas, except that any matters relating to 
+the internal governance of Wal-Mart shall be governed by the General 
+Corporation Law of Delaware.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<TEXT>
+
+
+<TABLE>
+Fiscal 1997 End of Year Store Counts
+<CAPTION>
+                         Discount                              Sam's
+                          Stores         Supercenters          Clubs
+<S>                       <C>              <C>                 <C>
+Alabama                      54               22                 8
+Alaska                        3                0                 3
+Arizona                      33                0                 6
+Arkansas                     54               22                 4
+California                   95                0                24
+Colorado                     32                4                10
+Connecticut                   9                0                 3
+Delaware                      2                1                 1
+Florida                     109               23                31
+Georgia                      65               22                15
+Hawaii                        5                0                 1
+Idaho                         9                0                 1
+Illinois                     98                8                24
+Indiana                      62               11                14
+Iowa                         45                0                 7
+Kansas                       44                3                 5
+Kentucky                     53               15                 5
+Louisiana                    58               17                 9
+Maine                        19                0                 3
+Maryland                     21                0                10
+Massachusetts                25                0                 4
+Michigan                     44                0                21
+Minnesota                    33                0                 9
+Mississippi                  45               11                 4
+Missouri                     79               29                11
+Montana                       7                0                 1
+Nebraska                     13                4                 3
+Nevada                       10                0                 2
+New Hampshire                16                0                 4
+New Jersey                   14                0                 6
+New Mexico                   19                0                 3
+New York                     48                5                17
+North Carolina               82                3                14
+North Dakota                  8                0                 2
+Ohio                         77                0                22
+Oklahoma                     61               17                 6
+Oregon                       20                0                 0
+Pennsylvania                 49               10                18
+Rhode Island                  5                0                 1
+South Carolina               46                6                 8
+South Dakota                  8                0                 2
+Tennessee                    63               25                10
+Texas                       173               69                51
+Utah                         14                0                 5
+Vermont                       3                0                 0
+Virginia                     35               14                10
+Washington                   18                0                 2
+West Virginia                12                3                 3
+Wisconsin                    54                0                11
+Wyoming                       9                0                 2
+
+U.S. TOTAL                1,960              344               436
+
+Alberta                      14                0                 0
+British Columbia             12                0                 0
+Manitoba                      9                0                 0
+New Brunswick                 4                0                 0
+Newfoundland                  7                0                 0
+Nova Scotia                   7                0                 0
+NW Territories                1                0                 0
+Ontario                      50                0                 0
+Quebec                       24                0                 0
+Saskatchewan                  8                0                 0
+
+CANADA TOTAL                136                0                 0
+
+Argentina                     0                3                 3
+Brazil                        0                2                 3
+Mexico                      106*              18                28
+Puerto Rico                   7                0                 4
+China                         0                1                 1
+Indonesia                     0                2                 0
+
+INT'L. TOTAL                249               26                39
+
+GRAND TOTAL               2,209              370               475
+</TABLE>
+[FN]
+*Includes 3 Superamas, 25 Bodegas, 4 Aurreras, 67 Vips and 7 Suburbias
+
+<TABLE>
+11-Year Financial Summary
+(Dollar amounts in millions except per share data)
+<CAPTION>
+                         1997      1996      1995      1994      1993
+<S>                   <C>        <C>       <C>       <C>      <C>        
+Operating Results
+Net sales             $104,859   $93,627   $82,494   $67,344  $55,484
+Net sales increase          12%       13%       22%       21%      26%
+Comparative store
+  sales increase             5%        4%        7%        6%      11%
+Other income-net         1,287     1,122       918       641      501
+Cost of sales           83,663    74,564    65,586    53,444   44,175
+Operating, selling,
+  and general and
+  administrative
+  expenses              16,788    14,951    12,858    10,333    8,321
+Interest costs:
+    Debt                   629       692       520       331      143
+    Capital leases         216       196       186       186      180
+Provision for income
+  taxes                  1,794     1,606     1,581     1,358    1,171
+Net income               3,056     2,740     2,681     2,333    1,995
+Per share of common stock:
+    Net income           $1.33      1.19      1.17      1.02      .87
+    Dividends              .21       .20       .17       .13      .11
+
+Financial Position
+Current assets         $17,993   $17,331   $15,338   $12,114  $10,198
+Inventories at
+  replacement cost      16,193    16,300    14,415    11,483    9,780
+Less LIFO reserve          296       311       351       469      512
+Inventories at
+  LIFO cost             15,897    15,989    14,064    11,014    9,268
+Net property, plant
+  and equipment and
+  capital leases        20,324    18,894    15,874    13,176    9,793
+Total assets            39,604    37,541    32,819    26,441   20,565
+Current liabilities     10,957    11,454     9,973     7,406    6,754
+Long-term debt           7,709     8,508     7,871     6,156    3,073
+Long-term obligations
+  under capital leases   2,307     2,092     1,838     1,804    1,772
+Shareholders' equity    17,143    14,756    12,726    10,753    8,759
+
+Financial Ratios
+Current ratio              1.6       1.5       1.5       1.6      1.5
+Inventories/
+  working capital          2.3       2.7       2.6       2.3      2.7
+Return on assets*          7.9%      7.8%      9.0%      9.9%    11.1%
+Return on shareholders'
+  equity*                 19.2%     19.9%     22.8%     23.9%    25.3%
+
+Other Year-End Data
+Number of Domestic
+  Wal-Mart stores        1,960     1,995     1,985     1,950    1,848
+Number of Domestic
+  Supercenters             344       239       147        72       34
+Number of Domestic
+  SAM'S Clubs              436       433       426       417      256
+International units        314       276       226        24       10
+Average Wal-Mart
+  store size            92,600    91,100    87,600    83,900   79,800
+Number of Associates   728,000   675,000   622,000   528,000  434,000
+Number of Shareholders
+  of Record            257,215   244,483   259,286   257,946  180,584
+</TABLE>
+[FN]
+* On average balances.
+
+<TABLE>
+11-Year Financial Summary
+(Dollar amounts in millions except per share data)
+<CAPTION>
+                         1992      1991      1990      1989      1988     1987
+<S>                    <C>       <C>       <C>       <C>       <C>      <C>   
+Operating Results
+Net sales              $43,887   $32,602   $25,811   $20,649   $15,959  $11,909
+Net sales increase          35%       26%       25%       29%       34%      41%
+Comparative store
+  sales increase            10%       10%       11%       12%       11%      13%
+Other income-net           403       262       175       137       105       85
+Cost of sales           34,786    25,500    20,070    16,057    12,282    9,053
+Operating, selling,
+  and general and
+  administrative
+  expenses               6,684     5,152     4,070     3,268     2,599    2,008
+Interest costs:
+    Debt                   113        43        20        36        25       10
+    Capital leases         153       126       118        99        89       76
+Provision for income
+  taxes                    945       752       632       488       441      396
+Net income               1,609     1,291     1,076       838       628      451
+Per share of common stock:
+    Net income             .70       .57       .48       .37       .28      .20
+    Dividends              .09       .07       .06       .04       .03      .02
+
+Financial Position
+Current assets          $8,575    $6,415    $4,713    $3,631    $2,905   $2,353
+Inventories at
+  replacement cost       7,857     6,207     4,751     3,642     2,855    2,185
+Less LIFO reserve          473       399       323       291       203      154
+Inventories at
+  LIFO cost              7,384     5,808     4,428     3,351     2,652    2,031
+Net property, plant
+  and equipment and
+  capital leases         6,434     4,712     3,430     2,662     2,145    1,676
+Total assets            15,443    11,389     8,198     6,360     5,132    4,049
+Current liabilities      5,004     3,990     2,845     2,066     1,744    1,340
+Long-term debt           1,722       740       185       184       186      179
+Long-term obligations
+  under capital leases   1,556     1,159     1,087     1,009       867      764
+Shareholders' equity     6,990     5,366     3,966     3,008     2,257    1,690
+
+Financial Ratios
+Current ratio              1.7       1.6       1.7       1.8       1.7      1.8
+Inventories/
+  working capital          2.1       2.4       2.4       2.1       2.3      2.0
+Return on assets*         12.0%     13.2%     14.8%     14.6%     13.7%    12.6%
+Return on shareholders'
+  equity*                 26.0%     27.7%     30.9%     31.8%     31.8%    30.4%
+
+Other Year-End Data
+Number of Domestic
+  Wal-Mart stores        1,714     1,568     1,399     1,259     1,114      980
+Number of Domestic
+  Supercenters              10         9         6         3         2
+Number of Domestic
+  SAM'S Clubs              208       148       123       105        84       49
+International units
+Average Wal-Mart
+  store size            74,700    70,700    66,400    63,500    61,500   59,000
+Number of Associates   371,000   328,000   271,000   223,000   183,000  141,000
+Number of Shareholders
+  of Record            150,242   122,414    79,929    80,270    79,777   32,896
+</TABLE>
+[FN]
+* On average balances.
+
+
+Management's Discussion and Analysis
+<TABLE>
+Results of Operations
+Increases (Decreases) In Consolidated Operating Results Over Prior Year
+(Dollars in millions, except per share data)
+<CAPTION>
+                                        1997                      1996
+                                  Amount      %              Amount        %
+<S>                              <C>          <C>            <C>          <C>   
+Revenues:
+   Net sales                     $11,232      12%            $11,133      13%
+   Other income-net                  165      15%                204      22%
+                                  11,397      12%             11,337      14%
+Costs and Expenses:
+   Cost of sales                   9,099      12%              8,978      14%
+   Operating, selling and general
+   and administrative expenses     1,837      12%              2,093      16%
+Interest Costs:
+   Debt                              (63)     (9%)               172      33%
+   Capital leases                     20      10%                 10       5%
+                                  10,893      12%             11,253      14%
+Income Before Income Taxes           504      12%                 84       2%
+Provision for Income Taxes           188      12%                 25       2%
+Net Income                          $316      12%                $59       2%
+Net Income Per Share                $.14      12%               $.02       2%
+</TABLE>
+
+Net Sales
+     The sales increase in fiscal 1997 was attributable to the Company's
+expansion program and comparative store sales increases of 5%. Expansion for
+fiscal 1997 included the opening of 59 Wal-Mart stores, 105 Supercenters
+(including the conversion of 92 Wal-Mart stores), 9 SAM'S Clubs, and 38
+international units. The majority of the sales increase resulted from
+Wal-Mart stores and Supercenters while International sales grew to
+approximately 4.8% of the total sales in fiscal 1997 from 4.0% in fiscal 1996.
+ SAM'S Club sales as a percentage of total sales decreased from 20.4% in
+fiscal 1996 to 18.9% in fiscal 1997.
+     The sales increase of 13% in fiscal 1996 was attributable to the
+Company's expansion program and comparative store sales increases of 4%.
+Expansion for fiscal 1996 included the opening of 92 Wal-Mart stores, 92
+Supercenters (including the conversion of 80 Wal-Mart stores), 9 SAM'S Clubs
+and 50 International units. International sales accounted for approximately
+2.1% of the sales increase with the remainder primarily attributable to
+Wal-Mart stores and Supercenters. SAM'S Club sales as a percentage of total
+sales decreased from 22.9% in fiscal 1995 to 20.4% in fiscal 1996.
+
+Costs and Expenses
+     Cost of sales as a percentage of sales increased .2% in fiscal 1997 and
+ .1% in fiscal 1996 when compared to the preceding year. The increase in
+fiscal 1997 is due in part to one-time markdowns in the third quarter
+resulting from a strategic decision to reduce the merchandise assortment in
+selected categories. Cost of sales also increased approximately .3% due to a
+larger percentage of consolidated sales from departments within Wal-Mart
+stores which have lower markon percents, and to the Company's continuing
+commitment of always providing low prices. These increases were offset by
+approximately .2% because SAM'S Club comprised a lower percentage of
+consolidated sales in 1997 at a lower contribution to gross margin than the
+stores. The increase in fiscal 1996 was due to lower initial markons and a
+larger percentage of consolidated sales from departments within Wal-Mart
+stores which have lower markon percents. This increase is offset by
+approximately .3% because SAM'S Club comprised a lower percentage of
+consolidated sales in 1996 at a lower contribution to gross margin than the
+stores.
+     Operating, selling and general and administrative expenses as a
+percentage of sales were flat in fiscal 1997 when compared to fiscal 1996 and
+increased .4% in fiscal 1996 when compared to fiscal 1995. As sales in SAM'S
+Club decreased as a percentage of total sales, the Company's operating,
+selling and general and administrative expenses as a percentage of sales
+increased approximately .1% due to a lower expense to sales percentage at
+SAM'S Club compared to the stores and Supercenters. This increase was offset
+through expense control in all of the operating formats. Approximately .2% of
+the increase in fiscal 1996 was due to increases in payroll and related
+benefit costs. The remainder of the increase resulted primarily from a lower
+percentage of sales attributable to SAM'S Club and a higher percentage of
+sales attributable to international operations. SAM'S Club operating, selling
+and general and administrative expenses as a percentage of sales were lower
+than the Wal-Mart stores and Supercenters while international expenses were
+slightly higher.
+     The Company adopted Statement of Financial Accounting Standard (SFAS)
+No. 121 "Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to be Disposed Of" in fiscal 1997. The statement requires
+entities to review long-lived assets and certain intangible assets in certain
+circumstances, and if the value of the assets is impaired, an impairment loss
+shall be recognized. The Company's existing accounting policies were such
+that this pronouncement did not materially affect the Company's financial
+position or results of operations.
+
+Interest Cost
+     Interest cost decreased in fiscal 1997 compared to fiscal 1996 due to
+lower average daily short-term borrowings and through retirement of maturing
+debt. The Company was able to reduce short-term debt through enhanced
+operating cash flows and lower capital spending. Interest cost increased in
+fiscal 1996 compared to 1995 due to increased indebtedness and increased
+average short-term borrowing rates. The increased indebtedness was primarily
+due to the Company's expansion program. See Note 2 of Notes to Consolidated
+Financial Statements for additional information on interest and debt.
+
+International Operations
+     The Company has wholly owned operations in Argentina, Canada and Puerto
+Rico, and through joint ventures in Brazil, China and Mexico. International
+operations remain immaterial to total Company operations. However, their
+sales growth in fiscal 1997 exceeded all other operating formats. As a group,
+the international operations were profitable in fiscal 1997.
+
+Liquidity and Capital Resources
+Cash Flow Information
+     Cash flow provided from operations was $5.9 billion in fiscal 1997, up
+from $2.4 billion in fiscal 1996. The increase was primarily due to a greater
+emphasis on inventory management that resulted in lowering unit inventory
+levels. Although consolidated net sales increased by 12% in fiscal 1997,
+consolidated inventories decreased slightly from the prior year end. After
+funding capital expenditures of more than $2.6 billion, operating cash flow
+provided an excess of almost $3.3 billion. This enabled the Company to reduce
+short-term borrowings, retire maturing debt and pay dividends. At January 31,
+1997, the Company eliminated short term borrowings and had $883 million
+invested in cash and cash equivalents. The Company anticipates that cash
+flows from operations will continue to exceed future capital expenditures.
+The excess cash flows generated may be used to purchase Company stock, pay
+dividends or for other investing or financing needs.
+
+Company Stock Purchases and Common Stock Dividends
+     In fiscal 1997, the Company purchased over 8 million shares of its
+common stock for $208 million. Subsequent to January 31, 1997, the Company
+announced plans to purchase up to $2 billion of its common stock over the
+next 18 months. Additionally, the Company increased the dividend 29% to $.27
+per share for fiscal 1998.
+
+Expansion
+     Domestically, the Company plans to open approximately 50 new Wal-Mart
+stores, and 100 Supercenters. Approximately 70 of the Supercenters will come
+from relocations or expansions of existing Wal-Mart stores. The Company also
+plans to open 5 to 10 new SAM'S Clubs and 4 distribution centers.
+International expansion includes 30 to 35 new Wal-Mart stores, Supercenters,
+and SAM'S Clubs in Argentina, Brazil, Canada, China, Mexico and Puerto Rico.
+Total planned capital expenditures for 1998 approximates $3 billion. The
+Company plans to primarily finance expansion with operating cash flows.
+
+Borrowing Information
+     The Company had committed lines of credit of $2,450 million with 34
+banks and informal lines with various banks totaling an additional $2,450
+million which were used to support short-term borrowing and commercial paper.
+These lines of credit and their anticipated cyclical increases will be
+sufficient to finance the seasonal buildups in merchandise inventories and
+for other cash requirements.
+     The Company anticipates generating sufficient operating cash flow to
+fund all capital expenditures and accordingly, does not plan to finance
+future capital expenditures with debt. However, the Company may desire to
+obtain long-term financing for other uses of cash or for strategic reasons.
+The Company foresees no difficulty in obtaining long-term financing in view
+of its excellent credit rating and favorable experiences in the debt market
+in the past few years. In addition to the available credit lines mentioned
+above, the Company may sell up to $751 million of public debt under shelf
+registration statements previously filed with the Securities and Exchange
+Commission.
+
+Foreign Currency Translation
+     All foreign operations are measured in their local currencies with the
+exception of Brazil, operating in a highly inflationary economy, which
+reports operations using U.S. dollars. Beginning in fiscal 1998, Mexico will
+report as a highly inflationary economy. All foreign operations as a group
+are immaterial to the Company's consolidated results of operations and
+financial position. In fiscal 1997, the foreign currency translation
+adjustment decreased by $12 million to $400 million primarily due to a
+favorable exchange rate in Canada. The cumulative foreign currency
+translation adjustments of $412 and $256 million in fiscal 1996 and 1995,
+respectively, were primarily due to operations in Mexico. The Company
+periodically purchases forward contracts on firm commitments to minimize the
+risk of foreign currency fluctuations. None of these contracts were
+significant during the year, and those outstanding at January 31, 1997 were
+insignificant to the Company's financial position. The Company minimizes its
+exposure to the risk of devaluation of foreign currencies by operating in
+local currencies and through buying forward contracts on some known
+transactions.
+
+Forward-Looking Statements
+     Certain statements contained in Management's Discussion and Analysis and
+elsewhere in this annual report are forward-looking statements. These
+statements discuss, among other things, expected growth, future revenues and
+future performance. The forward-looking statements are subject to risks and
+uncertainties, including, but not limited to, competitive pressures,
+inflation, consumer debt levels, currency exchange fluctuations, trade
+restrictions, changes in tariff and freight rates, capital market conditions
+and other risks indicated in the Company's filings with the Securities and
+Exchange Commission. Actual results may materially differ from anticipated
+results described in these statements.
+
+<TABLE>
+Consolidated Statements of Income
+(Amounts in millions except per share data)
+<CAPTION>
+Fiscal years ended January 31,          1997          1996          1995
+<S>                                  <C>            <C>           <C>
+Revenues:
+   Net sales                         $104,859       $93,627       $82,494
+   Other income-net                     1,287         1,122           918
+                                      106,146        94,749        83,412
+Costs and Expenses:
+   Cost of sales                       83,663        74,564        65,586
+   Operating, selling and general
+   and administrative expenses         16,788        14,951        12,858
+Interest Costs:
+   Debt                                   629           692           520
+   Capital leases                         216           196           186
+                                      101,296        90,403        79,150
+
+Income Before Income Taxes              4,850         4,346         4,262
+Provision for Income Taxes
+   Current                              1,974         1,530         1,572
+   Deferred                              (180)           76             9
+                                        1,794         1,606         1,581
+   Net Income                          $3,056        $2,740        $2,681
+Net Income Per Share                    $1.33         $1.19         $1.17
+</TABLE>
+[FN]
+See accompanying notes.
+
+<TABLE>
+Consolidated Balance Sheets
+(Amounts in millions)
+<CAPTION>
+January 31,                                       1997        1996
+<S>                                            <C>          <C>
+Assets
+Current Assets:
+   Cash and cash equivalents                   $    883     $    83
+   Receivables                                      845         853
+   Inventories
+      At replacement cost                        16,193      16,300
+      Less LIFO reserve                             296         311
+        Inventories at LIFO                      15,897      15,989
+   Prepaid expenses and other                       368         406
+      Total Current Assets                       17,993      17,331
+Property, Plant and Equipment, at Cost:
+   Land                                           3,689       3,559
+   Building and improvements                     12,724      11,290
+   Fixtures and equipment                         6,390       5,665
+   Transportation equipment                         379         336
+                                                 23,182      20,850
+   Less accumulated depreciation                  4,849       3,752
+      Net property, plant and equipment          18,333      17,098
+   Property under capital lease                   2,782       2,476
+   Less accumulated amortization                    791         680
+      Net property under capital leases           1,991       1,796
+Other Assets and Deferred Charges                 1,287       1,316
+   Total Assets                                 $39,604     $37,541
+
+Liabilities and Shareholders' Equity
+Current Liabilities:
+   Commercial paper                             $     -      $2,458
+   Accounts payable                               7,628       6,442
+   Accrued liabilities                            2,413       2,091
+   Accrued income taxes                             298         123
+   Long-term debt due within one year               523         271
+   Obligations under capital leases
+     due within one year                             95          69
+      Total Current Liabilities                  10,957      11,454
+Long-Term Debt                                    7,709       8,508
+Long-Term Obligations Under Capital Leases        2,307       2,092
+Deferred Income Taxes and Other                     463         400
+Minority Interest                                 1,025         331
+Shareholders' Equity
+   Preferred stock ($.10 par value;
+     100 shares authorized, none issued)
+   Common stock ($.10 par value;
+     5,500 shares authorized, 2,285
+     and 2,293 issued and outstanding
+     in 1997 and 1996, respectively)                228         229
+   Capital in excess of par value                   547         545
+   Retained earnings                             16,768      14,394
+   Foreign currency translation adjustment         (400)       (412)
+      Total Shareholders' Equity                 17,143      14,756
+   Total Liabilities and Shareholders' Equity   $39,604     $37,541
+</TABLE>
+[FN]
+See accompanying notes.
+
+<TABLE>
+Consolidated Statements of Shareholders' Equity
+(Amounts in millions except per share data)
+<CAPTION>
+                                                                                 Foreign
+                                                      Capital in                currency
+                                   Number    Common    excess of   Retained   translation
+                                  of shares   stock    par value   earnings    adjustment     Total
+<S>                                 <C>       <C>        <C>       <C>          <C>        <C>        
+Balance - January 31, 1994          2,299     $230       $536       $9,987       $  -       $10,753
+  Net income                                                         2,681                    2,681
+  Cash dividends       
+    $.17 per share)                                                   (391)                    (391)
+  Purchase of Company stock            (3)                 (4)         (64)                     (68)
+  Foreign currency
+    translation adjustment                                                         (256)       (256)
+  Other                                 1                   7                                     7
+
+Balance - January 31, 1995          2,297      230        539       12,213         (256)     12,726
+  Net income                                                         2,740                    2,740
+  Cash dividends
+    ($.20 per share)                                                  (458)                    (458)
+  Purchase of Company stock            (5)                 (4)        (101)                    (105)
+  Foreign currency
+    translation adjustment                                                         (156)       (156)
+  Other                                 1       (1)        10                                     9
+
+Balance - January 31, 1996          2,293      229        545       14,394         (412)     14,756
+  Net income                                                         3,056                    3,056
+  Cash dividends
+    ($.21 per share)                                                  (481)                    (481)
+  Purchase of Company stock            (8)                 (7)        (201)                    (208)
+  Foreign currency
+    translation adjustment                                                           12          12
+  Other                                         (1)         9                                     8
+
+Balance - January 31, 1997          2,285     $228       $547      $16,768        $(400)    $17,143
+</TABLE>
+[FN]
+See accompanying notes.
+
+<TABLE>
+Consolidated Statements of Cash Flows
+(Amounts in millions)
+<CAPTION>
+Fiscal years ended January 31,                    1997        1996        1995
+<S>                                            <C>         <C>         <C>
+Cash flows from operating activities
+  Net income                                   $ 3,056      $ 2,740     $ 2,681
+Adjustments to reconcile net income
+ to net cash provided by operating
+ activities:
+  Depreciation and amortization                  1,463        1,304       1,070
+  Increase in accounts receivable                  (58)         (61)        (84)
+  Decrease/(increase) in inventories                99       (1,850)     (3,053)
+  Increase in accounts payable                   1,208          448       1,914
+  Increase in accrued liabilities                  430           29         496
+  Deferred income taxes                           (180)          76           9
+  Other                                            (88)        (303)       (127)
+Net cash provided by operating activities        5,930        2,383       2,906
+Cash flows from investing activities
+  Payments for property, plant
+    and equipment                               (2,643)      (3,566)     (3,734)
+  Proceeds from sale of photo
+    finishing plants                               464
+  Acquisition of assets from
+    Woolworth Canada, Inc.                                                 (352)
+  Sale/leaseback arrangements                                               502
+  Other investing activities                       111          234        (208)
+Net cash used in investing activities           (2,068)      (3,332)     (3,792)
+Cash flows from financing activities
+  (Decrease)/increase in commercial paper       (2,458)         660         220
+  Proceeds from issuance of long-term debt                    1,004       1,250
+  Net proceeds from formation of real
+    estate investment trust (REIT)                 632
+   Purchase of Company stock                      (208)        (105)        (68)
+   Dividends paid                                 (481)        (458)       (391)
+   Payment of long-term debt                      (541)        (126)        (37)
+   Payment of capital lease obligations            (74)         (81)        (70)
+   Other financing activities                       68           93           7
+Net cash (used in)/provided by
+ financing activities                           (3,062)         987         911
+
+Net increase in cash and cash equivalents          800           38          25
+Cash and cash equivalents at beginning
+ of year                                            83           45          20
+Cash and cash equivalents at end of year       $   883      $    83     $    45
+Supplemental disclosure of cash flow
+ information
+  Income tax paid                              $ 1,791      $ 1,785     $ 1,390
+  Interest paid                                    851          866         658
+  Capital lease obligations incurred               326          365         193
+</TABLE>
+[FN]
+See accompanying notes.
+
+
+Notes To Consolidated Financial Statements
+
+1  Summary of Significant Accounting Policies
+
+Consolidation
+The consolidated financial statements include the accounts of subsidiaries.
+Significant intercompany transactions have been eliminated in consolidation.
+
+Segment Information
+The Company and its subsidiaries are principally engaged in the operation of
+mass merchandising stores located in all 50 states, Argentina, Canada and Puerto
+Rico, and through joint ventures in Brazil, China and Mexico.
+
+Cash and Cash Equivalents
+The Company considers investments with a maturity of three months or less when
+purchased to be cash equivalents.
+
+Inventories
+Inventories are stated principally at cost (last-in, first-out), which is not in
+excess of market, using the retail method for inventories in Wal-Mart stores and
+Supercenters.
+
+Pre-opening Costs
+Costs associated with the opening of stores are expensed during the first full
+month of operations. The costs are carried as prepaid expenses prior to the
+store opening.
+
+Interest during Construction
+In order that interest costs properly reflect only that portion relating to
+current operations, interest on borrowed funds during the construction of
+property, plant and equipment is capitalized. Interest costs capitalized were
+$44 million, $50 million and $70 million in 1997, 1996 and 1995,
+respectively.
+
+Depreciation and Amortization
+Depreciation and amortization for financial statement purposes is provided on
+the straight-line method over the estimated useful lives of the various assets.
+For income tax purposes, accelerated methods are used with recognition of
+deferred income taxes for the resulting temporary differences.
+
+Long-Lived Assets
+In fiscal 1997, the Company adopted Statement of Financial Accounting Standards
+No. 121, "Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to be Disposed Of." The statement requires entities to review long-lived
+assets and certain intangible assets in certain circumstances, and if the value
+of the assets is impaired, an impairment loss shall be recognized. Due to the
+Company's previous accounting policies, this pronouncement had no material
+effect on the Company's financial position or results of operations.
+
+Operating, Selling and General and Administrative Expenses
+Buying, warehousing and occupancy costs are included in operating, selling and
+general and administrative expenses.
+
+Net Income per Share
+Net income per share is based on the weighted average outstanding common shares.
+The dilutive effect of stock options is insignificant and consequently has been
+excluded from the earnings per share computations.
+
+Stock Options
+Proceeds from the sale of common stock issued under the stock option plans and
+related tax benefits which accrue to the Company are accounted for as capital
+transactions, and no charges or credits are made to income in connection with
+the plans.
+
+Estimates and Assumptions
+The preparation of consolidated financial statements in conformity with
+generally accepted accounting principles requires management to make estimates
+and assumptions. These estimates and assumptions affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at
+the date of the consolidated financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ
+from those estimates.
+
+2  Commercial Paper and Long-Term Debt
+
+Information on short-term borrowings and interest rates is as follows (dollar
+amounts in millions):
+<TABLE>
+<CAPTION>
+Fiscal years ended January 31,                1997        1996        1995
+<S>                                         <C>         <C>         <C>
+Maximum amount outstanding at month-end     $ 2,209     $ 3,686     $ 2,729
+Average daily short-term borrowings           1,091       2,106       1,693
+Weighted average interest rate                  5.3%        5.9%        4.4%
+
+
+At January 31, 1997, the Company had committed lines of credit of $2,450 million
+with 34 banks and informal lines of credit with various banks totaling an
+additional $2,450 million, which were used to support short-term borrowings and
+commercial paper. Short-term borrowings under these lines of credit bear
+interest at or below the prime rate.
+
+</TABLE>
+<TABLE>
+<CAPTION>
+Long-term debt at January 31, 1997, consist of (amounts in millions):
+                                                    1997         1996
+<S>             <C>                              <C>          <C>               
+8 5/8%          Notes due April 2001             $   750      $   750
+5 7/8%          Notes due October 2005               597          750
+7 1/2%          Notes due May 2004                   500          500
+9 1/10%         Notes due July 2000                  500          500
+6 1/8%          Notes due October 1999               500          500
+5 1/2%          Notes due March 1998                 500          500
+7 8/10%-8 1/4%  Obligations from sale/leaseback
+                  transactions due 201  4            466          478
+6 1/2%          Notes due June 2003                  454          500
+7 1/4%          Notes due June 2013                  445          500
+7% - 8%         Obligations from sale/leaseback
+                  transactions due 2013              314          318
+6 3/4%          Notes due May 2002                   300          300
+8 1/2%          Notes due September 2024             250          250
+6 3/4%          Notes due October 2023               250          250
+8%              Notes due September 2006             250          250
+6 1/8%          Eurobond due November 2000           250          250
+6 7/8%          Eurobond due June 1999               250          250
+5 1/8%          Eurobond due October 1998            250          250
+7 %             Eurobond due April 1998              250          250
+6 3/8%          Notes due March 2003                 228          250
+6 3/4%          Eurobond due May 2002                200          200
+5 1/2%          Notes due September 1997                          500
+                Other                                205          212
+                                                 $ 7,709      $ 8,508
+</TABLE>
+
+Long-term debt is unsecured except for $206 million which is collateralized by
+property with an aggregate carrying value of approximately $347 million. Annual
+maturities of long-term debt during the next 5 years are
+(in millions):
+<TABLE>
+<CAPTION>
+Fiscal year ending                  Annual
+January 31,                       maturity
+<S>                              <C>
+1998                             $    523
+1999                                1,024
+2000                                  806
+2001                                2,018
+2002                                   52
+Thereafter                          3,809
+</TABLE>
+
+The Company has agreed to observe certain covenants under the terms of its note
+and debenture agreements, the most restrictive of which relates to amounts of
+additional secured debt and long-term leases.
+
+The Company has entered into sale/leaseback transactions involving buildings
+while retaining title to the underlying land.
+
+These transactions were accounted for as financings and are included in long-
+term debt and the annual maturities schedules above. The resulting obligations
+are amortized over the lease terms. Future minimum lease payments for each of
+the five succeeding years as of January 31, 1997 are (in millions):
+<TABLE>
+<CAPTION>
+Fiscal years ending              Minimum
+January 31,                         rentals
+<S>                                  <C>
+1998                                 $   76
+1999                                     76
+2000                                    104
+2001                                    100
+2002                                     94
+Thereafter                              915
+</TABLE>
+
+The fair value of the Company's long-term debt approximates $7,836 million 
+based on the Company's current incremental borrowing rate for similar types of
+borrowing arrangements.
+
+At January 31, 1997 and 1996, the Company had letters of credit outstanding
+totaling $811 million and $551 million, respectively. These letters of credit
+were issued primarily for the purchase of inventory.
+
+Under shelf registration statements previously filed with the Securities and
+Exchange Commission the Company may issue debt securities aggregating $751
+million.
+
+The Company has entered into an interest rate swap on an obligation which
+amortizes through 2006.
+
+The Company swapped a fixed rate of 6.97% for a variable short-term rate on a
+notional amount of $630 million amortizing down to $203 million with semi 
+annual settlements. The variable rate was 5.45% at the last settlement. This 
+interest rate swap is accounted for by recording the net interest received or
+paid as an adjustment to interest expense on a current basis. Gains or losses 
+resulting from market movements are not recognized. An increase in short term 
+rates would cause the Company an insignificant additional interest cost.
+
+3  Defined Contribution Plan
+
+The Company maintains a profit sharing plan under which most full and many 
+part-time Associates become participants following one year of employment. 
+Annual contributions, based on the profitability of the Company, are made at 
+the sole discretion of the Company. Contributions were $247 million, $204 
+million and $175 million in 1997, 1996 and 1995, respectively.
+
+4  Income Taxes
+<TABLE>
+<CAPTION>
+The income tax provision consists of the following(in millions):
+                                                 1997      1996      1995
+<S>                                           <C>       <C>        <C>  
+Current
+  Federal                                     $ 1,769   $ 1,342    $ 1,394
+  State and local                                 201       188        178
+  International                                     4
+Total current tax provision                     1,974     1,530      1,572
+Deferred
+  Federal                                         (97)      119          7
+  State and local                                  (9)       15          2
+  International                                   (74)      (58)
+Total deferred tax (benefit) provision           (180)       76          9
+Total provision for income taxes              $ 1,794   $ 1,606    $ 1,581
+</TABLE>
+
+     Items that give rise to significant portions of the deferred tax
+accounts at January 31, 1997, are as follows (in millions):
+<TABLE>
+<CAPTION>
+                                                 1997      1996      1995
+<S>                                           <C>       <C>       <C>
+Deferred tax liabilities:
+Property, plant and equipment                 $   721   $   617   $   518
+Inventory                                         145       135        88
+Other                                              45        19         8
+Total deferred tax liabilities                    911       771       614
+Deferred tax assets:
+Amounts accrued for financial
+  reporting purposes not yet
+  deductible for tax purposes                     295       204       230
+International, principally
+  asset basis difference                          231       101
+Capital leases                                    169       147       114
+Deferred revenue                                  113
+Other                                              68        49        33
+Total deferred tax assets                         876       501       377
+Net deferred tax liabilities                  $    35   $   270   $   237
+</TABLE>
+
+A reconciliation of the significant differences between the effective income 
+tax rate and the federal statutory rate on pretax income follows:
+<TABLE>
+<CAPTION>
+                                                 1997      1996      1995
+<S>                                              <C>       <C>       <C>
+Statutory tax rate                               35.0%     35.0%     35.0%
+State income taxes,
+   net of federal income tax benefit              2.2%      3.1%      2.7%
+International                                    (1.3%)    (0.8%)
+Other                                             1.1%     (0.3%)    (0.6%)
+                                                 37.0%     37.0%     37.1%
+
+
+5  Acquisitions
+
+In fiscal 1995, the Company acquired selected assets related to 122 Woolco
+stores in Canada from Woolworth Canada, Inc., a subsidiary of Woolworth
+Corporation, for approximately $352 million, recording $221 million of 
+leasehold and location value which is being amortized over 20 years.
+
+This transaction has been accounted for as a purchase. The results of 
+operations for the acquired units since the dates of their acquisitions have
+been included in the Company's results. Pro forma results of operations are 
+not presented due to the insignificant differences from the historical results.
+
+6  Stock Option Plans
+
+At January 31, 1997, 74 million shares of common stock were reserved for
+issuance under stock option plans. The options  granted under the stock option
+plans expire 10 years from the date of grant. Options granted prior to November
+17, 1995, may be exercised in nine annual installments. Options granted on or
+after November 17, 1995, may be exercised in seven annual installments. The
+Company has elected to follow Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees" (APB 25) and related Interpretations
+in accounting for its employee stock options because the alternative fair value
+accounting provided under FASB Statement 123, "Accounting for Stock-Based
+Compensation," requires the use of option valuation models that were not
+developed for use in valuing employee stock options. Under APB 25, because the
+exercise price of the Company's employee stock options equals the market price
+of the underlying stock on the date of the grant, no compensation expense is
+recognized. The effect of applying the fair value method of Statement 123 to 
+the Company's option plan would result in net income and net income per share 
+that are not materially different from the amounts reported in the Company's
+consolidated financial statements.
+
+Further information concerning the options is as follows:
+
+</TABLE>
+<TABLE>
+<CAPTION>
+                                              Option price
+                                    Shares       per share             Total
+<S>                             <C>           <C>               <C>
+Shares under option
+   January 31, 1994             15,876,000    $ 1.43-30.82      $298,248,000
+   Options granted               4,125,000     21.63-26.75        95,689,000
+   Options canceled             (1,013,000)     1.43-30.82       (23,127,000)
+   Options exercised            (1,019,000)     2.08-27.25        (7,829,000)
+   January 31, 1995             17,969,000      2.78-30.82       362,981,000
+   Options granted               7,114,000     23.50-24.75       167,959,000
+   Options canceled             (1,953,000)     3.75-30.82       (43,873,000)
+   Options exercised            (1,101,000)     2.78-25.38        (9,678,000)
+   January 31, 1996             22,029,000      4.94-30.82       477,389,000
+   Options granted              11,466,000     22.25-25.25       265,931,000
+   Options canceled             (2,110,000)     5.78-30.82       (49,109,000)
+   Options exercised              (999,000)     4.94-25.75       (10,327,000)
+   January 31, 1997             30,386,000    $ 6.50-30.82      $683,884,000
+   (6,448,000 shares exerciseable)
+
+Shares available for option
+   January 31, 1996             52,946,000
+   January 31, 1997             43,590,000
+</TABLE>
+
+7  Long-term lease Obligations
+
+The Company and certain of its subsidiaries have long-term leases for stores 
+and equipment. Rentals (including, for certain leases, amounts applicable to 
+taxes, insurance, maintenance, other operating expenses, and contingent 
+rentals) under all operating leases were $561 million, $531 million and $479 
+million in 1997, 1996 and 1995. Aggregate minimum annual rentals at January 
+31, 1997, under non-cancelable leases are as follows (in millions):
+
+7  Long-term Lease Obligations
+<TABLE>
+<CAPTION>
+Fiscal                                         Operating          Capital
+year                                              leases           leases
+<S>                                             <C>              <C>
+1998                                            $    435         $    317
+1999                                                 379              316
+2000                                                 364              314
+2001                                                 332              311
+2002                                                 321              311
+Thereafter                                         2,913            3,245
+Total minimum rentals                           $  4,744            4,814
+Less estimated executory costs                                         79
+Net minimum lease payments                                          4,735
+Less imputed interest at rates ranging from 6.1% to 14.0%           2,333
+Present value of minimum lease payments                           $ 2,402
+
+
+Certain of the leases provide for contingent additional rentals based on
+percentage of sales. Such additional rentals amounted to $51 million, $41
+million and $42 million in 1997, 1996 and 1995, respectively. Substantially all
+of the store leases have renewal options for additional terms from five to 25
+years at comparable rentals.
+
+The Company has entered into lease commitments for land and buildings for 30
+future locations. These lease commitments with real estate developers provide
+for minimum rentals for 20 years, excluding renewal options. If consummated
+based on current cost estimates, they will approximate $27 million annually 
+over the lease terms.
+
+8  Quarterly Financial Data (Unaudited)
+
+</TABLE>
+<TABLE>
+<CAPTION>
+Amounts in millions
+  (except per share information)                 Quarters ended
+1997                              April 30,   July 31,  October 31,  January 31,
+<S>                                <C>         <C>         <C>        <C> 
+Net sales                          $ 22,772    $ 25,587    $ 25,644   $ 30,856
+Cost of sales                        18,064      20,376      20,450     24,773
+Net income                              571         706         684      1,095
+Net income per share                   $.25        $.31        $.30       $.48
+1996
+Net sales                          $ 20,440    $ 22,723    $ 22,913   $ 27,551
+Cost of sales                        16,196      18,095      18,176     22,097
+Net income                              553         633         612        942
+Net income per share                   $.24        $.28        $.27       $.41
+</TABLE>
+
+Listings       Stock Symbol: WMT
+   New York Stock Exchange
+   Pacific Stock Exchange
+   Toronto Stock Exchange
+
+<TABLE>
+<CAPTION>
+Market Price of Common Stock
+
+                  Fiscal years ended January 31,
+                       1997                1996
+Quarter             Hi      Low         Hi      Low
+<S>              <C>      <C>        <C>      <C> 
+April 30         $ 24.50  $ 20.88    $ 26.00  $ 23.13
+July 31          $ 26.25  $ 22.88    $ 27.50  $ 23.00
+October 31       $ 28.13  $ 24.50    $ 26.00  $ 21.63
+January 31       $ 27.00  $ 22.13    $ 24.75  $ 19.25
+</TABLE>
+
+<TABLE>
+<CAPTION>
+Dividends Paid Per Share
+
+            Fiscal years ended January 31,
+                      Quarterly
+         1997                           1996             
+<S>              <C>             <C>              <C>
+April 8          $ 0.0525        April 14         $ 0.05
+July 8           $ 0.0525        July 10          $ 0.05
+October 7        $ 0.0525        October 3        $ 0.05
+January 17       $ 0.0525        January 5        $ 0.05
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<TEXT>
+
+                                EXHIBIT 21
+                   SUBSIDIARIES OF WAL-MART STORES, INC.
+
+
+                                                               NAME UNDER
+                                             PERCENT OF        WHICH DOING
+                                               EQUITY           BUSINESS
+                              STATE OF       SECURITIES        OTHER THAN
+SUBSIDIARY                  INCORPORATION      OWNED          SUBSIDIARY'S
+
+
+McLane Company, Inc.,          Texas            100%            Wal-Mart
+and its subsidiaries
+
+Wal-Mart Property Company      Delaware         100%            NA
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<TEXT>
+
+                                EXHIBIT 23
+                      CONSENT OF INDEPENDENT AUDITORS
+                                     
+
+      We  consent  to the incorporation by reference in this Annual  Report
+(Form  10-K) of Wal-Mart Stores, Inc. of our report dated March  21,  1997,
+included in the 1997 Annual Report to Shareholders of Wal-Mart Stores, Inc.
+
+      We also consent to the incorporation by reference of our report dated
+March  21,  1997, with respect to the consolidated financial statements  of
+Wal-Mart Stores, Inc. incorporated by reference in this Annual Report (Form
+10-K)  for  the year ended January 31, 1997, in the following  registration
+statements and related prospectuses.
+
+
+     The Wholesale Club, Inc.
+      Incentive Stock Option Plan
+      of Wal-Mart Stores, Inc.          Form S-8       File No. 33-42617
+
+     Associate Stock Purchase Plan
+      of Wal-Mart Stores, Inc.          Form S-8       File No. 2-64662
+
+     Stock Option Plan of 1984 of
+      Wal-Mart Stores, Inc., as         Form S-8       File No. 2-94358
+      amended                                            and 33-43315
+
+     Stock Option Plan of 1994 of
+      Wal-Mart Stores, Inc.             Form S-8       File No. 33-55325
+
+     Debt Securities and Pass-
+      Through Certificates of
+      Wal-Mart Stores, Inc.             Form S-3       File No. 33-55725
+
+     Director Compensation Plan
+      of Wal-Mart Stores, Inc.          Form S-8       File No. 333-24259
+
+     Debt Securities of Wal-Mart
+      Stores, Inc.                      Form S-3       File No. 33-53125
+
+     Dividend Reinvestment and
+      Stock Purchase Plan of
+      Wal-Mart Stores, Inc.             Form S-3       File No. 333-2089
+
+
+
+                                             ERNST & YOUNG LLP
+
+
+Tulsa, Oklahoma
+April 18, 1997
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JAN-31-1997
+<PERIOD-END>                               JAN-31-1997
+<CASH>                                             883
+<SECURITIES>                                         0
+<RECEIVABLES>                                      845
+<ALLOWANCES>                                         0
+<INVENTORY>                                     15,897
+<CURRENT-ASSETS>                                17,993
+<PP&E>                                          23,182
+<DEPRECIATION>                                   4,849
+<TOTAL-ASSETS>                                  39,604
+<CURRENT-LIABILITIES>                           10,957
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           228
+<OTHER-SE>                                      16,915
+<TOTAL-LIABILITY-AND-EQUITY>                    39,604
+<SALES>                                        104,859
+<TOTAL-REVENUES>                               106,146
+<CGS>                                           83,663
+<TOTAL-COSTS>                                  101,296
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 845
+<INCOME-PRETAX>                                  4,850
+<INCOME-TAX>                                     1,794
+<INCOME-CONTINUING>                              3,056
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     3,056
+<EPS-PRIMARY>                                     1.33
+<EPS-DILUTED>                                     1.33
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

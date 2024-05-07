@@ -1,0 +1,3159 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TvEq/pcwp01Q6lTRq5gt15gEHVJrul1P3VLDKNoKOXNReIdmCQIgyufEY9KXAryS
+ 2dePfzzM6HDEkoCsV5CYJA==
+
+<SEC-DOCUMENT>0000104169-96-000002.txt : 19960424
+<SEC-HEADER>0000104169-96-000002.hdr.sgml : 19960424
+ACCESSION NUMBER:		0000104169-96-000002
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19960131
+FILED AS OF DATE:		19960423
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WAL MART STORES INC
+		CENTRAL INDEX KEY:			0000104169
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				710415188
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06991
+		FILM NUMBER:		96549459
+
+	BUSINESS ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH ST
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+		BUSINESS PHONE:		5012734000
+
+	MAIL ADDRESS:	
+		STREET 1:		702 SOUTHWEST 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+
+                                 FORM 10-K
+                    SECURITIES AND EXCHANGE COMMISSION
+                          Washington, D.C.  20549
+                                     
+
+[X]   Annual  report  pursuant to section 13 or  15(d)  of  the  Securities
+Exchange Act of 1934 for the fiscal year ended January 31, 1996, or
+[  ]   Transition report pursuant to section 13 or 15(d) of the  Securities
+Commission file number 1-6991.
+                                     
+                           WAL-MART STORES, INC.
+          (Exact name of registrant as specified in its charter)
+                                     
+          Delaware                              71-0415188
+ (State or other jurisdiction of              (IRS Employer
+  incorporation or organization)             Identification No.)
+
+     Bentonville, Arkansas                        72716
+(Address of principal executive offices)        (Zip Code)
+
+Registrant's telephone number, including area code:  (501) 273-4000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                             Name of each exchange
+          Title of each class                 on which registered
+
+     Common Stock, par value $.10            New York Stock Exchange
+     per share                               Pacific Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:  None
+
+      Indicate  by  check mark whether the registrant  (1)  has  filed  all
+reports  required  to  be filed by Section 13 or 15(d)  of  the  Securities
+Exchange  Act  of 1934 during the preceding 12 months (or for such  shorter
+period that the registrant was required to file such reports), and (2)  has
+been subject to such filing requirements for at least the past 90 days.
+Yes   X        No
+
+      Indicate by check mark if disclosure of delinquent filers pursuant to
+Item  405  of  Regulation  S-K is not contained herein,  and  will  not  be
+contained,  to the best of registrant's knowledge, in definitive  proxy  or
+information statements incorporated by reference in Part III of  this  Form
+10-K or any amendment to this Form 10-K.  [ ]
+
+      The aggregate market value of the voting stock held by non-affiliates
+of  the  registrant, based on the closing price of these shares on the  New
+York  Stock  Exchange  on  March 29, 1996, was  $31,355,857,289.   For  the
+purposes  of  this  disclosure only, the registrant has  assumed  that  its
+directors, executive officers, and beneficial owners of 5% or more  of  the
+registrant's common stock are the affiliates of the Registrant.
+
+     The registrant has 2,293,548,492 shares of Common Stock outstanding as
+of March 31, 1996.
+
+                    DOCUMENTS INCORPORATED BY REFERENCE
+
+
+      Portions  of the Registrant's Annual Report to Shareholders  for  the
+fiscal year ended January 31, 1996, are incorporated by reference into Part
+II of this Form 10-K.
+
+     Portions of the Registrant's Proxy Statement for the Annual Meeting of
+Shareholders  to be held June 7, 1996, are incorporated by  reference  into
+Part III of this Form 10-K.
+
+                 FORWARD-LOOKING STATEMENTS OR INFORMATION
+                                     
+      Certain  statements  contained in this Form 10-K  are  not  based  on
+historical facts, but are forward-looking statements that are based upon  a
+number  of  assumptions concerning future conditions  that  may  ultimately
+prove  to  be inaccurate.  Actual events and results may materially  differ
+from  anticipated  results  described in such  statements.   The  Company's
+ability   to  achieve  such  results  is  subject  to  certain  risks   and
+uncertainties, including, but not limited to, the general economy,  adverse
+changes  in  consumer  spending,  continued  availability  of  capital  and
+financing,  competitive factors and other factors affecting  the  Company's
+business beyond the Company's control.
+
+                           WAL-MART STORES, INC.
+                          FORM 10-K ANNUAL REPORT
+                    FOR THE YEAR ENDED JANUARY 31, 1996
+                                     
+                                  PART I
+                                     
+ITEM 1.   BUSINESS
+
+          (a)  General Development of Business
+
+                Wal-Mart  Stores,  Inc.  (together  with  its  subsidiaries
+hereinafter  referred  to  as the "Company") has become  America's  largest
+retailer  and during the fiscal year ended January 31, 1996, had net  sales
+of  $93,627,000,000.   The Company serves customers primarily  through  the
+operation  of  Wal-Mart stores (discount department  stores),  Sam's  Clubs
+(warehouse membership clubs), and Wal-Mart Supercenters (a combination full-
+line supermarket and discount department store).  Domestically, the Company
+operated   1,995  Wal-Mart  stores,  433  Sam's  Clubs,  and  239  Wal-Mart
+Supercenters  as  of  January  31, 1996.  A table  summarizing  information
+concerning  domestic  Wal-Mart stores, Sam's Clubs, Wal-Mart  Supercenters,
+and other stores operated since January 31, 1991 is set forth in Schedule A
+to Item I found on page 9 of this annual report.
+
+               In fiscal 1992, the Company entered into a joint venture, in
+which  it  has  a  50% interest with CIFRA, Mexico's largest  retailer,  to
+develop and expand retailing services in Mexico.  At January 31, 1996,  the
+joint  venture operated 28 warehouse clubs, 25 discount stores, 13 Wal-Mart
+Supercenters,  four combination stores, three supermarkets, five  specialty
+department stores, and 48 restaurants.
+
+                In fiscal 1993, the Company entered the Puerto Rico market,
+and  at  January  31, 1996, operated seven Wal-Mart stores and  four  Sam's
+Clubs.
+
+               In fiscal 1995, the Company completed the acquisition of 122
+Woolco  department stores located in Canada from Woolworth Canada, Inc.,  a
+subsidiary   of  Woolworth  Corporation.   The  acquisition  included   all
+inventory,  leasehold  interests and other assets  at  each  location.   At
+January 31, 1996, the Company operated 131 Canadian Wal-Mart stores.
+
+                In fiscal 1995, the Company entered into a joint venture in
+which  it  has a 60% interest with Lojas Americanas, a leading retailer  in
+Brazil,  to develop and operate Supercenters and warehouse clubs in Brazil.
+At  January 31, 1996, the joint venture operated two Supercenters and three
+warehouse clubs.
+
+                In  fiscal  1996,  the Company entered  Argentina,  and  at
+January  31,  1996, the Company operated one Supercenter and two  warehouse
+clubs.
+
+                In  fiscal  1996, the Company and Lippo Group of  Indonesia
+signed an agreement to open Indonesia's first Wal-Mart Supercenter in early
+1996.   The  Company will provide retail expertise and management  services
+for  the  operation of the store, and ownership will be held by  the  Lippo
+Group.
+
+                A  table  summarizing information concerning  international
+units operated since fiscal 1992 is set forth in Schedule B to Item 1 found
+on page 10 of this annual report.
+
+
+          (b)  Financial Information About Industry Segments
+
+                Sales  of merchandise through stores which include Wal-Mart
+stores,  Sam's  Clubs,  and Wal-Mart Supercenters is the  only  significant
+industry segment of which the Company is a part.  Reference is made to  the
+financial  information incorporated by reference in  this  report  for  the
+financial results of the Company's operations.
+
+
+          (c)  Narrative Description of Business
+
+                The  Company,  a  Delaware corporation, has  its  principal
+offices in Bentonville, Arkansas.  Although the Company was incorporated in
+October  1969, the businesses conducted by its predecessors began  in  1945
+when  Sam  M.  Walton  opened  a franchise Ben Franklin  variety  store  in
+Newport, Arkansas.  In 1946, his brother, James L. Walton, opened a similar
+store  in  Versailles,  Missouri.  Until 1962, the Company's  business  was
+devoted  entirely to the operation of variety stores.  In  that  year,  the
+first  Wal-Mart Discount City (referred to herein as "Wal-Mart store")  was
+opened.   In  fiscal 1984, the Company opened its first three Sam's  Clubs,
+and in fiscal 1988, its first Wal-Mart Supercenter.  Through the years, the
+Company  has  made certain strategic acquisitions that have  supported  the
+growth  of  the  Wal-Mart  stores, clubs  and  Supercenters,  such  as  the
+acquisition  of  ten  full service and four specialty distribution  centers
+through  the  purchase of McLane Company, Inc., which sells and distributes
+merchandise  to  the  convenience store industry and  a  variety  of  other
+retailers, the acquisition of selected assets of Pace Membership Warehouse,
+Inc.,  and the acquisition of selected assets related to 122 Woolco  stores
+in   Canada   from  Woolworth  Canada,  Inc.,  a  subsidiary  of  Woolworth
+Corporation.
+
+           General.  The Company operates Wal-Mart stores in all 50 states.
+The  average size of a Wal-Mart store is approximately 91,100 square  feet,
+and  store sizes generally range between 30,000 and 150,000 square feet  of
+building  area.   The Company operates Wal-Mart Supercenter  stores  in  22
+states, and the average size of a Supercenter store is 182,000 square feet.
+
+           The Company operates Sam's Clubs in 48 states.  The average size
+of  a  Sam's  Club  is approximately 121,000 square feet,  and  club  sizes
+generally range between 90,000 and 150,000 square feet of building area.
+
+           The  Company operates Wal-Mart stores, Sam's Clubs and  Wal-Mart
+Supercenters  in  Argentina,  Canada and Puerto  Rico,  and  through  joint
+ventures in Brazil and Mexico.
+
+           During  the  last fiscal year, no single store or club  location
+accounted for as much as 1% of sales or net income.
+
+           Merchandise.   Wal-Mart stores are generally organized  with  40
+departments and offer a wide variety of merchandise, including apparel  for
+women,  girls,  men, boys, and infants.  Each store also carries  curtains,
+fabrics  and  notions,  shoes,  housewares,  hardware,  electronics,   home
+furnishings, small appliances, automotive accessories, garden equipment and
+supplies,  sporting goods, toys, cameras and supplies,  health  and  beauty
+aids, pharmaceuticals, and jewelry.
+
+           Nationally  advertised merchandise accounts for  a  majority  of
+sales  of  the stores.  The Company markets lines of merchandise under  the
+store  brands  "Sam's  American  Choice", "Great  Value",  "Ol'  Roy",  and
+"Equate".   The  Company also markets lines of merchandise  under  licensed
+brands;  some of which include "Sports Afield", "House Beautiful", "Popular
+Mechanics", "Better Homes & Gardens", "Kathie Lee", and "Bobbie Brooks".
+
+           During the fiscal year ended January 31, 1996, domestic sales of
+general  merchandise at Wal-Mart stores and Supercenters (which are subject
+to  seasonal variance), including licensed departments, by product category
+were as follows:
+
+
+                                              PERCENTAGE
+          CATEGORY                             OF SALES
+
+          Softgoods/domestics..............        25%
+          Hardgoods........................        25
+          Stationery and candy.............        11
+          Records and electronics..........        10
+          Pharmaceuticals..................         9
+          Sporting goods and toys..........         9
+          Health and beauty aids...........         7
+          Shoes............................         2
+          Jewelry..........................         2
+                                                  100%
+
+
+           Sales in pharmaceuticals are a combination of owned and licensed
+departments.    While   these  percentages  include   sales   of   licensed
+departments, the Company records as other income only rentals received from
+such departments.
+
+           Sam's  offers bulk displays of name brand hardgood  merchandise,
+some  softgoods,  and institutional size grocery items.   Each  Sam's  also
+carries jewelry, sporting goods, toys, tires, stationery, and books.   Most
+clubs have fresh food departments which include bakery, meat, and produce.
+
+          McLane offers a wide variety of grocery and non-grocery products,
+including  perishable  and non-perishable items.  The non-grocery  products
+consist  primarily  of tobacco products, hardgood merchandise,  health  and
+beauty aids, toys, and stationery.  McLane is a wholesale distributor  that
+sells  its  merchandise to a variety of retailers, including the  Company's
+Wal-Mart stores, Supercenters, and Sam's Clubs.
+
+           Operations.   Except for extended hours during  certain  holiday
+seasons,  the  majority of the Wal-Mart stores are open from 9:00  a.m.  to
+9:00 p.m. six (6) days a week, and from 12:30 p.m. to 5:30 p.m. on Sundays,
+with  the  remainder of the stores being closed on Sunday.   Some  Wal-Mart
+stores and most of the Supercenter stores are currently open 24 hours  each
+day.   Wal-Mart stores maintain uniform prices, except where  lower  prices
+are  necessary to meet local competition.  Sales are primarily on  a  self-
+service, cash-and-carry basis with the objective of maximizing sales volume
+and  inventory  turnover  while  minimizing  expenses.   Bank  credit  card
+programs,  operated without recourse to the Company, are available  in  all
+stores.    Wal-Mart  stores  and  Supercenters  maintain  a   "satisfaction
+guaranteed" program to promote customer goodwill and acceptance.
+
+           Sam's  Clubs  are  membership only,  cash-and-carry  operations.
+However,  a  financial  service  credit card  program  (Discover  Card)  is
+available  in  all clubs and the "Sam's Direct" commercial finance  program
+and  "Business  Revolving  Credit"  are available  to  qualifying  business
+members.  Also, a "Personal Credit" program is available to qualifying club
+members.   Club  members include businesses and those individuals  who  are
+members  of certain qualifying organizations, such as government and  state
+employees  and credit union members.  Both business and individual  members
+have an annual membership fee of $25 for the primary membership card.
+
+           Operating hours vary among Sam's Clubs, but generally  they  are
+open  Monday  through Friday from 10:00 a.m. to 8:30 p.m.  Most  Sam's  are
+open weekend hours of 9:30 a.m. to 7:00 p.m. on Saturday and 12:00 noon  to
+6:00 p.m. on Sunday.
+
+           Distribution.  During the 1996 fiscal year, approximately 85% of
+the  Wal-Mart  stores' and Supercenters' purchases were shipped  from  Wal-
+Mart's  31  distribution centers, five located in Arkansas; five in  Texas;
+two  in California, Indiana, New York, and South Carolina; and one each  in
+Alabama,  Colorado, Florida, Georgia, Iowa, Kansas, Kentucky,  Mississippi,
+Ohio, Pennsylvania, Utah, Virginia, and Wisconsin.  The balance was shipped
+directly to the stores from suppliers.  Each of the distribution centers is
+designed to serve the distribution needs of approximately 80 to 140  stores
+depending  on  the  size  of the center.  The size  of  these  distribution
+centers  range from approximately 700,000 to 1,600,000 square feet.   Sam's
+Clubs  receive  the majority of their merchandise via direct shipment  from
+suppliers rather than from the Company's distribution centers.
+
+           The  McLane  distribution  centers  buy,  sell,  and  distribute
+merchandise  primarily  to the convenience store industry,  and  they  also
+service  Wal-Mart stores, Supercenters and Sam's Clubs.  The McLane Company
+has  23  distribution centers with five located in Texas,  two  located  in
+Arizona, California, Utah, and Virginia, and one each in Colorado, Florida,
+Georgia,  Illinois, Kentucky, Mississippi, Missouri, New York,  Washington,
+and Mexico.
+
+           Merchandising.   Substantially all purchasing and  merchandising
+for  all  stores is controlled from the home offices of the Company through
+centralized buying and planning practices.  During the fiscal year 1996, no
+single supplier to the stores accounted for more than 4.3% of the Company's
+purchases.
+
+           Store  Management.  Every retail outlet is managed  by  a  store
+manager  or  club general manager and one or more assistant store  or  club
+managers.   The Company maintains training programs for managers, assistant
+managers  and department managers.  The Company is committed to an  ongoing
+training  program  in  an  effort  to  assure  well  trained  future  store
+management.
+
+           Expansion Plans.  Domestically, the Company plans to open 60  to
+70  new Wal-Mart stores and 100 to 110 Supercenters.  Approximately  90  of
+the  Supercenters will come from relocations or expansions of existing Wal-
+Mart  stores.  The Company also plans to open 10 new Sam's Clubs and  three
+distribution centers.  International expansion includes 25 to 30  new  Wal-
+Mart  stores,  Supercenters and Sam's Clubs in Argentina,  Brazil,  Canada,
+China,  Indonesia, Mexico and Puerto Rico.  The Company expenses its start-
+up  costs  for  each  new unit during the first full  month  of  operation.
+Delays   may   be  experienced  in  projected  opening  dates  because   of
+construction  problems,  weather  and  other  reasons.   There  can  be  no
+assurance that planned expansion will proceed as scheduled.
+
+           Seasonal  Aspects  of  Operations.  The  Company's  business  is
+seasonal  to  a  certain extent.  Generally, the highest  volume  of  sales
+occurs in the fourth fiscal quarter and the lowest volume occurs during the
+first fiscal quarter.
+
+           Competition.  The Company's Wal-Mart stores compete  with  other
+discount,  department, drug, variety, and specialty stores, many  of  which
+are national chains.  Sam's Clubs compete with wholesale clubs, as well  as
+with   discount  retailers,  wholesale  grocers,  and  general  merchandise
+wholesalers and distributors.  The Wal-Mart Supercenters compete with other
+supercenter  type  stores,  discount stores,  supermarkets,  and  specialty
+stores,  many  of which are national or regional chains.  The Company  also
+competes for new store sites.  As of January 31, 1996, based on net  sales,
+the Company ranked first among all retail department store chains and among
+all discount department store chains.
+
+          The Company's competitive position within the industry is largely
+determined  by  the  Company's ability to offer value and  service  to  its
+customers.   The Company has many programs designed to meet the competitive
+needs  of  its  industry.  These include the "Everyday  Low  Price",  "Item
+Merchandising",  "Store-Within-a-Store",  "Our  Business  is  Saving   Your
+Business Money", and "Buy America" programs.  Although the Company believes
+it  has  had a major influence in most of the retail markets in  which  its
+stores are located, there is no assurance that this will continue.
+
+           Employees (Associates).  As of January 31, 1996, the Company had
+approximately  675,000  associates, an  increase  of  approximately  53,000
+associates  for  the  year.   Part-time  associates  are  primarily   sales
+personnel.  Associates who are in supervisory and management positions  are
+compensated  on a salaried basis; store managers and club general  managers
+receive  additional compensation based on their unit's profits.  All  other
+store associates are compensated on an hourly basis with the opportunity of
+receiving   additional   incentive  bonuses  based   upon   the   Company's
+productivity and profitability.
+
+          The Company maintains profit sharing plans under which most full-
+and  many  part-time associates become participants following one  year  of
+employment   with  the  Company.   Annual  contributions,  based   on   the
+profitability  of  the  Company, are made at the  sole  discretion  of  the
+Company.   For  the  fiscal  years ended January  31,  1991  through  1996,
+contributions  of  approximately $98,000,000,  $130,000,000,  $166,000,000,
+$166,000,000, $175,000,000 and $204,000,000, respectively, have been made.
+
+           The  Company also offers an associate stock ownership plan  that
+provides for the voluntary purchase of the Company's common stock,  with  a
+15%  match  by the Company on up to $1,800 of annual stock purchases.   The
+Company  also  has  stock  option  plans that  provide  certain  management
+associates an opportunity to share in the long-term success of the Company.
+At  January  31, 1996, there were approximately 5,000 management associates
+who had been granted stock options by the Company.
+
+<TABLE>
+                     WAL-MART STORES, INC. AND SUBSIDIARIES
+ SCHEDULE A TO ITEM 1 - UNITED STATES STORE COUNT AND NET SQUARE FOOTAGE GROWTH
+                    YEAR ENDED JANUARY 31, 1991 THROUGH 1996
+                                        
+<CAPTION>
+STORE COUNT
+
+                                                                   Wal-Mart
+Fiscal Year        Wal-Mart Stores             Sam's Clubs       Supercenters            Total**      
+ ended                                                                                        Ending
+Jan 31,  Opened Closed Conversions* Total  Opened Closed Total  Opened Total Opened  Closed  Balance
+<S>        <C>     <C>      <C>     <C>     <C>      <C>  <C>     <C>   <C>    <C>     <C>    <C>  
+ Balance Forward                    1,399                 123             6                   1,528
+1991       176     5         2      1,568    25      0    148      3      9    202      5     1,725
+1992       148     1         1      1,714    61      1    208      1     10    209      2     1,932
+1993       159     1        24      1,848    48      0    256     24     34    207      1     2,138
+1994       141     2        37      1,950   162      1    417     38     72    304      3     2,439
+1995       109     5        69      1,985    21     12    426     75    147    136     17     2,558
+1996        92     2        80      1,995     9     2     433     92    239    113      4     2,667
+</TABLE>
+<TABLE>
+<CAPTION>
+NET SQUARE FOOTAGE
+
+Fiscal Year
+  Ended        Wal-Mart Stores               Sam's Clubs           Wal-Mart Supercenters               Total           Sales Per
+ Jan 31,   Net Additions     Total     Net Additions    Total     Net Additions    Total   Net Additions     Sq. Ft.   Sq.Ft.***   
+<S>         <C>           <C>            <C>          <C>          <C>          <C>         <C>           <C>           <C>     
+Balance Forward             92,648,056                13,064,172                 1,049,932                106,762,160   $272.75
+ 1991       17,737,917     110,385,973    2,874,666   15,938,838       683,769   1,733,701  21,296,352    128,058,512    292.40
+ 1992       17,729,395     128,115,368    7,320,510   23,259,348       180,545   1,914,246  25,230,450    153,288,962    306.33
+ 1993       19,251,060     147,366,428    7,444,530   30,703,878     4,037,493   5,951,739  30,733,083    184,022,045    325.86   
+ 1994       16,185,442     163,551,870   19,670,804   50,374,682     6,762,080  12,713,819  42,618,326    226,640,371    324.42
+ 1995       10,109,978     173,661,848    1,335,742   51,710,424    14,087,725  26,801,544  25,533,445    252,173,816    336.10
+ 1996        8,189,400     181,851,248      825,020   52,535,444    16,791,559  43,593,103  25,805,979    277,979,795    338.53
+</TABLE>
+[FN]
+<F1>
+*     Wal-Mart stores locations relocated or expanded as Wal-Mart Supercenters.
+<F2>
+**   The Company also operated 78 Bud's Discount City units at January 31, 1996.
+<F3>
+*** Includes only stores and clubs that were open at least twelve months as of
+    January 31 of the previous year.
+
+<TABLE>
+                     WAL-MART STORES, INC. AND SUBSIDIARIES
+ SCHEDULE B TO ITEM 1 - INTERNATIONAL STORE COUNT AND NET SQUARE FOOTAGE GROWTH
+                    YEAR ENDED JANUARY 31, 1992 THROUGH 1996
+<CAPTION>
+                                        
+STORE COUNT
+
+Fiscal           MEXICO              CANADA          PUERTO RICO              ARGENTINA                 BRAZIL
+Year     Wal-Mart   Sam's         Wal-Mart      Wal-Mart Sam's          Wal-Mart   Sam's          Wal-Mart   Sam's
+Ended  Supercenters Clubs Total*   Stores Total  Stores  Clubs Total  Supercenters Clubs Total  Supercenters Clubs Total
+<S>         <C>      <C>    <C>      <C>    <C>      <C>   <C>   <C>        <C>      <C>    <C>       <C>      <C>    <C>
+1992         0        2      2         0      0      0     0      0         0        0      0         0        0      0
+1993         0        3      3         0      0      2     0      2         0        0      0         0        0      0
+1994         2        7      9         0      0      3     2      5         0        0      0         0        0      0
+1995        11       22     33       123    123      5     2      7         0        0      0         0        0      0
+1996        13       28     41       131    131      7     4     11         1        2      3         2        3      5
+</TABLE>
+
+
+<TABLE>
+NET SQUARE FOOTAGE
+<CAPTION>
+Fiscal          MEXICO                    CANADA                  PUERTO RICO               ARGENTINA               BRAZIL 
+Year
+Ended   Net Additions  Total*    Net Additions    Total   Net Additions    Total    Net Additions   Total  Net Additions  Total
+<S>       <C>        <C>          <C>         <C>             <C>       <C>           <C>         <C>         <C>        <C> 
+1992        162,535    162,535             0           0            0           0           0          0            0          0
+1993        143,000    305,535             0           0      229,647     229,647           0          0            0          0
+1994        946,717  1,252,252             0           0      339,260     568,907           0          0            0          0
+1995      3,537,080  4,789,332    14,651,969  14,651,969      266,279     835,186           0          0            0          0
+1996      1,091,123  5,880,455       872,446  15,524,415      478,848   1,314,034     438,787     438,787     772,221    772,221
+</TABLE>
+[FN]
+*  The Company also operated 25 discount stores, four combination stores, three
+supermarkets, five specialty department stores, and 48 restaurants as of January
+31, 1996.  These units are not included in square footage totals.
+
+ITEM 2.   PROPERTIES
+
+           The  number  and  location  of  Wal-Mart  stores,  Supercenters,  and
+Sam's  Clubs  is  incorporated  by reference of  the  table  under  the  caption
+"Operating  Units"  of  Page  8 of the Annual Report  to  Shareholders  for  the
+year ended January 31, 1996.
+
+            The  Company  owns  1,123  properties  on  which  domestic  Wal-Mart
+stores  and  Supercenters  are  located and  268  of  the  properties  on  which
+domestic  Sam's  are  located.   In  some  cases,  the  Company  owns  the  land
+associated  with  leased  buildings.   New buildings,  both  leased  and  owned,
+are constructed by independent contractors.
+
+           The  remaining  buildings  in which its present  stores  are  located
+are  either  leased  from a commercial property developer,  leased  pursuant  to
+a  sale/leaseback  arrangement,  or  leased from  a  local  governmental  entity
+through   an  industrial  revenue  bond  transaction.   All  of  the   Company's
+leases  for  its  stores provide for fixed annual rentals and,  in  many  cases,
+the leases provide for additional rent based on sales volume.
+
+           The  Company  operated  31 Wal-Mart distribution  facilities  and  23
+McLane   distribution  facilities  at  January  31,  1996.   These  distribution
+facilities  are  primarily  owned by the Company, and  several  are  subject  to
+mortgage  securing  loans.   Some  of  the distribution  facilities  are  leased
+under  industrial  development  bond  financing  arrangements  and  provide  the
+option  of  purchasing  these  facilities at the  end  of  the  lease  term  for
+nominal amounts.
+
+           The  Company  leases  properties on which  Canadian  Wal-Mart  stores
+and  Puerto  Rico  Wal-Mart  stores and Sam's Clubs are  located.   The  Company
+owns  properties  on  which  the  operating  units  in  Argentina,  Brazil   and
+Mexico are located.
+
+           The  Company  owns  office facilities in Bentonville,  Arkansas  that
+serve  as  the  home  office and owns additional office  facilities  in  Temple,
+Texas.
+
+
+ITEM 3.   LEGAL PROCEEDINGS
+
+            The   Company  is  not  a  party  to  any  material  pending   legal
+proceedings  and  no  properties of the Company  are  subject  to  any  material
+pending  legal  proceeding,  other than routine  litigation  incidental  to  its
+business.
+
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+           No  matters  were  submitted  to a vote  of  the  Company's  security
+holders during the last quarter of the year ended January 31, 1996.
+
+
+ITEM 4A.  EXECUTIVE OFFICERS OF THE REGISTRANT
+
+           The  following  information is furnished  with  respect  to  each  of
+the  executive  officers  of  the  Company, each  of  whom  is  elected  by  and
+serves  at  the  pleasure  of the Board of Directors.  The  business  experience
+shown  for  each  officer has been his principal occupation  for  at  least  the
+past five years.
+
+                                                        Current
+                                                        Position
+     Name             Business Experience              Held Since     Age
+
+David D. Glass        President and Chief Executive       1988         60
+                      Officer.
+
+S. Robson Walton      Chairman. From 1985 until his       1992         51
+                      election as Chairman in 1992,
+                      he served as Vice Chairman.
+
+Donald G. Soderquist  Vice Chairman and Chief Operating   1988         62
+                      Officer.
+
+Paul R. Carter        Executive Vice President -          1995         55
+                      Wal-Mart Stores, Inc. and
+                      President - Wal-Mart Realty
+                      Company.  Prior to 1995, he
+                      served as Executive Vice
+                      President and Chief Financial
+                      Officer.
+
+Thomas M. Coughlin    Executive Vice President -          1995         47
+                      Store Operations.  Prior to
+                      1995, he served as Senior Vice
+                      President - Specialty Divisions.
+
+David Dible           Executive Vice President            1995         49
+                      Specialty Divisions.  Prior to
+                      1995, he served as Senior Vice
+                      President - Merchandising.
+
+Joseph S. Hardin, Jr. Executive Vice President -          1995         50
+                      Wal-Mart Stores, Inc. and
+                      President and Chief Executive
+                      Officer of Sam's Club Division.
+                      Prior to October 1995, he served
+                      as Executive Vice President -
+                      Wal-Mart Stores, Inc. and Chief
+                      Operating Officer of Wal-Mart
+                      Stores Division.  Prior to 1993, he
+                      served as Executive Vice President -
+                      Logistics and Personnel Adminis-
+                      tration.  Prior to 1992, he held the
+                      position of Senior Vice President -
+                      Distribution and Transportation.
+
+Bob L. Martin         Executive Vice President -          1993         47
+                      Wal-Mart Stores, Inc. and President
+                      and Chief Executive Officer of
+                      Wal-Mart International Division.
+                      Prior to 1993, he served as
+                      Executive Vice President - Corporate
+                      Information Systems.  Prior to 1992,
+                      he served as Senior Vice President -
+                      Information Systems.
+
+John B. Menzer        Executive Vice President and        1995         45
+                      Chief Financial Officer since
+                      September 1995.  Prior to September
+                      1995, he served as President and
+                      Chief Operating Officer of Ben
+                      Franklin Retail Stores, Inc.
+
+H. Lee Scott, Jr.     Executive Vice President -          1995         47
+                      Merchandising.  Prior to October
+                      1995, he served as Executive Vice
+                      President - Logistics.  Prior to
+                      that, he served as Senior Vice
+                      President - Logistics.  Prior to
+                      1992, he served as Vice President -
+                      Distribution.
+
+Thomas P. Seay        Executive Vice President - Real     1992         54
+                      Estate and Construction.  Prior
+                      to 1992, he served as Senior Vice
+                      President - Real Estate and
+                      Construction.
+
+Nicholas J. White     Executive Vice President -          1989         51
+                      Wal-Mart Supercenter Division.
+                      Prior to 1989, he served as
+                      Executive Vice President -
+                      Sam's Clubs.
+
+Robert K. Rhoads      Senior Vice President, Secretary    1992         41
+                      and General Counsel.  Prior to
+                      1992, he served as Vice President,
+                      Secretary and General Counsel.
+
+William G. Rosier     President and Chief Executive       1995         47
+                      Officer of McLane Company, Inc.
+                      Prior to 1995, he served as Senior
+                      Vice President - Marketing and
+                      Customer Services for McLane.
+                      Prior to 1991, he served as Senior
+                      Vice President - Purchasing and
+                      Distribution for McLane.
+
+James A. Walker, Jr.  Senior Vice President and           1995         49
+                      Controller.  Prior to 1995, he
+                      served as Vice President and
+                      Controller.
+
+                                  PART II
+
+ITEM 5.   MARKET FOR THE REGISTRANT'S COMMON EQUITY
+          AND RELATED SHAREHOLDER MATTERS
+
+            The   information   required  by  this  item  is   incorporated   by
+reference  of  the  information "Number of Shareholders  of  Record"  under  the
+caption  "11  Year  Financial  Summary"  on  Pages  18  and  19,  and  all   the
+information   under   the  captions  "Market  Price   of   Common   Stock"   and
+"Dividends  Paid  Per  Share" on page 33 of the Annual  Report  to  Shareholders
+for the year ended January 31, 1996.
+
+ITEM 6.   SELECTED FINANCIAL DATA
+
+            The   information   required  by  this  item  is   incorporated   by
+reference  of  all  information under the caption "11  Year  Financial  Summary"
+on  Pages  18  and 19 of the Annual Report to Shareholders for  the  year  ended
+January 31, 1996.
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+          CONDITION AND RESULTS OF OPERATIONS
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation   by   reference   of   all   information   under   the    caption
+"Management's  Discussion and Analysis" on Pages 20 through  22  of  the  Annual
+Report to Shareholders for the year ended January 31, 1996.
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation   by   reference   of   all   information   under   the   captions
+"Consolidated   Statements   of   Income",   "Consolidated   Balance    Sheets",
+"Consolidated  Statements  of  Shareholders' Equity",  "Consolidated  Statements
+of  Cash  Flows",  and  "Notes to Consolidated Financial  Statements"  on  Pages
+23  through  31  of  the  Annual  Report to  Shareholders  for  the  year  ended
+January 31, 1996.
+
+ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+          ACCOUNTING AND FINANCIAL DISCLOSURE
+
+          None.
+
+                               PART III
+                                     
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+           Information  required  by  this item with respect  to  the  Company's
+directors  and  compliance by the Company's directors,  executive  officers  and
+certain  beneficial  owners of the Company's Common  Stock  with  Section  16(a)
+of  the  Securities  Exchange  Act  of 1934 is  furnished  by  incorporation  by
+reference   of  all  information  under  the  captions  entitled  "Election   of
+Directors"  on  Pages  1 through 3 and "Compliance with  Section  16(a)  of  the
+Securities  Exchange  Act  of 1934" on Page 8 of the Company's  Proxy  Statement
+for  its  Annual  Meeting  of Shareholders to be held  on  June  7,  1996.   The
+information  required  by  this item with respect  to  the  Company's  executive
+officers appears at Item 4A of Part I of this Form 10-K.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation  by  reference  of  all information  under  the  caption  entitled
+"Executive  Compensation",  subcaptions "Summary  Compensation  Table",  "Option
+Grants  in  Fiscal  Year  Ended January 31, 1996",  and  "Option  Exercises  and
+Fiscal  Year  End  Option  Values" on Pages 3 through 5,  and  "Compensation  of
+Directors" on Page 7 of the Company's Proxy Statement.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+          AND MANAGEMENT
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation  by  reference  of  all  information  under  the  caption  "Equity
+Securities  and  Principal  Holders" on Pages 8 and 9  of  the  Company's  Proxy
+Statement.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+            The   information   required   by  this   item   is   furnished   by
+incorporation  by  reference  of all information  under  the  caption  "Interest
+of  Management  in  Certain  Transactions" on Page  8  of  the  Company's  Proxy
+Statement.
+
+
+                                  PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES,
+          AND REPORTS ON FORM 8-K
+
+(a)  1. & 2.   Consolidated Financial Statements
+
+            The  financial  statements  listed  in  the  Index  to  Consolidated
+Financial   Statements,  which  appears  on  Page  19,   are   incorporated   by
+reference herein or filed as part of this Form 10-K.
+
+     3.   Exhibits
+
+          The following documents are filed as exhibits to this Form 10-K:
+
+            3(a)  Restated  Certificate  of  Incorporation  of  the  Company  is
+                  incorporated herein by reference to Exhibit 3(a) from the
+                  Annual Report on Form 10-K of the Company for the year ended
+                  January 31, 1989, and the Certificate of Amendment to the
+                  Restated Certificate of Incorporation is incorporated herein
+                  by reference to Registration Statement on Form S-8 (File
+                  Number 33-43315).
+
+            3(b)  By-Laws of the Company, as amended June 3, 1993, are
+                  incorporated herein by reference to Exhibit 3(b) to the
+                  Company's Annual Report on Form 10-K for the year ended
+                  January 31, 1994.
+
+           4(a)   Form of Indenture dated as of June 1, 1985, between the
+                  Company and Boatmen's Trust Company (formerly Centerre Trust
+                  Company) of St. Louis, Trustee, is incorporated herein by
+                  reference to Exhibit 4(c) to Registration Statement on Form
+                  S-3 (File Number 2-97917).
+
+           4(b)   Form of Indenture dated as of August 1, 1985, between the
+                  Company and Boatmen's Trust Company (formerly Centerre Trust
+                  Company) of St. Louis, Trustee, is incorporated herein by
+                  reference to Exhibit 4(c) to Registration Statement on Form
+                  S-3 (File Number 2-99162).
+
+           4(c)   Form of Amended and Restated Indenture, Mortgage and Deed of
+                  Trust, Assignment of Rents and Security Agreement dated as
+                  of December 1, 1986, among the First National Bank of Boston
+                  and James E. Mogavero, Owner Trustees, Rewal Corporation I,
+                  Estate for Years Holder, Rewal Corporation II, Remainderman,
+                  the Company and the First National Bank of Chicago and R.D.
+                  Manella, Indenture Trustees, is incorporated herein by
+                  reference to Exhibit 4(b) to Registration Statement on Form
+                  S-3 (File Number 33-11394).
+
+           4(d)   Form of Indenture dated as of July 15, 1990, between the
+                  Company and Harris Trust and Savings Bank, Trustee, is
+                  incorporated herein by reference to Exhibit 4(b) to
+                  Registration Statement on Form S-3 (File Number 33-35710).
+
+           4(e)   Indenture dated as of April 1, 1991, between the Company and
+                  The First National Bank of Chicago, Trustee, is incorporated
+                  herein by reference to Exhibit 4(a) to Registration
+                  Statement on Form S-3 (File Number 33-51344).
+
+           4(f)   First Supplemental Indenture dated as of September 9, 1992,
+                  to the Indenture dated as of April 1, 1991, between the
+                  Company and The First National Bank of Chicago, Trustee, is
+                  incorporated herein by reference to Exhibit 4(b) to
+                  Registration Statement on Form S-3 (File Number 33-51344).
+
+          +10(a)  Form of individual deferred compensation agreements is
+                  incorporated herein by reference to Exhibit 10(b) from the
+                  Annual Report on Form 10-K of the Company, as amended, for
+                  the year ended January 31, 1986.
+
+          +10(b)  Wal-Mart Stores, Inc. Stock Option Plan of 1984 is
+                  incorporated herein by reference to Registration Statement
+                  on Form S-8 (File Number 2-94358).
+
+         +10(c)   1986 Amendment to the Wal-Mart Stores, Inc. Stock Option
+                  Plan of 1984 is incorporated herein by reference to Exhibit
+                  10(h) from the Annual Report on Form 10-K of the Company for
+                  the year ended January 31, 1987.
+
+         +10(d)   1991 Amendment to the Wal-Mart Stores, Inc. Stock Option
+                  Plan of 1984 is incorporated herein by reference to Exhibit
+                  10(h) from the Annual Report on Form 10-K of the Company for
+                  the year ended January 31, 1992.
+
+         +10(e)   1993 Amendment to the Wal-Mart Stores, Inc. Stock Option
+                  Plan of 1984 is incorporated herein by reference to Exhibit
+                  10(i) from the Annual Report on Form 10-K of the Company for
+                  the year ended January 31, 1993.
+
+          +10(f)  Wal-Mart Stores, Inc. Stock Option Plan of 1994 is
+                  incorporated herein by reference to Exhibit 4(c) to the
+                  registration statement on Form S-8 (File Number 33-5325).
+
+          +10(g)  A written description of a consulting agreement by and
+                  between Wal-Mart Stores, Inc. and Jack C. Shewmaker, is
+                  incorporated herein by reference to the description
+                  contained in the second paragraph under the caption
+                  "Compensation of Directors" on Page 7 in the Company's
+                  definitive Proxy Statement to be filed in connection with
+                  the Annual Meeting of the Shareholders to be held on June 7,
+                  1996.
+
+         +10(h)   Wal-Mart Stores, Inc. Directors Deferred Compensation Plan
+                  is incorporated herein by reference to Exhibit 4(d) to
+                  Registration Statement on Form S-8 (File Number 33-55178).
+
+        *+10(i)   Wal-Mart Stores, Inc. Officer Deferred Compensation Plan.
+
+         *13      All information incorporated by reference in Items 2, 5, 6,
+                  7 and 8 of this Annual Report on Form 10-K from the Annual
+                  Report to Shareholders for the year ended January 31, 1996.
+
+         *21      List of the Company's Subsidiaries
+
+         *23      Consent of Independent Auditors
+
+         *27      Financial Data Schedule
+
+*Filed herewith as an Exhibit.
+
++Management contract or compensatory plan or arrangement.
+
+
+(b)  Reports on Form 8-K
+
+           The  Company  did  not  file a report on Form  8-K  during  the  last
+quarter of the fiscal year ended January 31, 1996.
+
+                INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+                                     
+
+                                                  Annual
+                                                 Report to
+                                                Shareholders
+                                                  (page)
+
+Covered by Report of Independent
+   Auditors:
+
+   Consolidated Statements of Income
+     for each of the three years in the
+     period ended January 31, 1996                  23
+
+   Consolidated Balance Sheets at
+     January 31, 1996 and 1995                      24
+
+   Consolidated Statements of
+     Shareholders' Equity for each
+     of the three years in the
+     period ended January 31, 1996                  25
+
+   Consolidated Statements of Cash
+     Flows for each of the three
+     years in the period ended
+     January 31, 1996                               26
+
+   Notes to Consolidated Financial
+     Statements, except Note 8                     27-31
+
+Not Covered by Report of Independent
+   Auditors:
+
+   Note 8 - Quarterly Financial Data
+     (unaudited)                                    31
+
+
+All  schedules  have  been  omitted  because the  required  information  is  not
+present  or  is  not  present in amounts sufficient  to  require  submission  of
+the   schedule,  or  because  the  information  required  is  included  in   the
+financial statements, including the notes thereto.
+
+                                SIGNATURES
+                                     
+            Pursuant  to  the  requirements  of  Section  13  or  15(d)  of  the
+Securities  Exchange  Act of 1934, the registrant has duly  caused  this  report
+to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+DATE:     April 22, 1996              BY:/s/David D. Glass
+                                            David D. Glass
+                                            President and Chief
+                                            Executive Officer
+
+           Pursuant  to  the  requirements of the  Securities  Exchange  Act  of
+1934,  this  report  has been signed below by the following  persons  on  behalf
+of the registrant and in the capacities and on the dates indicated:
+
+
+
+DATE:     April 22, 1996                  _________________________________
+                                             S. Robson Walton
+                                             Chairman of the Board
+
+
+
+DATE:     April 22, 1996                 /s/David D. Glass
+                                            David D. Glass
+                                            President, Chief Executive
+                                            Officer and Director
+
+
+
+DATE:     April 22, 1996                 /s/Donald G. Soderquist
+                                            Donald G. Soderquist
+                                            Vice Chairman, Chief
+                                            Operating Officer
+                                            and Director
+
+
+
+DATE:     April 22, 1996                 /s/Paul R. Carter
+                                            Paul R. Carter
+                                            Executive Vice President,
+                                            President - Wal-Mart Realty
+                                            Company and Director
+
+
+
+DATE:     April 22, 1996                 /s/John B. Menzer
+                                            John B. Menzer
+                                            Executive Vice President and
+                                            Chief Financial Officer
+                                            (Principal Financial Officer)
+
+
+
+
+DATE:     April 22, 1996                 /s/James A. Walker, Jr.
+                                            James A. Walker, Jr.
+                                            Senior Vice President and
+                                            Controller
+                                            (Principal Accounting Officer)
+
+
+DATE:     April 22, 1996                 /s/John A. Cooper, Jr.
+                                            John A. Cooper, Jr.
+                                            Director
+
+
+DATE:     April 22, 1996                   ________________________________
+                                            Robert H. Dedman
+                                            Director
+
+
+DATE:     April 22, 1996                 /s/Frederick S. Humphries
+                                            Frederick S. Humphries
+                                            Director
+
+
+DATE:     April 22, 1996                 /s/F. Kenneth Iverson
+                                            F. Kenneth Iverson
+                                            Director
+
+
+DATE:     April 22, 1996                   ________________________________
+                                            E. Stanley Kroenke
+                                            Director
+
+
+DATE:     April 22, 1996                 /s/Elizabeth A. Sanders
+                                            Elizabeth A. Sanders
+                                            Director
+
+
+DATE:     April 22, 1996                 /s/Jack C. Shewmaker
+                                            Jack C. Shewmaker
+                                            Director
+
+
+DATE:     April 22, 1996                   ________________________________
+                                            Paula Stern
+                                            Director
+
+
+DATE:     April 22, 1996                   ________________________________
+                                            John T. Walton
+                                            Director
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<TEXT>
+
+
+
+
+
+                      WAL-MART STORES, INC.
+               OFFICER DEFERRED COMPENSATION PLAN
+                                
+                                
+                                
+                                
+                                
+Effective Date:     February 1, 1996
+
+                        TABLE OF CONTENTS
+
+Page
+
+ARTICLE I
+     GENERAL................................................  1
+     1.1       Purpose......................................  1
+     1.2       Effective Date -- Applicability to Prior
+               Deferred Compensation Agreements.............  1
+     1.3       Nature of Plan...............................  1
+
+ARTICLE II
+     DEFINITIONS............................................  2
+     2.1       Definitions..................................  2
+
+ARTICLE III
+     DEFERRED COMPENSATION AND BONUSES -- ESTABLISHMENT OF
+     ACCOUNTS...............................................  5
+     3.1       Deferred Compensation........................  5
+     3.2       Deferred Bonuses.............................  5
+     3.3       Establishment of Accounts....................  6
+     3.4       Nature of Accounts...........................  6
+     3.5       Annual Valuation of Accounts.................  6
+
+ARTICLE IV
+     ADDITIONS TO ACCOUNTS -- CREDITED EARNINGS AND INCENTIVE
+     PAYMENTS...............................................  7
+     4.1       Credited Annual Earnings.....................  7
+     4.2       Incentive Payments...........................  7
+
+ARTICLE V
+     PAYMENT OF PLAN BENEFITS............................... 11
+     5.1       Distribution Restrictions.................... 11
+     5.2       Termination Benefits......................... 11
+     5.3       Retirement, Early Retirement, and Disability
+               Benefits..................................... 12
+     5.4       Death Benefits............................... 13
+     5.5       Designation of Beneficiary................... 15
+     5.6       Form of Distribution......................... 15
+     5.7       Reductions Arising from a Participant's Gross
+               Misconduct................................... 16
+     5.8       Distributions for Unforeseeable Emergencies.. 16
+
+ARTICLE VI
+     ADMINISTRATION......................................... 18
+     6.1       General...................................... 18
+
+ARTICLE VII
+     CLAIMS PROCEDURE....................................... 19
+     7.1       General...................................... 19
+     7.2       Appeals Procedure............................ 19
+
+ARTICLE VIII
+     MISCELLANEOUS PROVISIONS............................... 20
+     8.1       Amendment, Suspension or Termination of Plan. 20
+     8.2       Non-Alienability............................. 20
+     8.3       No Employment Rights......................... 20
+     8.4       No Right to Bonus............................ 20
+     8.5       Withholding and Employment Taxes............. 20
+     8.6       Income and Excise Taxes...................... 21
+     8.7       Successors and Assigns....................... 21
+     8.8       Governing Law................................ 21
+
+                                
+                      WAL-MART STORES, INC.
+                  OFFICER DEFERRED COMPENSATION PLAN
+
+                            ARTICLE I
+                             GENERAL
+     1.1  Purpose
+
+     The purpose of the Wal-Mart Stores, Inc. Officer Deferred
+Compensation Plan ("Plan") is to:  (a) attract and retain the
+valuable services of certain officers; (b) recognize, reward, and
+encourage contributions by such officers to the success of Wal-
+Mart Stores, Inc. ("Wal-Mart"); and (c) enable such officers to
+defer certain compensation and bonuses and to be credited with
+earnings and Incentive Payments with respect to such amounts.
+
+     1.2  Effective Date -- Applicability to Prior Deferred
+          Compensation Agreements.
+
+     This Plan is effective February 1, 1996 with respect to
+compensation and bonuses deferred (and credited earnings thereon)
+under the Plan on or after February 1, 1996.
+
+     In addition, prior to February 1, 1995, certain Eligible
+Officers entered into deferred compensation agreements ("Prior
+Agreements") with Wal-Mart containing terms similar to those
+contained in this Plan.  Except as expressly provided in Sections
+5.5 and 5.6 below, effective February 1, 1996 the Prior
+Agreements are amended and restated in the form of this Plan and
+thereafter the terms of this Plan will govern all benefits
+previously governed by the Prior Agreements.
+
+     1.3  Nature of Plan.
+
+     The Plan is intended to be (and will be administered as) an
+unfunded employee pension plan benefiting a select group of
+management or highly compensated employees under the provisions
+of the Employee Retirement Income Security Act of 1974 ("ERISA").
+It is intended that the Plan be "unfunded" for federal tax
+purposes and for purposes of Title I of ERISA.  Any and all
+payments to a Participant under the Plan will be made solely from
+Wal-Mart's general assets.  A Participant's interests under the
+Plan do not represent or create a claim against specific assets
+of Wal-Mart or any Related Affiliate.  Nothing herein shall be
+deemed to create a trust of any kind or create any fiduciary
+relationship between Wal-Mart, any Related Affiliate or the
+Committee, and a Participant, the Participant's beneficiary or
+any other person.  To the extent any person acquires a right to
+receive payments from Wal-Mart under this Plan, such right is no
+greater than the right of any other unsecured general creditor of
+Wal-Mart.
+
+                      ARTICLE II
+                     DEFINITIONS
+
+     2.1  Definitions.
+
+     Whenever used in this Plan, the following words and phrases
+have the meaning set forth below unless the context plainly
+requires a different meaning:
+
+          (a)  Account means the bookkeeping account established
+     by Wal-Mart to reflect a Participant's Deferred
+     Compensation, Deferred Bonuses, Incentive Payments, and
+     credited earnings thereon.
+
+          (b)  Code means the Internal Revenue Code of 1986, as
+     amended from time to time.
+
+          (c)  Committee means the Executive Committee of the Wal-
+     Mart Stores, Inc. Board of Directors.
+
+          (d)  Deferred Bonuses means the amount deferred from
+     bonuses payable to a Participant under the Wal-Mart Stores,
+     Inc. Management Incentive Plan for Officers.
+
+          (e)  Deferred Compensation means:  (1) the compensation
+     deferred by a Participant under Section 3.1 below; and (2)
+     amounts deferred by a Participant under a Prior Agree
+     ment(s).
+
+          (f)  Disability means a Total and Permanent Disability
+     as from time to time defined in the Wal-Mart Stores, Inc.
+     Profit Sharing Plan.  A Participant must establish to the
+     satisfaction of the Committee that a Disability exists.  A
+     Participant shall be treated as having a Disability only if
+     such illness or injury results in the Participant's
+     Termination of Employment.
+
+          (g)  Early Retirement means a Participant's Termination
+     of Employment on or after the date the Participant has been
+     continuously employed with Wal-Mart or a Related Affiliate
+     twenty (20) or more years.
+
+          (h)  Eligible Officer means an individual who is a
+     corporate officer of Wal-Mart and who holds the title of
+     Vice President or above, Treasurer, Controller, or an
+     officer title of similar rank as determined by the
+     Committee.  In addition, Eligible Officer shall include a
+     divisional officer of Wal-Mart and who holds the title of
+     Vice President or above or an officer title of similar rank
+     as determined by the Committee.  Notwithstanding the
+     preceding sentences, the term "Eligible Officer" shall not
+     include an individual who entered into a Prior Agreement
+     with Wal-Mart unless such individual consents to
+     participation in the Plan on the terms and conditions herein
+     set forth.
+
+          (i)  Fiscal Year means the twelve (12)-month period
+     commencing on February 1 and ending on January 31.
+
+          (j)  A Participant is deemed to have engaged in Gross
+     Misconduct if the Committee determines that the Participant
+     has engaged in conduct inimical to the best interests of Wal-
+     Mart or any Related Affiliate.  Examples of conduct inimical
+     to the best interests of Wal-Mart or its Related Affiliates
+     include, without limitation, disclosure of confidential
+     information in violation of Wal-Mart's Statement of Ethics,
+     theft, the commission of a felony or a crime of moral
+     turpitude, gross misconduct or similar serious offenses.
+
+          (k)  Incentive Payments means the amounts credited to a
+     Participant's Account:  (1) in accordance with Section 4.2
+     below; and (2) a Participant's Prior Agreement(s).
+
+          (l)  Participant means any Eligible Officer who defers
+     compensation or bonuses under the Plan.  An individual
+     remains a Participant in the Plan until the Participant's
+     Plan benefits have been fully distributed.
+
+          (m)  Related Affiliates means a business or entity that
+     is, directly or indirectly, eighty percent (80%) or more
+     owned by Wal-Mart.
+
+          (n)  Retirement means a Participant's Termination of
+     Employment on or after the Participant's attainment of age
+     fifty-five (55).
+
+          (o)  Termination of Employment means a Participant
+     ceasing to be actively employed by Wal-Mart and its Related
+     Affiliates.  Termination of Employment does not include the
+     transfer of a Participant from the employ of Wal-Mart to a
+     Related Affiliate or vice versa, or a transfer between Wal-
+     Mart's Related Affiliates.
+
+          (p)  Unforeseeable Emergency means a severe financial
+     hardship to the Participant resulting from a sudden and
+     unexpected illness or accident of the Participant or a
+     Participant's dependent (as defined in Code Section 152(a)),
+     the loss of the Participant's property due to casualty, or
+     other similar extraordinary and unforeseeable circumstances
+     arising as a result of events beyond the control of the
+     Participant.  An Unforeseeable Emergency does not exist to
+     the extent such hardship is or may be relieved:
+
+               (1)  through reimbursement or compensation by
+          insurance or otherwise;
+
+               (2)  by liquidation of the Participant's assets,
+          to the extent the liquidation of such assets would
+          itself  not cause severe financial hardship; or
+
+               (3)  by cessation of deferrals under this Plan.
+
+     The need to send a Participant's child to college or the
+     desire to purchase a home does not constitute an
+     Unforeseeable Emergency.  The existence of an Unforeseeable
+     Emergency will be determined by the Committee, in its sole
+     discretion, based upon the Participant's facts and
+     circumstance and in accordance with restrictions imposed by
+     the Code or guidance thereunder.
+
+          (q)  Valuation Date means the January 31 of each Fiscal
+     Year.
+
+
+                          ARTICLE III
+               DEFERRED COMPENSATION AND BONUSES --
+                    ESTABLISHMENT OF ACCOUNTS
+
+     3.1  Deferred Compensation.
+
+     Prior to each Fiscal Year, each Eligible Officer may elect
+to defer all or a portion of the Eligible Officer's base
+compensation to be paid by Wal-Mart for such Fiscal Year.
+Amounts deferred (the "Deferred Compensation") will be deferred
+pro ratably for each payroll period of the Fiscal Year.  All
+deferral elections made under this Section 3.1 must be:  (a) made
+on forms approved by the Committee; and (b) filed with Wal-Mart
+no later than the January 31 preceding the Fiscal Year for which
+the deferral election is to be effective.  Once made for a Fiscal
+Year, a deferral election may not be revoked, changed or
+modified.  Notwithstanding the preceding sentence, in the event
+an Eligible Officer ceases to be employed as an Eligible Officer,
+such former Eligible Officer's deferral election shall
+automatically cease with respect to compensation earned on or
+after the individual ceases to be an Eligible Officer.  A
+deferral election for one (1) Fiscal Year will not automatically
+be given effect for a subsequent Fiscal Year, so that if
+deferrals are desired for a subsequent Fiscal Year, a separate
+election must be made by the Eligible Officer for such Fiscal
+Year.
+
+
+     3.2  Deferred Bonuses.
+
+     Prior to each Fiscal Year, each Eligible Officer may elect
+to defer all or a portion of the Eligible Officer's bonus (if
+any) for such Fiscal Year under the Wal-Mart Stores, Inc.
+Management Incentive Plan for Officers.  All bonus deferral
+elections made under this Section 3.2 must be:  (a) made on forms
+approved by the Committee; and (b) filed with Wal-Mart no later
+than the January 31 preceding the Fiscal Year in which falls the
+period of service for which such bonus (if any) is payable,
+regardless of the Fiscal Year in which such bonus is paid.  Once
+made for a Fiscal Year, a bonus deferral election may not be
+revoked, changed or modified.  Notwithstanding the preceding
+sentence, in the event an Eligible Officer ceases to be employed
+as an Eligible Officer, such former Eligible Officer's bonus
+deferral election shall automatically cease with respect to that
+portion of a bonus earned on or after the date the individual
+ceases to be an Eligible Officer.  For this purpose, the portion
+of a bonus earned on or after ceasing to be an Eligible Officer
+shall be determined by multiplying the bonus by a fraction, the
+numerator of which is the number of calendar days in such Fiscal
+Year in which the individual ceased to be an Eligible Officer,
+and the denominator of which is the total calendar days in such
+Fiscal Year.  A bonus deferral election for one (1) Fiscal Year
+will not automatically be given effect for a subsequent Fiscal
+Year, so that if deferrals are desired for a subsequent Fiscal
+Year, a separate election must be made by the Eligible Officer
+for such Fiscal Year.
+
+     3.3  Establishment of Accounts.
+
+     The Deferred Compensation, Deferred Bonuses, and Incentive
+Payments will be credited to a bookkeeping account ("Account")
+established by Wal-Mart on behalf of each Participant.  The
+Deferred Compensation will be credited to the Participant's
+Account as of the last day of the Fiscal Year during which the
+Deferred Compensation would otherwise be payable to the
+Participant.  The Deferred Bonus will be credited to the
+Participant's Account as of the February 1 following the Fiscal
+Year in which falls the period of service for which such bonus is
+payable.  The Incentive Payments will be credited to the
+Participant's Account as of the last day of the Fiscal Year
+specified in Section 4.2 or the Participant's Prior Agreement(s).
+A Participant's Account, including earnings credited thereto,
+will be maintained by Wal-Mart until all of the Plan
+Participant's benefits have been paid in full.
+
+     3.4  Nature of Accounts.
+
+     Each Participant's Account will be used solely as a
+measuring device to determine the amount to be paid a Participant
+under this Plan.  The Accounts do not constitute, nor will they
+be treated as, property or a trust fund of any kind.  All amounts
+at any time attributable to a Participant's Account will be, and
+remain, the sole property of Wal-Mart.  A Participant's rights
+hereunder are limited to the right to receive Plan benefits as
+provided herein.  The Plan represents an unsecured promise by Wal-
+Mart to pay the benefits provided by the Plan.
+
+     3.5  Annual Valuation of Accounts.
+
+     Each Participant's Account will be valued annually as of
+each Valuation Date.  The value of an Account as of any
+applicable Valuation Date is the sum of the Account value as of
+the immediately preceding Valuation Date, the Deferred
+Compensation and Incentive Payments allocated as of the
+applicable Valuation Date, the Deferred Bonuses allocated as of
+the February 1 following the preceding Valuation Date, and the
+equivalent of interest credited to the Account under Section 4.1
+as of the applicable Valuation Date, less any distributions for
+Unforeseeable Emergencies since the preceding Valuation Date but
+on or before the applicable Valuation Date.
+
+                           ARTICLE IV
+           ADDITIONS TO ACCOUNTS -- CREDITED EARNINGS
+                     AND INCENTIVE PAYMENTS
+
+     4.1  Credited Annual Earnings.
+
+     For each Fiscal Year a Participant's Account will be
+credited with the equivalent of interest at the per annum rate
+established for such Fiscal Year by the Compensation Committee of
+the Wal-Mart Board of Directors. The per annum rate may be
+increased or decreased for any Fiscal Year to reflect changes in
+prevailing interest rates, as determined at the sole discretion
+of the Compensation Committee.  Except for a Fiscal Year in which
+a Participant receives a distribution due to an Unforeseeable
+Emergency, the amount to be credited to a Participant's Account
+as of any Valuation Date is the sum of:  (a) the applicable per
+annum rate multiplied by the Participant's Account value as of
+the immediately preceding Valuation Date; and (b) fifty percent
+(50%) of the applicable per annum rate multiplied by the sum of
+(1) the Participant's Deferred Compensation for the Fiscal Year
+ending on the Valuation Date and (2) the Participant's Deferred
+Bonuses allocated on the February 1 of the Fiscal Year ending on
+the Valuation Date.
+
+     For a Fiscal Year in which a Participant receives a distri-
+bution due to an Unforeseeable Emergency, the amount to be
+credited to the Participant's Account as of the applicable
+Valuation Date is the sum of:  (a) an equivalent amount of pro
+rata interest on the Participant's Account value as of the
+preceding Valuation Date based upon the number of full calendar
+months in the Fiscal Year which the Account was not reduced due
+to the distribution; (b) an equivalent amount of pro rata
+interest on the Account value immediately after the distribution
+based upon the number of calendar months in the Fiscal Year in
+which the Participant's Account was reduced; and (c) fifty
+percent (50%) of the applicable per annum rate multiplied by the
+sum of (1) the Participant's Deferred Compensation for the Fiscal
+Year ending on the Valuation Date and (2) the Participant's
+Deferred Bonuses allocated on the February 1 of the Fiscal Year
+ending on the Valuation Date.
+
+     4.2  Incentive Payments.
+
+     The Incentive Payments described below will be credited to a
+Participant's Account.  Incentive Payments awarded and credited
+to a Participant's Account under a Prior Agreement (such
+Incentive Payments were previously referred to as "incentive
+bonuses" under the Prior Agreements), and credited interest
+thereon, will remain credited to a Participant's Account
+hereunder as of January 31, 1996.  Thereafter, a Participant's
+entitlement to an Incentive Payment will be governed by this
+Section 4.2, including any Incentive Payment which may be awarded
+with respect to recognized Deferred Compensation (and credited
+earnings thereon) deferred under a Prior Agreement.  Incentive
+Payments hereunder shall not duplicate any Incentive Payment
+awarded and credited under a Prior Agreement as of January 31,
+1996.
+
+          (a)  The Incentive Payments provided in this Section
+     apply to a Participant's recognized Deferred Compensation
+     for a Fiscal Year and credited Plan earnings thereon.  Incen-
+     tive Payments are separately awarded based upon a
+     Participant's recognized Deferred Compensation for a given
+     Fiscal Year and credited Plan earnings thereon.
+
+          (b)  The amount of an Incentive Payment is based on the
+     Participant's recognized Deferred Compensation for a Fiscal
+     Year, plus credited Plan earnings on such sums through and
+     including the Incentive Payment award date.  The amount by
+     which a Participant's Deferred Compensation for a Fiscal
+     Year exceeds twenty percent (20%) of the Participant's base
+     compensation will not be recognized in computing an
+     Incentive Payment. Base compensation for this purpose means
+     the Participant's annual base rate of compensation for such
+     Fiscal Year.  Credited Plan earnings on such nonrecognized
+     Deferred Compensation are likewise not taken into account in
+     determining the amount of an Incentive Payment.  In
+     addition, a Participant's Deferred Bonuses or credited Plan
+     earnings thereon are not taken into account in computing the
+     Participant's Incentive Payments.
+
+          (c)  If a Participant remains continuously employed
+     with Wal-Mart or its Related Affiliates for a period of ten
+     (10) consecutive full Fiscal Years, beginning with the
+     February 1 of the first Fiscal Year in which the Participant
+     had a Deferred Compensation election in effect under this
+     Plan or a Prior Agreement, and ending with the January 31 of
+     the tenth (10th) Fiscal Year of such period, an Incentive
+     Payment will be credited to the Participant's Account as of
+     the January 31 of such tenth (10th) Fiscal Year.  The
+     Incentive Payment will be equal to twenty percent (20%) of
+     the Participant's recognized Deferred Compensation for ten
+     (10), but not less than five (5), Fiscal Years (i.e., the
+     first six (6) Fiscal Years of such ten (10)-year period),
+     plus credited Plan earnings thereon through the award date.
+     For each full Fiscal Year thereafter in which the
+     Participant remains continuously employed with Wal-Mart or
+     its Related Affiliates, an Incentive Payment will be
+     credited to the Participant's Account as of the January 31
+     of such Fiscal Year.  Such Incentive Payment will be equal
+     to twenty percent (20%) of the Participant's recognized
+     Deferred Compensation for the first Fiscal Year of the five
+     (5)- consecutive Fiscal Year period ending on the January 31
+     award date, plus credited Plan earnings thereon through the
+     award date.
+
+          (d)  If a Participant remains continuously employed
+     with Wal-Mart or its Related Affiliates for a period of
+     fifteen (15) consecutive full Fiscal Years, beginning with
+     the February 1 of the first Fiscal Year in which the
+     Participant had a Deferred Compensation election in effect
+     under this Plan or a Prior Agreement, and ending with the
+     January 31 of the fifteenth (15th) Fiscal Year of such
+     period, an Incentive Payment will be credited to the
+     Participant's Account as of the January 31 of such fifteenth
+     (15th) Fiscal Year.  The Incentive Payment will be equal to
+     ten percent (10%) of the Participant's recognized Deferred
+     Compensation for fifteen (15), but not less than ten (10),
+     Fiscal Years (i.e., the first six (6) Fiscal Years of such
+     fifteen (15)-year period), plus credited Plan earnings
+     thereon through the award date.  For each full Fiscal Year
+     thereafter in which the Participant remains continuously
+     employed with Wal-Mart or its Related Affiliates, an
+     Incentive Payment will be credited to the Participant's
+     Account as of the January 31 of such Fiscal Year.  Such
+     Incentive Payment will be equal to ten percent (10%) of the
+     Participant's recognized Deferred Compensation for the first
+     Fiscal Year of a ten (10)-consecutive Fiscal Year period
+     ending on the January 31 award date, plus credited Plan
+     earnings thereon through the award date.  The Incentive
+     Payments provided in this Section 4.2(d) shall not take into
+     account Incentive Payments credited under Section 4.2(c) or
+     credited Plan earnings thereon.
+
+          (e)  The Incentive Payments provided in this Section
+     4.2(e) only apply if a Participant has been a Participant
+     under the Plan (or a Prior Agreement) for five (5) or more
+     full Fiscal Years and if the Participant incurs a
+     Retirement, Early Retirement, death or Disability before
+     satisfaction of the ten (10)- or fifteen (15)-year periods
+     described in Sections 4.2 (c) and (d) above.  In that event,
+     only the Incentive Payment next to be credited (i.e., twenty
+     percent (20%) or ten percent (10%)) will be credited to the
+     Participant's Account as provided in this Section 4.2(e).
+     In the event the Participant had not yet been awarded or
+     credited with a twenty percent (20%) Incentive Payment under
+     Section 4.2(c), the Incentive Payment provided by this
+     Section 4.2(e) will be based upon the ratio of (1) the
+     number of full Fiscal Years worked since and including the
+     first Fiscal Year in which the Participant had a Deferred
+     Compensation election in effect under this Plan or a Prior
+     Agreement, to (2) ten (10), multiplied by twenty percent
+     (20%).  Such Incentive Payment will be based upon recognized
+     amounts for the Fiscal Years which would otherwise have been
+     considered in calculating the Participant's first Incentive
+     Payment under Section 4.2(c).  If the Participant has been
+     awarded a twenty percent (20%) Incentive Payment provided in
+     Section 4.2 (c), the Incentive Payment provided by this
+     Section 4.2(e) will be based upon the ratio of (1) the
+     number of full Fiscal Years worked since the award date of
+     the initial twenty percent (20%) Incentive Payment, to (2)
+     five (5), multiplied by ten percent (10%).  Such Incentive
+     Payment will be based upon recognized amounts for the Fiscal
+     Years which would otherwise have been considered in
+     calculating the Participant's first Incentive Payment under
+     Section 4.2(d).  The Incentive Payment provided under this
+     Section 4.2(e) will be determined and credited to the
+     Participant's Account as of the date the Participant's Plan
+     benefits are distributed in a lump sum payment.  If,
+     however, a Participant's benefits are to be distributed in
+     installments, the amounts provided under this Section 4.2(e)
+     will be determined and credited to the Participant's Account
+     as of the Valuation Date on which installments are based.
+
+                               ARTICLE V
+                        PAYMENT OF PLAN BENEFITS
+
+     5.1  Distribution Restrictions.
+
+     Except in the event of a Participant's Unforeseeable Emergency,
+Plan benefits will not be payable to a Participant prior to the
+earliest occurrence of the Participant's Retirement, Early
+Retirement, Termination of Employment, Disability or death.
+
+     5.2  Termination Benefits.
+
+     (a)  General.
+
+     In the event of a Participant's Termination of Employment for
+reasons other than the Participant's Retirement, Early Retirement,
+Disability or death, the Participant's Plan benefits will be
+distributed in a lump sum within sixty (60) days after the end of the
+calendar month in which the Termination of Employment occurs.
+
+     (b)  Termination on Last Business Day of Fiscal Year.
+
+     If the Participant's Termination of Employment occurs on the
+last business day (excluding for this purpose, Saturday and Sunday)
+of a Fiscal Year, the lump sum amount will be the sum of: (a) the
+value of the Participant's Account, as determined under Section 3.5,
+as of the Valuation Date coincident with or immediately following the
+Participant's Termination of Employment;  (b) the Participant's
+Deferred Bonus allocated as of the February 1 following such
+Valuation Date; and (c) a pro rata amount of interest equivalent
+(determined at the per annum rate in effect for the Fiscal Year in
+which distribution occurs) on the sum of the amounts determined in
+(a) and (b) through the date of distribution based upon the number of
+calendar days since such Valuation Date.
+
+     (c)  Termination on Other Than Last Business Day of Fiscal
+Year.
+
+     If the Participant's Termination of Employment occurs on a date
+other than the last business day (excluding for this purpose,
+Saturday and Sunday) of a Fiscal Year, the lump sum amount will equal
+the sum of:  (a) the value of the Participant's Account as of the
+Valuation Date immediately preceding Termination of Employment; (b) a
+pro rata amount of interest equivalent (determined at the per annum
+rate in effect for a Fiscal Year under Section 4.1) on the
+Participant's Account value as of such immediately preceding
+Valuation Date based upon the number of calendar days since such
+Valuation Date through the date of distribution; (c) the sum of the
+Participant's Deferred Compensation for the Fiscal Year in which
+Termination of Employment occurs and the Participant's Deferred Bonus
+allocated as of the February 1 of the Fiscal year in which
+Termination of Employment occurs; and (d) a pro rata amount of
+interest equivalent (determined at one-half (1/2) the per annum rate
+in effect for a Fiscal Year under Section 4.1) on the amount
+determined in (c) based upon the number of calendar days since the
+Valuation Date immediately preceding Termination of Employment
+through date of distribution.
+
+     (d)  Death.
+
+     In the event of a Participant's death before payment of the
+amounts provided by this Section 5.2, such amounts will be paid in a
+lump sum to the Participant's beneficiary designated under Section
+5.5 at the time provided herein.
+
+     5.3  Retirement, Early Retirement, and Disability Benefits.
+
+     (a)  General.
+
+     In the event of a Participant's Termination of Employment due to
+the Participant's Retirement, Early Retirement or Disability, the
+Participant's Plan benefits will be distributed in a lump sum or in
+substantially equal annual installments over a period not to exceed
+fifteen (15) years, in accordance with the Participant's distribution
+election given effect under the provisions of Section 5.6 below.
+
+     (b)  Lump Sum Distributions.
+
+     If distribution is to be made in the form of a lump sum, the
+Participant's Plan benefits will be distributed within sixty (60)
+days after the end of the calendar month in which the Retirement,
+Early Retirement or Disability occurs.  If the Participant's
+Retirement, Early Retirement or Disability occurs on the last
+business day (excluding for this purpose Saturday and Sunday) of a
+Fiscal Year, the lump sum amount will be the sum of:  (1) the value
+of the Participant's Account, as determined under Section 3.5, as of
+the Valuation Date coincident with or immediately following the
+Participant's Retirement, Early Retirement or Disability;  (2) the
+Participant's Deferred Bonus allocated as of the February 1 following
+such Valuation Date; (3) a pro rata amount of interest equivalent
+(determined at the per annum rate in effect for the Fiscal Year in
+which distribution occurs) on the sum of the amounts determined in
+(1) and (2) through the date of distribution based upon the number of
+calendar days since such Valuation Date; and (4) the Participant's
+Incentive Payment (if any) as provided in Section 4.2(e).
+
+     If the Participant's Retirement, Early Retirement or Disability
+occurs on a date other than the last business day (excluding for this
+purpose Saturday and Sunday) of a Fiscal Year, the lump sum amount
+will equal the sum of:  (1) the value of the Participant's Account as
+of the Valuation Date immediately preceding Retirement, Early
+Retirement or Disability; (2) a pro rata amount of interest
+equivalent (determined at the per annum rate in effect for a Fiscal
+Year under Section 4.1) on the Participant's Account value as of such
+immediately preceding Valuation Date based upon the number of
+calendar days since such Valuation Date through the date of
+distribution; (3) the Participant's Deferred Compensation for the
+Fiscal Year in which Retirement, Early Retirement or Disability
+occurs and the Participant's Deferred Bonus allocated as of the
+February 1 of the Fiscal Year in which Retirement, Early Retirement
+or Disability occurs; (4) the Participant's Incentive Payment (if
+any) as provided in Section 4.2(e); and (5) a pro rata amount of
+interest equivalent (determined at one-half (1/2) the per annum rate
+in effect for a Fiscal Year under Section 4.1) on the amount deter-
+mined in (3) based upon the number of calendar days since the
+Valuation Date immediately preceding Retirement, Early Retirement or
+Disability through the date of distribution.
+
+     (c)  Installment Distributions.
+
+     If distribution is to be made in the form of annual install-
+ments, the Participant's installments will be based upon the value of
+the Participant's Account, as determined under Section 3.5, as of the
+Valuation Date coincident with or immediately following the
+Participant's Retirement, Early Retirement or Disability, plus any
+Deferred Bonus allocated as of the following February 1.  The Plan
+benefits determined above will be paid in equal annual installments
+in an amount which would fully amortize a loan equal to such Plan
+benefits over the period covered by the installment period (such
+period commencing on the February 1 following the Valuation Date the
+Participant's Account is valued under this Section), with interest
+calculated at the per annum rate in effect for the Fiscal Year in
+which the Participant's Retirement, Early Retirement or Disability
+occurs.  The first installment will be paid on the second January 31
+coincident with or following the Participant's Retirement, Early
+Retirement or Disability, and continue on each successive January 31
+until the Participant's benefits are distributed in full.
+
+     (d)  Death.
+
+     In the event of a Participant's death before full payment of
+Plan benefits under this Section 5.3, payment shall be made (or
+continue to be made) to the Participant's beneficiary designated
+under Section 5.5 in the same form as elected by the Participant for
+distribution of Retirement, Early Retirement or Disability benefits.
+
+     5.4  Death Benefits.
+
+     (a)  General.
+
+     In the event of a Participant's Termination of Employment due to
+the Participant's death, the Participant's Plan benefits will be
+distributed in a lump sum or in substantially equal annual
+installments over a period not to exceed fifteen (15) years, in
+accordance with the Participant's distribution election given effect
+under the provisions of Section 5.6 below.  Amounts will be
+distributed to the beneficiary designated under 5.5 below.
+
+     (b)  Lump Sum Distributions.
+
+     If distribution is to be made in the form of a lump sum, the
+Participant's Plan benefits will be distributed within sixty (60)
+days after the end of the calendar month in which the Participant's
+death occurs.  If the Participant's death occurs on the last business
+day (excluding for this purpose Saturday and Sunday) of a Fiscal
+Year, the lump sum amount will be the sum of:  (1) the value of the
+Participant's Account, as determined under Section 3.5, as of the
+Valuation Date coincident with or immediately following the
+Participant's death; (2) the Participant's Deferred Bonus allocated
+as of the February 1 following such Valuation Date; (3) a pro rata
+amount of interest equivalent (determined at the per annum rate in
+effect for the Fiscal Year in which distribution occurs) on the sum
+of the amounts determined in (1) and (2) through the date of
+distribution based upon the number of calendar days since such
+Valuation Date; and (4) the Participant's Incentive Payment (if any)
+as provided in Section 4.2(e).
+
+     If the Participant's death occurs on a date other the last
+business day (excluding for this purpose Saturday and Sunday) of a
+Fiscal Year, the lump sum amount will equal the sum of:  (1) the
+value of the Participant's Account as of the Valuation Date immedi-
+ately preceding the Participant's death; (2) a pro rata amount of
+interest equivalent (determined at the per annum rate in effect for a
+Fiscal Year on the Participant's Account value as of the immediately
+preceding Valuation Date based upon the number of full calendar days
+since such Valuation Date through date of distribution; (3) the
+Participant's Deferred Compensation for the Fiscal Year in which the
+Participant's death occurs and the Participant's Deferred Bonus
+allocated as of the February 1 of the Fiscal Year in which the
+Participant's death occurs; (4) the Participant's Incentive Payment
+(if any) as provided in Section 4.2(e); and (5) a pro rata amount of
+interest equivalent (determined at one-half (1/2) the per annum rate
+in effect for a Fiscal Year on the amount determined in (3) based
+upon the number of calendar days since the Valuation Date immediately
+preceding the Participant's death through the date of distribution.
+
+     (c)  Installment Distributions.
+
+     If distribution is to be made in the form of annual install
+ments, the installments will be based upon the value of the
+Participant's Account, as determined under Section 3.5, as of the
+Valuation Date coincident with or immediately following the
+Participant's death, plus any Deferred Bonus allocated as of the
+following February 1.  The Plan benefits determined above will be
+paid in equal annual installments in an amount which would fully
+amortize a loan equal to such Plan benefits over the period covered
+by the installment period (such period commencing on the February 1
+following the Valuation Date the Participant's Account is valued
+under this Section), with interest calculated at the per annum rate
+in effect for the Fiscal Year in which the Participant's death
+occurs.  The first installment will be paid on the second January 31
+coincident with or following the Participant's death, and continue on
+each successive January 31 until the Participant's benefits are
+distributed in full.
+
+     5.5  Designation of Beneficiary.
+
+     A Participant may, by written instrument delivered to Wal-Mart
+on forms prescribed by the Committee, designate primary and
+contingent beneficiaries to receive any benefit payments which may be
+payable under this Plan following the Participant's death, and may
+designate the proportions in which such beneficiaries are to receive
+such payments.  A Participant may change such designations from time
+to time and the last written designation filed with Wal-Mart prior to
+the Participant's death will control.  In the event no beneficiary is
+designated, or if the designated beneficiary predeceases the
+Participant, payment shall be payable to the Participant's estate.
+For this purpose, a Participant's most recent written beneficiary
+designation properly filed under a Prior Agreement shall continue to
+be given effect until otherwise modified in accordance with the
+provisions of this Section.
+
+     5.6  Form of Distribution.
+
+     If a Participant's Termination of Employment is due to the
+Participant's Retirement, Early Retirement, Disability or death, at
+the Participant's election distribution may be made in a lump sum or
+in substantially equal annual installments over a period not to
+exceed fifteen (15) years.  A Participant may file a distribution
+election with Wal-Mart on forms prescribed by the Committee.  A
+distribution election, once given effect under this Section 5.6, will
+apply to the Participant's total Plan benefits.  A Participant  may,
+however, file a separate election for death benefits payable under
+Section 5.4.  To be given effect under this Section 5.6, any
+distribution election for benefits payable under Section 5.3 must
+have been filed with Wal-Mart at least twenty-four (24) full calendar
+months before the occurrence of an event entitling the Participant to
+a distribution thereunder.  If a Participant's distribution election
+has not been on file with Wal-Mart for the full twenty-four (24)-
+month period, it will not be recognized or given effect by the Plan.
+In that event, distribution will be made in accordance with the
+Participant's most recent distribution election which was filed with
+Wal-Mart at least twenty-four (24) months prior to the Participant's
+Retirement, Early Retirement, or Disability.  The twenty-four (24)
+month period provided above shall not apply to amounts payable under
+Section 5.4.  For purposes of this Section 5.6, a Participant's last
+distribution election filed with Wal-Mart under a Prior Agreement
+will be given effect for the Participant's total Plan benefits until
+superseded or amended by the Participant in accordance with the
+provisions of this Section, except that death benefits under Section
+5.4 will be paid in a lump sum unless an affirmative election to the
+contrary is filed by the Participant.  If the Participant has not
+been a Participant in the Plan for at least twenty-four (24) months
+prior to the Participant's Retirement, Early Retirement, or Disabili-
+ty, the Participant's initial distribution election filed with Wal-
+Mart will be given effect.
+
+     5.7  Reductions Arising from a Participant's Gross Misconduct.
+
+     A Participant's Plan benefits are contingent upon the Partici-
+pant not engaging in Gross Misconduct while employed with Wal-Mart or
+any Related Affiliate, or during such additional period as provided
+in Wal-Mart's Statement of Ethics.  Notwithstanding anything herein
+to the contrary, in the event the Committee determines that the
+Participant has engaged in Gross Misconduct during the prescribed
+period:  (a) the Participant shall forfeit all Incentive Payments,
+and credited Plan earnings thereon; and (b) earnings credited to the
+Participant's Account derived from Deferred Compensation and Deferred
+Bonuses shall be recalculated for each Fiscal Year to reflect the
+amount which would otherwise have been credited if the applicable per
+annum rate were fifty percent (50%) of the per annum rate in effect
+for such Fiscal Year.  Under no circumstances will a Participant
+forfeit any portion of the Participant's Deferred Compensation or
+Deferred Bonuses.  Any payments received hereunder by a Participant
+(or the Participant's beneficiary) are contingent upon the Partici-
+pant not engaging (or not having engaged) in Gross Misconduct while
+employed with Wal-Mart or any Related Affiliate, or during such
+additional period as provided in Wal-Mart's Statement of Business
+Ethics.  If the Committee determines, after payment of amounts
+hereunder, that the Participant has engaged in Gross Misconduct
+during the prescribed period, the Participant (or the Participant's
+beneficiary) shall repay to Wal-Mart any amount in excess of that to
+which the Participant is entitled under this Section 5.7.
+
+     5.8  Distributions for Unforeseeable Emergencies.
+
+     In the event of an Unforeseeable Emergency, the Committee, in
+its sole and absolute discretion and upon written application of such
+Participant, may direct immediate distribution of all or a portion of
+the Participant's Plan benefits.  The Committee will permit
+distribution because of an Unforeseeable Emergency only to the extent
+reasonably needed to satisfy the emergency need.
+
+     Notwithstanding anything herein to the contrary, the provisions
+of this paragraph apply in the event a Participant receives a
+distribution under this Section 5.8, the Participant's Termination of
+Employment for any reason occurs on a date other than the last
+business day of a Fiscal Year (excluding for this purpose Saturday or
+Sunday), and the Participant's benefits hereunder for any reason are
+paid in the same Fiscal Year in which the Participant received a
+distribution for Unforeseeable Emergencies under this Section 5.8.
+In that event, the Participant's lump sum amount calculated under
+Sections 5.2, 5.3, or 5.4 will be reduced by the amount distributed
+under this Section 5.8 and the applicable interest equivalent will be
+calculated in a manner consistent with Section 4.1.
+
+                             ARTICLE VI
+                           ADMINISTRATION
+
+     6.1  General.
+
+     The Committee is responsible for the administration of the Plan
+and is granted the following rights and duties:
+
+          (a)  The Committee shall have the exclusive duty, authority
+     and discretion to interpret and construe the provisions of the
+     Plan, to determine eligibility for and the amount of any benefit
+     payable under the Plan, and to decide any dispute which may rise
+     regarding the rights of Participants (or their beneficiaries)
+     under this Plan;
+
+          (b)  The Committee shall have the sole and complete
+     authority to adopt, alter, and repeal such administrative rules,
+     regulations, and practices governing the operation of the Plan
+     as it shall from time to time deem advisable;
+
+          (c)  The Committee may appoint a person or persons to
+     assist the Committee in the day-to-day administration of the
+     Plan;
+
+          (d)  The decision of the Committee in matters pertaining to
+     this Plan shall be final, binding, and conclusive upon Wal-Mart,
+     the Participant, the Participant's beneficiary, and upon any
+     person affected by such decision, subject to the claims
+     procedure set forth in Article VII; and
+
+          (e)  In any matter relating solely to a Committee member's
+     individual rights or benefits under this Plan, such Committee
+     member shall not participate in any Committee proceeding
+     pertaining to, or vote on, such matter.
+
+                             ARTICLE VII
+                          CLAIMS PROCEDURE
+                                  
+     7.1  General.
+
+     Any claim for benefits under the Plan must be filed by the
+Participant or beneficiary ("claimant") in writing with the Committee
+or its delegate.  If a claim for a Plan benefit is wholly or
+partially denied, notice of the decision will be furnished to the
+claimant by the Committee or its delegate within a reasonable period
+of time, not to exceed sixty (60) days, after receipt of the claim by
+the Committee or its delegate.  Any claimant who is denied a claim
+for benefits will be furnished written notice setting forth:
+
+          (a)  the specific reason or reasons for the denial;
+
+          (b)  specific reference to the pertinent Plan provision
+     upon which the denial is based;
+
+          (c)  a description of any additional material or informa-
+     tion necessary for the claimant to perfect the claim; and
+
+          (d)  an explanation of the Plan's claim review procedure.
+
+     7.2  Appeals Procedure.
+
+     To appeal a denial of a claim, a claimant or the claimant's duly
+authorized representative:
+
+          (a)  may request a review by written application to the
+     Committee not later than sixty (60) days after receipt by the
+     claimant of the written notification of denial of a claim;
+
+          (b)  may review pertinent documents; and
+
+          (c)  may submit issues and comments in writing.
+
+     A decision on review of a denied claim will be made by the
+Committee not later than sixty (60) days after receipt of a request
+for review, unless special circumstances require an extension of time
+for processing, in which case a decision will be rendered within a
+reasonable period of time, but not later than one hundred twenty
+(120) days after receipt of a request for review.  The decision on
+review will be in writing and shall include the specific reasons for
+the denial and the specific references to the pertinent Plan
+provisions on which the decision is based.
+
+                            ARTICLE VIII
+                      MISCELLANEOUS PROVISIONS
+                                  
+     8.1  Amendment, Suspension or Termination of Plan.
+
+     Wal-Mart, by action of the Executive Committee its Board of
+Directors, reserves the right to amend, suspend or to terminate the
+Plan in any manner that it deems advisable.  Notwithstanding the
+preceding sentence, the Plan may not be amended, suspended or
+terminated to cause a Participant to forfeit the Participant's then-
+existing Account.
+
+     8.2  Non-Alienability.
+
+     The rights of a Participant to the payment of benefits as
+provided in the Plan may not be assigned, transferred, pledged or
+encumbered or be subject in any manner to alienation or anticipation.
+No Participant may borrow against the Participant's interest in the
+Plan.  No interest or amounts payable under the Plan may be subject
+in any manner to anticipation, alienation, sale, transfer,
+assignment, pledge, encumbrance, charge, garnishment, execution or
+levy of any kind, whether voluntary or involuntary, including but not
+limited to, any liability which is for alimony or other payments for
+the support of a spouse or former spouse, or for any other relative
+of any Participant.
+
+     8.3  No Employment Rights.
+
+     Nothing contained herein shall be construed as conferring upon
+the Participant the right to continue in the employ of Wal-Mart or
+any of its related affiliates as an officer or in any other capacity.
+
+     8.4  No Right to Bonus.
+
+     Nothing contained herein shall be construed as conferring upon
+the Participant the right to receive a bonus from the Wal-Mart
+Stores, Inc. Management Incentive Plan for Officers.  A Participant's
+entitlement to such a bonus is governed solely by the provisions of
+that plan.
+
+     8.5  Withholding and Employment Taxes.
+
+     To the extent required by law, Wal-Mart will withhold from a
+Participant's current compensation or from Plan distributions, as the
+case may be, such taxes as are required to be withheld for federal,
+state or local government purposes.
+
+
+
+
+     8.6  Income and Excise Taxes.
+
+     The Participant (or the Participant's beneficiaries or estate)
+is solely responsible for the payment of all federal, state and local
+income and excise taxes resulting from the Participant's
+participation in this Plan.
+
+     8.7  Successors and Assigns.
+
+     The provisions of this Plan are binding upon and inure to the
+benefit of Wal-Mart, its successors and assigns, and the Participant,
+the Participant's beneficiaries, heirs, and legal representatives.
+
+     8.8  Governing Law.
+
+     This Plan shall be subject to and construed in accordance with
+the laws of the State of Arkansas to the extent not preempted by
+federal law.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<TEXT>
+
+
+<TABLE>
+                      1996 End of Year Store Counts
+<CAPTION>
+                             Wal-Mart                      SAM'S
+                              Stores       Supercenters    Clubs
+<S>                          <C>               <C>         <C>  
+Alabama                         65              11           8
+Alaska                           3                           3
+Arizona                         31                           6
+Arkansas                        58              19           4
+California                      88                          26
+Colorado                        34               2           9
+Connecticut                      6                           3
+Delaware                         2                           1
+Florida                        116              16          34
+Georgia                         79               6          15
+Hawaii                           4                           1
+Idaho                            7                           1
+Illinois                       101               3          24
+Indiana                         66               6          14
+Iowa                            45                           6
+Kansas                          43               3           5
+Kentucky                        60               8           5
+Louisiana                       62              13           9
+Maine                           19                           3
+Maryland                        19                          10
+Massachusetts                   23                           5
+Michigan                        39                          21
+Minnesota                       33                           9
+Mississippi                     47              10           4
+Missouri                        81              27          11
+Montana                          6                           1
+Nebraska                        13               4           3
+Nevada                           9                           2
+New Hampshire                   15                           4
+New Jersey                      14                           6
+New Mexico                      19                           3
+New York                        46               4          17
+North Carolina                  82               1          13
+North Dakota                     8                           2
+Ohio                            70                          22
+Oklahoma                        61              17           6
+Oregon                          17
+Pennsylvania                    47               5          14
+Rhode Island                     4                           1
+South Carolina                  49               3           8
+South Dakota                     8                           1
+Tennessee                       69              19           9
+Texas                          185              56          51
+Utah                            13                           5
+Vermont                          1
+Virginia                        43               4          10
+Washington                      13                           2
+West Virginia                   12               2           3
+Wisconsin                       51                          11
+Wyoming                          9                           2
+
+TOTAL U.S.A.                 1,995             239         433
+
+Argentina                                        1           2
+Brazil                                           2           3
+Mexico                          85*             13          28
+Puerto Rico                      7                           4
+
+CANADA
+  Alberta                       14
+  British Columbia              12
+  Manitoba                       9
+  New Brunswick                  4
+  Newfoundland                   7
+  Nova Scotia                    6
+  NW Territories                 1
+  Ontario                       48
+  Quebec                        22
+  Saskatchewan                   8
+
+  TOTAL CANADA                 131
+
+GRAND TOTAL                  2,218             255         470
+</TABLE>
+[FN]
+* Includes 3 Superamas, 25 Bodegas, 4 Aurreras, 48 Vips and 5 Suburbias
+
+
+<TABLE>
+11-Year Financial Summary
+(Dollar amounts in millions except per share data)
+<CAPTION>
+
+                         1996      1995      1994      1993      1992      1991
+<S>                    <C>       <C>       <C>       <C>       <C>       <C>        
+Operating Results
+Net sales              $93,627   $82,494   $67,344   $55,484   $43,887   $32,602
+Net sales increase          13%       22%       21%       26%       35%       26%
+Comparative store
+ sales increase              4%        7%        6%       11%       10%       10%
+Other income - net       1,122       918       641       501       403       262
+Cost of sales           74,564    65,586    53,444    44,175    34,786    25,500      
+Operating, selling,
+ and general and
+ administrative         
+ expenses               14,951    12,858    10,333     8,321     6,684     5,152
+Interest costs:
+  Debt                     692       520       331       143       113        43   
+  Capital leases           196       186       186       180       153       126     
+Provision for income
+ taxes                   1,606     1,581     1,358     1,171       945       752   
+
+Net income               2,740     2,681     2,333     1,995     1,609     1,291   
+
+Per share of common stock:
+  Net income              1.19      1.17      1.02       .87       .70       .57
+  Dividends                .20       .17       .13       .11       .09       .07
+
+Financial Position
+Current assets         $17,331   $15,338   $12,114   $10,198   $ 8,575   $ 6,415
+Inventories at
+ replacement cost       16,300    14,415    11,483     9,780     7,857     6,207
+Less LIFO reserve          311       351       469       512       473       399  
+Inventories at 
+ LIFO cost              15,989    14,064    11,014     9,268     7,384     5,808
+Net property, plant,
+ and equipment and
+ capital leases         18,894    15,874    13,176     9,793     6,434     4,712
+Total assets            37,541    32,819    26,441    20,565    15,443    11,389
+Current liabilities     11,454     9,973     7,406     6,754     5,004     3,990
+Long-term debt           8,508     7,871     6,156     3,073     1,722       740
+Long-term obligations
+ under capital leases    2,092     1,838     1,804     1,772     1,556     1,159
+Shareholders' equity    14,756    12,726    10,753     8,759     6,990     5,366
+
+Financial Ratios
+Current ratio              1.5       1.5       1.6       1.5       1.7       1.6   
+Inventories/
+ working capital           2.7       2.6       2.3       2.7       2.1       2.4
+Return on assets*          8.3%     10.1%     11.3%     12.9%     14.1%     15.7%
+Return on shareholders'
+ equity*                  21.5%     24.9%     26.6%     28.5%     30.0%     32.6%
+
+
+
+Other Year-End Data
+Number of domestic
+ Wal-Mart Stores         1,995     1,985     1,950    1,848     1,714      1,568
+Number of domestic
+ Supercenters              239       147        72       34        10          9
+Number of domestic
+ SAM'S Clubs               433       426       417      256       208        148
+International units        276       226        24       10
+Average Wal-Mart
+ store size             91,100    87,600    83,900   79,800    74,700     70,700
+Number of associates   675,000   622,000   528,000  434,000   371,000    328,000
+Number of shareholders
+ of record             244,483   259,286   257,946  180,584   150,242    122,414
+</TABLE>
+[FN]
+* On beginning of year balances.
+
+<TABLE>
+11-Year Financial Summary
+(Dollar amounts in millions except per share data)
+<CAPTION>
+                         1990      1989      1988      1987      1986
+<S>                    <C>       <C>       <C>       <C>       <C>
+Operating Results
+Net sales              $25,811   $20,649   $15,959   $11,909   $ 8,451
+Net sales increase          25%       29%       34%       41%       32%
+Comparative store
+ sales increase             11%       12%       11%       13%        9%
+Other income - net         175       137       105        85        55
+Cost of sales           20,070    16,057    12,282     9,053     6,361
+Operating, selling,
+ and general and
+ administrative 
+ expenses                4,070     3,268     2,599     2,008     1,485
+Interest costs:
+  Debt                      20        36        25        10         2
+  Capital leases           118        99        89        76        55
+Provision for income
+ taxes                     632       488       441       396       276
+
+Net income               1,076       838       628       451       327
+
+Per share of common stock:
+  Net income               .48       .37       .28       .20       .15
+  Dividends                .06       .04       .03       .02       .02
+
+Financial Position
+Current assets        $  4,713   $ 3,631  $  2,905  $  2,353   $ 1,784
+Inventories at
+ replacement cost        4,751     3,642     2,855     2,185     1,528
+Less LIFO reserve          323       291       203       154       140
+Inventories at 
+ LIFO cost               4,428     3,351     2,652     2,031     1,388
+Net property, plant,
+   and equipment and
+   capital leases        3,430     2,662     2,145     1,676     1,303
+Total assets             8,198     6,360     5,132     4,049     3,104
+Current liabilities      2,845     2,066     1,744     1,340       993
+Long-term debt             185       184       186       179       181
+Long-term obligations
+ under capital leases    1,087     1,009       867       764       595
+Shareholders' equity     3,966     3,008     2,257     1,690     1,278
+
+Financial Ratios
+Current ratio              1.7       1.8       1.7       1.8       1.8
+Inventories/
+ working capital           2.4       2.1       2.3       2.0       1.8
+Return on assets*         16.9%     16.3%     15.5%     14.5%     14.8%
+Return on shareholders'
+ equity*                  35.8%     37.1%     37.1%     35.2%     33.3%
+
+
+Other Year-End Data
+Number of domestic
+ Wal-Mart Stores         1,399     1,259     1,114       980       859
+Number of domestic
+ Supercenters                6         3         2
+Number of domestic
+ SAM'S Clubs               123       105        84        49        23
+International units
+Average Wal-Mart
+ store size             66,400    63,500    61,500    59,000    57,000
+Number of associates   271,000   223,000   183,000   141,000   104,000
+Number of shareholders
+ of record              79,929    80,270    79,777    32,896    21,828
+</TABLE>
+[FN]
+* On beginning of year balances.
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Results of Operations
+
+Revenues
+Sales for the three fiscal years ended January 31, and the respective total and 
+comparable store percentage increases over the prior year were:
+
+                                       Total       Comparable
+Fiscal              Sales             Company        Store
+Year             (in millions)       Increases     Increases
+1996                $93,627             13%            4%
+1995                 82,494             22%            7%
+1994                 67,344             21%            6%
+
+The sales increase of 13% in fiscal 1996 compared with fiscal 1995 was 
+attributable to the Company's expansion program and comparative store sales 
+increases of 4%. Expansion for fiscal 1996 included the opening of 92 Wal-Mart 
+stores, 92 Supercenters (including the conversion of 80 Wal-Mart stores), 9 
+SAM'S Clubs and 50 International units. International sales accounted for 
+approximately 2.1% of the sales increase with the remainder primarily 
+attributed to Wal-Mart stores and Supercenters. SAM'S Clubs sales as a 
+percentage of total sales decreased from 22.9% in fiscal 1995 to 20.4% in fiscal
+1996.
+    The sales increase of 22% in fiscal 1995 compared with fiscal 1994 was 
+attributable to the Company's domestic expansion of 109 Wal-Mart stores, 75 
+Supercenters (including the conversion of 69 Wal-Mart stores), and 21 SAM'S 
+Clubs; comparative store sales increases of 7%; and the entry into the Canadian 
+market through the purchase of 122 stores from Woolworth Canada, Inc., a 
+subsidiary of Woolworth Corporation. SAM'S Clubs sales as a percentage of 
+total sales increased by 1.1%, part of which was attributable to the PACE
+units acquired in the fourth quarter of fiscal 1994. Canadian store sales 
+accounted for 1.5% of total sales in fiscal 1995.
+<TABLE>
+New Operating Locations                                1996     1995     1994
+<S>                                                    <C>       <C>      <C>
+Domestic units
+New Wal-Mart stores                                     92       109      141
+New Supercenters                                        12         6        1
+Wal-Mart stores relocated or expanded to Supercenters   80        69       37
+New SAM'S Clubs                                          9        21       63
+Acquired PACE Clubs                                                        99
+Total new domestic units                               193       205      341
+International units
+Acquired Canada Woolco stores                                    122
+Other new international units                           50        80       14
+Total new international units                           50       202       14
+Total new units                                        243       407      355
+</TABLE>
+
+Costs and Expenses
+Cost of sales as a percentage of sales increased .1% in both fiscal 1996
+and fiscal 1995 when compared to the preceding year. The change in fiscal
+1996 is comprised of an increase of approximately .3% due to a larger
+percentage of consolidated sales from departments within Wal-Mart stores
+which have lower markon percents, and to the Company's continuing
+commitment to always providing low prices. This increase is offset
+because the SAM'S Clubs comprised a lower percentage of consolidated
+sales in 1996 at a lower contribution to gross margin than the stores.
+The increase in fiscal 1995 is primarily due to a larger percentage of
+consolidated sales attributable to SAM'S Clubs resulting in part from the
+addition of the PACEClubs. The cost of sales in SAM'S Clubs is
+significantly higher as a percentage of sales than in Wal-Mart stores due
+to a lower markon on purchases.
+        Operating, selling, and general and administrative expenses as a
+percentage of sales increased .4% and .2%, respectively, in each of the
+last two fiscal years when compared to the previous year. Approximately
+ .2% of the increase in fiscal 1996 was due to increases in payroll and
+related benefit costs. The remainder of the increase resulted primarily
+from a lower percentage of sales attributable to SAM'S Clubs and a higher
+percentage of sales attributable to international operations. SAM'S Clubs
+operating, selling, and general and administrative expenses as a
+percentage of sales are lower than the Wal-Mart stores and Supercenters
+while international expenses are slightly higher. The increase in fiscal
+1995 was primarily attributable to the acquisition of the Canadian stores
+and higher payroll and related benefit costs.
+        Statement of Financial Accounting Standard (SFAS) No. 121
+"Accounting for the Impairment of Long-Lived Assets and for Long-Lived
+Assets to be Disposed Of" was issued in March 1995. The statement
+requires entities to review long-lived assets and certain intangible
+assets in certain circumstances, and if the value of the assets is
+impaired, an impairment loss shall be recognized. This statement will be
+effective for the Company's fiscal year ending January 31, 1997. The
+Company's existing accounting policie s are such that this pronouncement
+will not have a material effect on the Company's financial position or
+results of operations.
+        "Accounting for Stock-Based Compensation," SFAS No. 123, was
+issued in October 1995 and will be effective for the Company's fiscal
+year ending January 31, 1997. The statement relates to the measurement of
+compensation of stock options issued to employees. The statement gives
+entities a choice of recognizing related compensation expense by adopting
+a new fair value method determination or to continue to measure
+compensation using the former standard. If the former standard for
+measurement is elected, SFAS No. 123 requires supplemental disclosure to
+show the effects of using the new measurement criteria. The Company
+intends to continue using the measurement prescribed by the former
+standard, and accordingly, this pronouncement will not have an effect on
+the Company's financial position or results of operations.
+
+Interest Cost
+Interest cost increased in fiscal 1996 and 1995 due to increased
+indebtedness and increased average short-term borrowing rates in each of
+the years. The increased indebtedness is due to the Company's expansion
+program. See Note 2 of Notes to Consolidated Financial Statements for
+additional information on interest and debt.
+
+Income Taxes
+The effective income tax rate was 37.0% and 37.1% in fiscal 1996 and 1995
+respectively. See Note 4 of Notes to Consolidated Financial Statements
+for additional information on income taxes.
+
+
+Liquidity and Capital Resources
+
+Cash Flow Information
+Cash flow provided from operations was $2.4 billion in fiscal 1996. These
+funds combined with long-term borrowings of $1 billion and net short-term
+borrowings of $.7 billion were used to finance capital expenditures of
+$3.6 billion, to pay dividends, provide working capital, and to fund the
+operation of subsidiaries.
+Borrowing Information
+The Company had committed lines of credit of $1,900 million and informal
+lines totaling an additional $2,450 million with 35 banks which were used
+to support short-term borrowing and commercial paper. These lines of
+credit and their anticipated cyclical increases will be sufficient to
+finance the seasonal buildups in merchandise inventories and interim
+financing requirements for stores developed with sale/leaseback or other
+long-term financing objectives.
+        Favorable debt market conditions combined with the Company's
+ability to generate significant cash flows from operations have allowed
+the Company to aggressively expand during the past three years. In fiscal
+1996, the Company borrowed $1 billion at interest rates ranging from 6
+1/8% to 7% for terms of three to seven years.  Although the Company has
+borrowed to support the expansion, debt and equity have increased
+proportionately during the past three years. The Company's debt
+(including obligations under capital leases) to equity ratio was .74:1 at
+the end of fiscal 1996 compared to .77:1 and .75:1 at the end of fiscal
+1995 and 1994, respectively. In view of the Company's significant working
+capital, its consistent ability to generate working capital from
+operations and the availability of external financing, the Company
+foresees no difficulty in providing funds necessary to fulfill its
+working capital needs and to finance its estimated $3.5 billion capital
+expansion plan in fiscal 1997.
+
+Foreign Currency Translation
+The Company has operations in Puerto Rico, Canada, and Argentina, and
+through joint ventures in Mexico and Brazil. All foreign operations are
+measured in their local currencies with the exception of Brazil,
+operating in a highly inflationary economy, which reports operations
+using U.S. dollars. All foreign operations as a group are insignificant
+to the Company's consolidated results of operations and financial
+position. The foreign currency translation adjustment of $412 and $256
+million in fiscal 1996 and 1995, respectively, is primarily due to
+operations in Mexico. In fiscal 1995 the value of the peso dropped
+significantly in relation to the dollar and continued to decline in
+fiscal 1996. The Company continues to evaluate strategies to minimize the
+financial risk of currency devaluation. Although exposure to this risk
+exists, any further devaluation of the peso or other currencies should
+not significantly impact the Company's consolidated operations or
+financial position.
+
+Expansion
+Domestically, the Company plans to open 60 to 70 new Wal-Mart stores, and
+100 to 110 Supercenters. Approximately 90 of the Supercenters will come
+from relocations or expansions of existing Wal-Mart stores. The Company
+also plans to open 10 new SAM'S Clubs and three distribution centers.
+International expansion includes 25 to 30 new Wal-Mart stores,
+Supercenters, and SAM'S Clubs in Argentina, Brazil, Canada, China,
+Indonesia, Mexico and Puerto Rico.
+        Total capital expenditures for 1997 are not expected to exceed $3.5
+billion. The Company plans to primarily finance expansion with operating
+cash flows. The Company may also provide for cash needs through short-
+term borrowings backed up by the credit lines discussed above and also
+may sell $751 million of public debt utilizing shelf registration
+statements previously filed with the Securities and Exchange Commission
+to provide for other cash needs.
+
+<TABLE>
+Consolidated Statements of Income
+(Amounts in millions except per share data)
+<CAPTION>
+Fiscal years ended January 31,     1996        1995          1994
+<S>                                <C>         <C>          <C>
+Revenues:
+      Net sales                    $93,627     $82,494      $67,344
+      Other income - net             1,122         918          641
+                                    94,749      83,412       67,985
+Costs and Expenses:
+      Cost of sales                 74,564      65,586       53,444
+      Operating, selling, and 
+      general and administrative 
+      expenses                      14,951      12,858       10,333
+
+Interest Costs:
+      Debt                             692         520          331
+      Capital leases                   196         186          186
+                                    90,403      79,150       64,294
+
+Income Before Income Taxes           4,346       4,262        3,691
+Provision for Income Taxes:
+      Current                        1,530       1,572        1,325
+      Deferred                          76           9           33
+                                     1,606       1,581        1,358
+      Net Income                   $ 2,740     $ 2,681      $ 2,333
+
+Net Income Per Share               $  1.19     $  1.17      $  1.02
+</TABLE>
+[FN]
+See accompanying notes.
+
+<TABLE>
+<CAPTION>
+Net Income
+(Millions of Dollars) (Graph)
+<S>    <C>    <C>    <C>     <C>     <C>     <C>     <C>     <C>     <C>
+1987   1988   1989    1990    1991    1992    1993    1994    1995    1996
+ 451    628    838   1,076   1,291   1,609   1,995   2,333   2,681   2,740
+</TABLE>
+
+<TABLE>
+Consolidated Balance Sheets
+(Amounts in millions)
+<CAPTION>
+
+January 31,                                       1996          1995
+<S>                                          <C>            <C>
+Assets
+Current Assets:
+     Cash and cash equivalents               $       83     $       45
+     Receivables                                    853            900
+     Inventories:
+       At replacement cost                       16,300         14,415
+       Less LIFO reserve                            311            351
+         Inventories at LIFO cost                15,989         14,064
+     Prepaid expenses and other                     406            329
+Total Current Assets                             17,331         15,338
+Property, Plant, and Equipment, at Cost:
+Land                                              3,559          3,036
+Buildings and improvements                       11,290          8,973
+Fixtures and equipment                            5,665          4,768
+Transportation equipment                            336            313
+                                                 20,850         17,090
+Less accumulated depreciation                     3,752          2,782
+  Net property, plant, and equipment             17,098         14,308
+Property under capital leases                     2,476          2,147
+Less accumulated amortization                       680            581
+  Net property under capital leases               1,796          1,566
+Other Assets and Deferred Charges                 1,316          1,607
+Total Assets                                    $37,541        $32,819
+
+
+Liabilities and Shareholders' Equity
+Current Liabilities:
+Commercial paper                               $ 2,458        $ 1,795
+Accounts payable                                 6,442          5,907
+Accrued liabilities                              2,091          1,819
+Accrued federal and state income taxes             123            365
+Long-term debt due within one year                 271             23
+Obligations under capital leases 
+ due within one year                                69             64
+  Total Current Liabilities                     11,454          9,973
+
+Long-Term Debt                                   8,508          7,871
+Long-Term Obligations Under Capital Leases       2,092          1,838
+Deferred Income Taxes and Other                    731            411
+
+Shareholders' Equity:
+Preferred stock ($.10 par value;
+     100 shares authorized, none issued)
+Common stock ($.10 par value;
+     5,500 shares authorized, 2,293 and 2,297
+     issued and outstanding in 1996 and 1995,
+     respectively)                                 229            230
+Capital in excess of par value                     545            539
+Retained earnings                               14,394         12,213
+Foreign currency translation adjustment           (412)          (256)
+   Total Shareholders' Equity                   14,756         12,726
+Total Liabilities and Shareholders' Equity     $37,541        $32,819
+</TABLE>
+[FN]
+See accompanying notes.
+
+
+<TABLE>
+Consolidated Statements of Shareholders'Equity
+(Amounts in millions except per share data)
+<CAPTION>
+                                                                       Foreign
+                                               Capital in             currency
+                            Number    Common   excess of   Retained  translation
+                           of shares  stock    par value   earnings  adjustment   Total
+<S>                          <C>      <C>         <C>      <C>         <C>       <C>       
+Balance - January 31, 1993   2,300    $230        $527     $ 8,003     $  -      $ 8,760
+   Net income                                                2,333                 2,333        
+   Cash dividends      
+       ($.13 per share)                                       (299)                 (299)    
+   Other                        (1)                  9         (50)                  (41)
+
+Balance - January 31, 1994   2,299     230         536       9,987       -        10,753
+   Net income                                                2,681                 2,681
+   Cash dividends
+       ($.17 per share)                                       (391)                 (391)
+   Foreign currency
+    translation adjustment                                             (256)        (256)
+   Other                        (2)                  3        (64)                   (61)
+
+Balance - January 31, 1995   2,297     230         539     12,213      (256)      12,726            
+   Net income                                               2,740                  2,740
+   Cash dividends
+        ($.20 per share)                                     (458)                  (458)
+   Foreign currency
+    translation adjustment                                             (156)        (156)
+   Other                        (4)     (1)          6       (101)                   (96)
+
+
+Balance - January 31, 1996   2,293    $229        $545    $14,394     $(412)     $14,756
+</TABLE>
+[FN]
+See accompanying notes.
+
+
+<TABLE>
+Consolidated Statements of Cash Flows
+(Amounts in millions)
+<CAPTION>
+Fiscal years ended January 31,                  1996      1995      1994
+<S>                                           <C>       <C>       <C>
+Cash flows from operating activities:
+   Net income                                    $ 2,740   $ 2,681   $ 2,333
+Adjustments to reconcile net income to 
+ net cash provided by operating activities:
+   Depreciation and amortization                   1,304     1,070        849
+   Increase in accounts receivable                   (61)      (84)      (165)
+   Increase in inventories                        (1,850)   (3,053)    (1,324)
+   Increase in accounts payable                      448     1,914        230
+   Increase in accrued liabilities                    29       496        327
+   Other                                            (227)     (118)       (55)
+Net cash provided by operating activities          2,383     2,906      2,195
+Cash flows from investing activities:
+   Payments for property, plant, and equipment    (3,566)   (3,734)    (3,644)
+   Acquisition of assets from PACE
+      Membership Warehouses, Inc.                     -         -        (830)
+   Acquisition of assets from Woolworth
+      Canada, Inc.                                    -       (352)        -
+   Sale/leaseback arrangements                        -        502        272
+   Investment in international operations            (57)     (434)      (198)
+   Other investing activities                        291       226        (86)
+Net cash used in investing activities             (3,332)   (3,792)    (4,486)
+Cash flows from financing activities:
+   Increase (decrease) in commercial paper           660       220        (14)
+   Proceeds from issuance of long-term debt        1,004     1,250      3,108
+   Dividends paid                                   (458)     (391)      (299)
+   Payment of long-term debt                        (126)      (37)       (19)
+   Payment of capital lease obligations              (81)      (70)      (437)
+   Other financing activities                        (12)      (61)       (40)
+Net cash provided by financing activities            987       911      2,299
+Net increase in cash and cash equivalents             38        25          8
+Cash and cash equivalents at beginning of year        45        20         12
+Cash and cash equivalents at end of year       $      83 $      45  $      20
+
+Supplemental disclosure of cash flow information:
+   Income tax paid                             $   1,785 $   1,390  $   1,366
+   Interest paid                                     866       658        450
+   Capital lease obligations incurred                365       193        162
+</TABLE>
+[FN]
+See accompanying notes.
+
+
+Notes to Consolidated Financial Statements
+
+1  Summary of Significant Accounting Policies
+
+Segment information
+The Company and its subsidiaries are principally engaged in the operation
+of mass merchandising stores located in all 50 states, Puerto Rico,
+Canada, and Argentina, and through joint ventures in Mexico and Brazil.
+
+Consolidation
+The consolidated financial statements include the accounts of
+subsidiaries. Significant intercompany transactions have been eliminated
+in consolidation.
+
+Cash and cash equivalents
+The Company considers investments with a maturity of three months or less
+when purchased to be "cash equivalents."
+
+Inventories
+Inventories are stated principally at cost (last-in, first-out), which is
+not in excess of market, using the retail method for inventories in
+stores.
+
+Pre-opening costs
+Costs associated with the opening of stores are expensed during the first
+full month of operations. The costs are carried as prepaid expenses prior
+to the store opening.
+
+Interest during construction
+In order that interest costs properly reflect only that portion relating
+to current operations, interest on borrowed funds during the construction
+of property, plant, and equipment is capitalized. Interest costs
+capitalized were $50 million, $70 million, and $65 million in 1996, 1995,
+and 1994, respectively.
+
+Depreciation and amortization
+Depreciation and amortization for financial statement purposes is
+provided on the straight-line method over the estimated useful lives of
+the various assets. For income tax purposes, accelerated methods are used
+with recognition of deferred income taxes for the resulting temporary
+differences.
+
+Long-lived assets
+In March 1995, the Financial Accounting Standards Board (FASB) issued
+Statement No. 121, Accounting for the Impairment of Long-Lived Assets and
+for Long-Lived Assets to be Disposed Of, which requires impairment losses
+to be recorded on long-lived assets used in operations when indicators of
+impairment are present and the undiscounted cash flows estimated to be
+generated by those assets are less than the assets' carrying amount.
+Statement  121 also addresses the accounting for long-lived assets that
+are expected to be disposed of. The Company will adopt Statement 121 in
+the first quarter of 1997 and, based on current circumstances, does not
+believe the effect of adoption will be material.
+
+Operating, selling, and general and administrative expenses
+Buying, warehousing, and occupancy costs are included in operating,
+selling, and general and administrative expenses.
+
+Net income per share
+Net income per share is based on the weighted average outstanding common
+shares. The dilutive effect of stock options is insignificant and
+consequently has been excluded from the earnings per share computations.
+
+Stock options
+Proceeds from the sale of common stock issued under the stock option
+plans and related tax benefits which accrue to the Company are accounted
+for as capital transactions, and no charges or credits are made to income
+in connection with the plans.
+
+Estimates and assumptions
+The preparation of consolidated financial statements in conformity with
+generally accepted accounting principles requires management to make
+estimates and assumptions. These estimates and assumptions affect the
+reported amounts of assets and liabilities and disclosure of contingent
+assets and liabilities at the date of the consolidated financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+
+2 Commercial Paper and Long-term Debt
+
+Information on short-term borrowings and interest rates is as follows
+(dollar amounts in millions):
+Fiscal years ended January 31,               1996      1995      1994
+Maximum amount outstanding at month-end     $3,686    $2,729    $2,395
+Average daily short-term borrowings          2,106     1,693     1,247
+Weighted average interest rate                 5.9%      4.4%      3.0%
+
+    On January 31, 1996, the Company had committed lines of credit of
+$1,900 million and informal lines of credit totaling an additional $2,450
+million with 35 banks, which were used to support short-term borrowings
+and commercial paper.
+
+    Short-term borrowings under these lines of credit bear interest at or
+below the prime rate.
+<TABLE>
+<CAPTION>
+    Long-term debt at January 31 consists of
+    (amounts in millions):
+                                                             1996       1995
+<S>            <C>                                         <C>       <C>
+8 5\8%         Notes due April 2001                        $   750   $   750
+5 7\8%         Notes due October 2005                          750       750
+9 1\10%        Notes due July 2000                             500       500
+5 1\2%         Notes due September 1997                        500       500
+6 1\8%         Notes due October 1999                          500       500
+5 1\2%         Notes due March 1998                            500       500
+6 1\2%         Notes due June 2003                             500       500
+7 1\4%         Notes due June 2013                             500       500
+7 1\2%         Notes due May 2004                              500       500
+7 8\10%-8 1\4% Obligations from sale/leaseback 
+                 transactions due 2014                         478       484
+7% - 8%        Obligations from sale/leaseback 
+                  transactions due 2013                        318       322
+6 3\4%         Notes due May 2002                              300        -
+6 3\8%         Notes due March 2003                            250       250
+6 3\4%         Notes due October 2023                          250       250
+8%             Notes due September 2006                        250       250
+8 1\2%         Notes due September 2024                        250       250
+6 7\8%         Eurobond due June 1999                          250       250
+5 1\8%         Eurobond due October 1998                       250       250
+7%             Eurobond due April 1998                         250        -
+6 1\8%         Eurobond due November 2000                      250        -
+6 3\4%         Eurobond due May 2002                           200        -
+8%             Notes due May 1996                                -       250
+10 7\8%        Debentures due August 2000                        -       100
+               Other                                           212       215
+                                                            $8,508    $7,871
+</TABLE>
+
+    Long-term debt is unsecured except for $213 million which is
+collateralized by property with an aggregate carrying value of
+approximately $351 million. Annual maturities of long-term debt during
+the next five years are (in millions):
+<TABLE>
+<CAPTION>
+Fiscal years ending                                        Annual
+January 31,                                               maturity
+<S>                                                       <C>
+1997                                                      $  271
+1998                                                         525
+1999                                                       1,025
+2000                                                         807
+2001                                                       2,065
+Thereafter                                                 4,086
+</TABLE>
+
+    The Company has agreed to observe certain covenants under the terms
+of its note and debenture agreements the most restrictive of which
+relates to amounts of additional secured debt and long-term leases.
+
+    The Company has entered into sale/leaseback transactions involving
+buildings while retaining title to the underlying land. These
+transactions were accounted for as financings and are included in long-
+term debt and the annual maturities schedules above. The resulting
+obligations are amortized over the lease terms. Future minimum lease
+payments for each of the five succeeding years as of January 31, 1996 are
+(in millions):
+<TABLE>
+<CAPTION>
+Fiscal years ending                                         Minimum
+January 31,                                                 Rentals
+<S>                                                         <C>
+1997                                                        $   72
+1998                                                            76
+1999                                                            76
+2000                                                           104
+2001                                                           100
+Thereafter                                                   1,009
+</TABLE>
+
+    The fair value of the Company's long-term debt approximates $8,960
+million based on the Company's current incremental borrowing rate for
+similar types of borrowing arrangements. The carrying amount of the short-
+term borrowings approximates fair value.
+
+    As of January 31, 1996 and 1995, the Company had letters of credit
+outstanding totaling $551 and $580 million, respectively. These letters
+of credit were issued primarily for the purchase of inventory.
+
+    The Company has guaranteed the indebtedness of a joint venture for
+the development of real estate in Puerto Rico. On January 31, 1996, the
+amount guaranteed was approximately $85 million. The Company does not
+anticipate any joint venture defaults.
+
+    Under shelf registration statements previously filed with the
+Securities and Exchange Commission, the Company may issue debt securities
+aggregating $751 million.
+
+
+3  Defined Contribution Plan
+
+The Company maintains a profit sharing plan under which most full and
+many part-time Associates become participants following one year of
+employment. Annual contributions, based on the profitability of the
+Company, are made at the sole discretion of the Company. Contributions
+were $204 million, $175 million, and $166 million in 1996, 1995, and 1994, 
+respectively.
+
+
+4  Income Taxes
+
+The income tax provision consists of the following
+(in millions):
+                                  1996      1995      1994
+Current:
+Federal                           $1,342    $1,394    $1,193
+State and local                      188       178       132
+Total current tax provision        1,530     1,572     1,325
+Deferred:
+     Federal                          61         7        30
+     State and local                  15         2         3
+Total deferred tax provision          76         9        33
+Total provision for income taxes  $1,606    $1,581    $1,358
+
+    Items that give rise to significant portions of the deferred
+    tax accounts at January 31 are as follows (in millions):
+    
+                                        1996      1995      1994
+Deferred tax liabilities:
+   Property, plant, and equipment       $617      $518      $408
+   Inventory                             135        88        38
+   Other                                  19         8         9
+Total deferred tax liabilities           771       614       455
+Deferred tax assets:
+   Amounts accrued for financial 
+     reporting purposes not yet 
+     deductible for tax purposes         204       230       114
+   Capital leases                        147       114        95
+   Other                                 150        33        18
+Total deferred tax assets                501       377       227
+Net deferred tax liabilities            $270      $237      $228
+
+
+   A reconciliation of the significant differences between
+   the effective income tax rate and the federal statutory rate
+   on pretax income follows:
+
+                                        1996      1995      1994
+Statutory tax rate                      35.0%     35.0%     35.0%
+State income taxes, 
+  net of federal income tax benefit      3.1       2.7       2.4
+Other                                   (1.1)     (0.6)     (0.6)
+Effective tax rate                      37.0%     37.1%     36.8%
+
+
+5  Acquisitions
+
+In two unrelated cash transactions during fiscal 1994, the Company
+acquired selected assets of PACE Membership Warehouses, Inc., including
+the right to operate 107 of PACE's former locations, for $830 million,
+recording $336 million of goodwill which is being amortized over 25
+years.
+
+    In fiscal 1995, the Company acquired selected assets related to 122
+Woolco stores in Canada from Woolworth Canada, Inc., a subsidiary of
+Woolworth Corporation, for approximately $352 million, recording $221
+million of leasehold and location value which is being amortized over 20
+years. These transactions have been accounted for as purchases. The
+results of operations for the acquired units since the dates of their
+acquisitions have been included in the Company's results. Pro forma
+results of operations are not presented due to insignificant differences
+from the historical results.
+
+6  Stock Option Plans
+
+At January 31, 1996, 75 million shares of common stock were reserved for
+issuance under stock option plans. The options granted under the stock
+option plans expire 10 years from the date of grant. Options granted
+prior to November 1995 may be exercised in nine annual installments.
+Options granted after November 1995 may be exercised in seven annual
+installments. Further information concerning the options is as follows:
+<TABLE>
+<CAPTION>
+                                              Option price
+                                  Shares        per share         Total
+<S>                             <C>            <C>            <C>
+Shares under option
+      January 31, 1993          14,464,000     $ 1.43-30.82   $234,860,000
+          Options Granted        3,550,000      25.00-27.25     90,377,000
+          Options Cancelled       (803,000)      1.43-30.82    (17,325,000)
+          Options Exercised     (1,335,000)      1.43-30.82     (9,664,000)
+      January 31, 1994          15,876,000       1.43-30.82    298,248,000
+          Options Granted        4,125,000      21.63-26.75     95,689,000
+          Options Cancelled     (1,013,000)      1.43-30.82    (23,127,000)
+          Options Exercised     (1,019,000)      2.08-27.25     (7,829,000)
+      January 31, 1995          17,969,000       2.78-30.82    362,981,000
+          Options Granted        7,114,000      23.50-24.75    167,959,000
+          Options Cancelled     (1,953,000)      3.75-30.82    (43,873,000)
+          Options Exercised     (1,101,000)      2.78-25.38     (9,678,000)
+      January 31, 1996          22,029,000     $ 2.78-30.82   $477,389,000
+      (5,011,000 shares exerciseable)
+
+      Shares available for option
+          January 31, 1995      58,107,000
+          January 31, 1996      52,946,000
+</TABLE>
+
+7  Long-term Lease Obligations
+
+The Company and certain of its subsidiaries have long-term leases for
+stores and equipment. Rentals (including, for certain leases, amounts
+applicable to taxes, insurance, maintenance, other operating expenses,
+and contingent rentals) under all operating leases were $531 million in
+1996, $479 million in 1995, and $361 million in 1994. Aggregate minimum
+annual rentals at January 31, 1996, under non-cancelable leases are as
+follows (in millions):
+
+Fiscal                                  Operating       Capital
+years                                     leases         leases
+1997                                     $   382        $   263
+1998                                         417            285
+1999                                         358            284
+2000                                         343            282
+2001                                         317            279
+Thereafter                                 3,117          3,087
+Total minimum rentals                     $4,934          4,480
+
+Less estimated executory costs                               83
+Net minimum lease payments                                4,397
+Less imputed interest at rates 
+  ranging from 6.1% to 14.0%                              2,236
+Present value of minimum lease payments                  $2,161
+
+
+Certain of the leases provide for contingent additional rentals based on
+percentage of sales. Such additional rentals amounted to $41 million, $42
+million, and $27 million in 1996, 1995, and 1994, respectively.
+Substantially all of the store leases have renewal options for additional
+terms from five to 25 years at comparable rentals.
+
+    The Company has entered into lease commitments for land and buildings
+for 34 future locations. These lease commitments with real estate
+developers or through sale/leaseback arrangements provide for minimum
+rentals for 20 to 25 years, excluding renewal options, which, if
+consummated based on current cost estimates, will approximate $32 million
+annually over the lease terms.
+
+
+8  Quarterly Financial Data (Unaudited)
+<TABLE>
+<CAPTION>
+                                        Quarters ended
+Amounts in millions
+(except per share information)         
+1996                   April 30,   July 31,   October 31,  January 31, 
+<S>                      <C>       <C>         <C>           <C>
+Net sales                $20,440   $22,723     $22,913       $27,551
+Cost of sales             16,196    18,095      18,176        22,097
+Net income                   553       633         612           942
+Net income per share     $   .24   $   .28     $   .27       $   .41
+
+1995
+Net sales                $17,686   $19,942     $20,418       $24,448
+Cost of sales             14,063    15,960      16,201        19,362
+Net income                   498       565         588         1,030
+Net income per share     $   .22   $   .25     $   .26       $   .45
+</TABLE>
+
+<TABLE>
+<CAPTION>
+Market Price Of Common Stock
+
+                     Fiscal years ended January 31,
+                       1996               1995
+Quarter           High       Low      High      Low
+<S>              <C>       <C>       <C>       <C>
+April 30         $26.00    $23.13    $29.13    $24.00
+July 31           27.50     23.00     25.88     22.75
+October 31        26.00     21.63     26.00     22.75
+January 31        24.75     19.25     24.13     20.88
+</TABLE>
+<TABLE>
+<CAPTION>
+Dividends Paid Per Share
+                         Fiscal years ended January 31,
+                                 Quarterly
+           1996                              1995
+<S>             <C>                 <C>             <C>
+April 14        $0.0500             April 14        $0.0425
+July 10          0.0500             July 8           0.0425
+October 3        0.0500             October 3        0.0425
+January 5        0.0500             January 5        0.0425
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<TEXT>
+
+SUBSIDIARIES OF WAL-MART STORES, INC.
+
+
+                                                               NAME UNDER
+                                             PERCENT OF        WHICH DOING
+                                               EQUITY           BUSINESS
+                              STATE OF       SECURITIES        OTHER THAN
+SUBSIDIARY                  INCORPORATION      OWNED          SUBSIDIARY'S
+
+
+McLane Company, Inc.,          Texas            100             Wal-Mart
+and its subsidiaries
+
+
+
+                                      EXHIBIT 21
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<TEXT>
+
+                      CONSENT OF INDEPENDENT AUDITORS
+                                     
+
+      We  consent  to the incorporation by reference in this Annual  Report
+(Form  10-K) of Wal-Mart Stores, Inc. of our report dated March  25,  1996,
+included in the 1996 Annual Report to Shareholders of Wal-Mart Stores, Inc.
+
+      We also consent to the incorporation by reference of our report dated
+March  25,  1996, with respect to the consolidated financial statements  of
+Wal-Mart Stores, Inc. incorporated by reference in this Annual Report (Form
+10-K)  for  the year ended January 31, 1996, in the following  registration
+statements and related prospectuses.
+
+
+     The Wholesale Club, Inc.
+      Incentive Stock Option Plan
+      of Wal-Mart Stores, Inc.          Form S-8       File No. 33-42617
+
+     Associate Stock Purchase Plan
+      of Wal-Mart Stores, Inc.          Form S-8       File No. 2-64662
+
+     Stock Option Plan of 1984 of
+      Wal-Mart Stores, Inc., as         Form S-8       File No. 2-94358
+      amended                                            and 33-43315
+
+     Stock Option Plan of 1994 of
+      Wal-Mart Stores, Inc.             Form S-8       File No. 33-55235
+
+     Debt Securities and Pass-
+      Through Certificates of
+      Wal-Mart Stores, Inc.             Form S-3       File No. 33-55725
+
+     Directors Deferred Compensation
+      Plan of Wal-Mart Stores, Inc.     Form S-8       File No. 33-55178
+
+     Debt Securities of Wal-Mart
+      Stores, Inc.                      Form S-3       File No. 33-53125
+
+
+
+                                             ERNST & YOUNG LLP
+
+
+Tulsa, Oklahoma
+April 22, 1996
+
+                                             EXHIBIT 23
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JAN-31-1996
+<PERIOD-END>                               JAN-31-1996
+<CASH>                                              83
+<SECURITIES>                                         0
+<RECEIVABLES>                                      853
+<ALLOWANCES>                                         0
+<INVENTORY>                                     15,989
+<CURRENT-ASSETS>                                17,331
+<PP&E>                                          20,850
+<DEPRECIATION>                                   3,752
+<TOTAL-ASSETS>                                  37,541
+<CURRENT-LIABILITIES>                           11,454
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           229
+<OTHER-SE>                                      14,527
+<TOTAL-LIABILITY-AND-EQUITY>                    37,541
+<SALES>                                         93,627
+<TOTAL-REVENUES>                                94,749
+<CGS>                                           74,564
+<TOTAL-COSTS>                                   90,403
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 888
+<INCOME-PRETAX>                                  4,346
+<INCOME-TAX>                                     1,606
+<INCOME-CONTINUING>                              2,740
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     2,740
+<EPS-PRIMARY>                                     1.19
+<EPS-DILUTED>                                     1.19
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
